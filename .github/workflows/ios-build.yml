@@ -1,0 +1,48 @@
+name: iOS build
+on:
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  unsigned-build:
+    runs-on: macos-15
+    timeout-minutes: 30
+    env:
+      DEVELOPER_DIR: /Applications/Xcode_26.3.app/Contents/Developer
+    steps:
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4
+      - uses: actions/setup-node@49933ea5288caeca8642d1e84afbd3f7d6820020 # v4
+        with:
+          node-version: '24'
+          cache: npm
+      - run: xcodebuild -version
+      - run: npm ci
+      - run: npm run typecheck
+      - run: npm test
+      - run: npm run mobile:sync
+      - run: npm run mobile:test
+      - name: Build simulator app (unsigned)
+        run: >-
+          xcodebuild -project mobile/ios/App/App.xcodeproj -scheme App
+          -configuration Release -sdk iphonesimulator
+          -destination 'generic/platform=iOS Simulator'
+          -derivedDataPath work/ios-simulator CODE_SIGNING_ALLOWED=NO build
+      - name: Build device app (unsigned)
+        run: >-
+          xcodebuild -project mobile/ios/App/App.xcodeproj -scheme App
+          -configuration Release -sdk iphoneos
+          -destination 'generic/platform=iOS'
+          -derivedDataPath work/ios-device CODE_SIGNING_ALLOWED=NO build
+      - name: Package development artifacts
+        run: |
+          mkdir -p work/ios-artifacts
+          ditto -c -k --sequesterRsrc --keepParent work/ios-simulator/Build/Products/Release-iphonesimulator/App.app work/ios-artifacts/Meridian-Atlas-simulator.zip
+          ditto -c -k --sequesterRsrc --keepParent work/ios-device/Build/Products/Release-iphoneos/App.app work/ios-artifacts/Meridian-Atlas-device-UNSIGNED.zip
+          cp docs/IOS.md docs/IOS-PRIVACY.md docs/IOS-SUBMISSION.md work/ios-artifacts/
+          shasum -a 256 work/ios-artifacts/*.zip > work/ios-artifacts/SHA256SUMS.txt
+      - uses: actions/upload-artifact@ea165f8d65b6e75b540449e92b4886f43607fa02 # v4
+        with:
+          name: iphone-development-builds
+          path: work/ios-artifacts/
+          if-no-files-found: error
+          retention-days: 7

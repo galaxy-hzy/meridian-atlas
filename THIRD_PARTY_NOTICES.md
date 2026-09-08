@@ -30,3 +30,7 @@ The source links supplied by the application are references, not statements that
 ## Reporting a rights issue
 
 Please open a repository issue identifying the exact path, source and claimed rights, without uploading restricted material. Contributions must preserve provenance and applicable licenses.
+
+## iPhone container
+
+The optional iPhone client uses Capacitor and its Browser plugin (MIT, Drifty Co.). The original notice is included in `LICENSES/Capacitor-MIT.txt` and in the app. Native build dependencies retain their own notices and privacy manifests.

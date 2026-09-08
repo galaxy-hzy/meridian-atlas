@@ -52,3 +52,18 @@ __pycache__/
 !/CONTRIBUTING.md
 !/THIRD_PARTY_NOTICES.md
 /BODY-REFERENCE-COMPARISON.png
+
+# Native build output and private signing material
+/dist-mobile/
+/mobile/ios/App/App/public/
+/mobile/ios/App/App/capacitor.config.json
+/mobile/ios/App/Pods/
+/mobile/ios/App/build/
+/mobile/ios/**/xcuserdata/
+/mobile/ios/**/.build/
+*.p12
+*.mobileprovision
+*.keystore
+*.jks
+*.ipa
+*.xcarchive/
