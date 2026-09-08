@@ -1,3 +1,4 @@
+import noble from '../node_modules/@noble/hashes/LICENSE?raw';
 import agpl from '../LICENSE?raw';
 import notices from '../THIRD_PARTY_NOTICES.md?raw';
 import capacitor from '../LICENSES/Capacitor-MIT.txt?raw';
@@ -11,7 +12,7 @@ export default function LegalNotices() {
     {[
       ['GNU AGPL-3.0-only', agpl], ['第三方与模型声明', notices],
       ['Capacitor', capacitor], ['React', react], ['React DOM', reactDom],
-      ['Three.js', three], ['pinyin-pro', pinyin],
+      ['Three.js', three], ['pinyin-pro', pinyin], ['noble-hashes', noble],
     ].map(([name, text]) => <details key={name}>
       <summary>{name}</summary><pre style={{ whiteSpace: 'pre-wrap', overflowWrap: 'anywhere', fontSize: 12 }}>{text}</pre>
     </details>)}

@@ -8,6 +8,7 @@ Generated from the pinned package-lock.json. Each dependency retains its own ter
 | @capacitor/cli | 8.5.1 | MIT |
 | @capacitor/core | 8.5.1 | MIT |
 | @capacitor/ios | 8.5.1 | MIT |
+| @noble/hashes | 2.4.0 | MIT |
 | @base-ui/react | 1.7.0 | MIT |
 | @cloudflare/vite-plugin | 1.54.5 | MIT |
 | @cloudflare/workers-types | 5.20260907.1 | MIT OR Apache-2.0 |

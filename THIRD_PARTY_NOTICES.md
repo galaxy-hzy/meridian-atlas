@@ -34,3 +34,5 @@ Please open a repository issue identifying the exact path, source and claimed ri
 ## iPhone container
 
 The optional iPhone client uses Capacitor and its Browser plugin (MIT, Drifty Co.). The original notice is included in `LICENSES/Capacitor-MIT.txt` and in the app. Native build dependencies retain their own notices and privacy manifests.
+
+Model integrity verification can use noble-hashes (MIT, Paul Miller and contributors) where Web Crypto is unavailable. Its notice is also included in the iPhone app.

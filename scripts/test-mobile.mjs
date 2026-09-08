@@ -1,7 +1,8 @@
+import { assetSha256 } from '../lib/asset-hash.ts';
 import { test } from 'node:test';
 import assert from 'node:assert/strict';
 import { readFileSync, readdirSync } from 'node:fs';
-import { createHash } from 'node:crypto';
+import { createHash, webcrypto } from 'node:crypto';
 import { resolveMobileLink, mobileMode } from '../mobile/navigation.ts';
 const base = 'capacitor://localhost/';
 test('local links preserve comparison queries on the custom iOS origin', () => {
@@ -28,5 +29,15 @@ test('the native build uses bundled assets and a restrictive network policy', ()
   for(const f of readdirSync('dist-mobile/assets')) {
     if(!/\.(js|css)$/.test(f))continue;
     assert.doesNotMatch(readFileSync('dist-mobile/assets/'+f,'utf8'),/\.chatgpt\.site|appgprj_|\/(?:home|Users)\//);
+  }
+});
+
+test('bundled model hashes match native crypto and the WebView fallback', async () => {
+  for (const bytes of [new Uint8Array(), new TextEncoder().encode('abc'), new Uint8Array(readFileSync('public/models/human-learning.glb'))]) {
+    const expected = createHash('sha256').update(bytes).digest('hex');
+    const buffer = bytes.buffer.slice(bytes.byteOffset, bytes.byteOffset + bytes.byteLength);
+    assert.equal(await assetSha256(buffer, webcrypto.subtle), expected);
+    // null explicitly exercises the no-Web-Crypto runtime rather than the default parameter.
+    assert.equal(await assetSha256(buffer, null), expected);
   }
 });

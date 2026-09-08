@@ -1,4 +1,5 @@
 'use client';
+import { assetSha256 } from '../lib/asset-hash';
 import { observeGraphicsContext } from '../lib/graphics-lifecycle';
 import { createPickGesture } from '../lib/pick-gesture';
 import { useEffect, useLayoutEffect, useRef, useState } from 'react';
@@ -160,10 +161,7 @@ export default function BodyViewer(props: Props) {
         );
         if (!response.ok) throw new Error('Model asset request failed');
         const bytes = await response.arrayBuffer();
-        const digest = await crypto.subtle.digest('SHA-256', bytes);
-        const hash = Array.from(new Uint8Array(digest), (n) =>
-          n.toString(16).padStart(2, '0'),
-        ).join('');
+        const hash = await assetSha256(bytes);
         if (hash !== humanMesh.assetSha256)
           throw new Error('Model version mismatch');
         const gltf = await new GLTFLoader().parseAsync(bytes, '');

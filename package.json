@@ -24,6 +24,7 @@
     "@capacitor/browser": "8.0.4",
     "@capacitor/core": "8.5.1",
     "@capacitor/ios": "8.5.1",
+    "@noble/hashes": "2.4.0",
     "@shadcn/react": "0.3.0",
     "class-variance-authority": "0.7.1",
     "clsx": "2.1.1",
