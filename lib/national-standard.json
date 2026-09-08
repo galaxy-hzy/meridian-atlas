@@ -1,0 +1,1820 @@
+{
+  "standard": "GB/T 12346-2021",
+  "statusUrl": "https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=397548AE7248D3D87DD15E0AB8107185",
+  "documentUrl": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+  "sha256": "777643c116fb3cd543a6a632a3ad36c4bfbedd8880aced0c6979a877694d7692",
+  "checkedAt": "2026-09-07",
+  "scope": "名称、代码、条款和 PDF 文件页码索引；不包含标准定位原文，不表示三维坐标已校准。",
+  "points": {
+    "LU1": {
+      "name": "中府",
+      "clause": "5.1.1",
+      "pdfPage": 14
+    },
+    "LU2": {
+      "name": "云门",
+      "clause": "5.1.2",
+      "pdfPage": 14
+    },
+    "LU3": {
+      "name": "天府",
+      "clause": "5.1.3",
+      "pdfPage": 14
+    },
+    "LU4": {
+      "name": "侠白",
+      "clause": "5.1.4",
+      "pdfPage": 14
+    },
+    "LU5": {
+      "name": "尺泽",
+      "clause": "5.1.5",
+      "pdfPage": 14
+    },
+    "LU6": {
+      "name": "孔最",
+      "clause": "5.1.6",
+      "pdfPage": 14
+    },
+    "LU7": {
+      "name": "列缺",
+      "clause": "5.1.7",
+      "pdfPage": 14
+    },
+    "LU8": {
+      "name": "经渠",
+      "clause": "5.1.8",
+      "pdfPage": 15
+    },
+    "LU9": {
+      "name": "太渊",
+      "clause": "5.1.9",
+      "pdfPage": 15
+    },
+    "LU10": {
+      "name": "鱼际",
+      "clause": "5.1.10",
+      "pdfPage": 15
+    },
+    "LU11": {
+      "name": "少商",
+      "clause": "5.1.11",
+      "pdfPage": 15
+    },
+    "LI1": {
+      "name": "商阳",
+      "clause": "5.2.1",
+      "pdfPage": 15
+    },
+    "LI2": {
+      "name": "二间",
+      "clause": "5.2.2",
+      "pdfPage": 15
+    },
+    "LI3": {
+      "name": "三间",
+      "clause": "5.2.3",
+      "pdfPage": 15
+    },
+    "LI4": {
+      "name": "合谷",
+      "clause": "5.2.4",
+      "pdfPage": 15
+    },
+    "LI5": {
+      "name": "阳溪",
+      "clause": "5.2.5",
+      "pdfPage": 15
+    },
+    "LI6": {
+      "name": "偏历",
+      "clause": "5.2.6",
+      "pdfPage": 15
+    },
+    "LI7": {
+      "name": "温溜",
+      "clause": "5.2.7",
+      "pdfPage": 15
+    },
+    "LI8": {
+      "name": "下廉",
+      "clause": "5.2.8",
+      "pdfPage": 16
+    },
+    "LI9": {
+      "name": "上廉",
+      "clause": "5.2.9",
+      "pdfPage": 16
+    },
+    "LI10": {
+      "name": "手三里",
+      "clause": "5.2.10",
+      "pdfPage": 16
+    },
+    "LI11": {
+      "name": "曲池",
+      "clause": "5.2.11",
+      "pdfPage": 16
+    },
+    "LI12": {
+      "name": "肘髎",
+      "clause": "5.2.12",
+      "pdfPage": 16
+    },
+    "LI13": {
+      "name": "手五里",
+      "clause": "5.2.13",
+      "pdfPage": 16
+    },
+    "LI14": {
+      "name": "臂臑",
+      "clause": "5.2.14",
+      "pdfPage": 16
+    },
+    "LI15": {
+      "name": "肩髃",
+      "clause": "5.2.15",
+      "pdfPage": 16
+    },
+    "LI16": {
+      "name": "巨骨",
+      "clause": "5.2.16",
+      "pdfPage": 16
+    },
+    "LI17": {
+      "name": "天鼎",
+      "clause": "5.2.17",
+      "pdfPage": 16
+    },
+    "LI18": {
+      "name": "扶突",
+      "clause": "5.2.18",
+      "pdfPage": 16
+    },
+    "LI19": {
+      "name": "口禾髎",
+      "clause": "5.2.19",
+      "pdfPage": 16
+    },
+    "LI20": {
+      "name": "迎香",
+      "clause": "5.2.20",
+      "pdfPage": 17
+    },
+    "ST1": {
+      "name": "承泣",
+      "clause": "5.3.1",
+      "pdfPage": 17
+    },
+    "ST2": {
+      "name": "四白",
+      "clause": "5.3.2",
+      "pdfPage": 17
+    },
+    "ST3": {
+      "name": "巨髎",
+      "clause": "5.3.3",
+      "pdfPage": 17
+    },
+    "ST4": {
+      "name": "地仓",
+      "clause": "5.3.4",
+      "pdfPage": 17
+    },
+    "ST5": {
+      "name": "大迎",
+      "clause": "5.3.5",
+      "pdfPage": 17
+    },
+    "ST6": {
+      "name": "颊车",
+      "clause": "5.3.6",
+      "pdfPage": 17
+    },
+    "ST7": {
+      "name": "下关",
+      "clause": "5.3.7",
+      "pdfPage": 17
+    },
+    "ST8": {
+      "name": "头维",
+      "clause": "5.3.8",
+      "pdfPage": 17
+    },
+    "ST9": {
+      "name": "人迎",
+      "clause": "5.3.9",
+      "pdfPage": 17
+    },
+    "ST10": {
+      "name": "水突",
+      "clause": "5.3.10",
+      "pdfPage": 17
+    },
+    "ST11": {
+      "name": "气舍",
+      "clause": "5.3.11",
+      "pdfPage": 17
+    },
+    "ST12": {
+      "name": "缺盆",
+      "clause": "5.3.12",
+      "pdfPage": 18
+    },
+    "ST13": {
+      "name": "气户",
+      "clause": "5.3.13",
+      "pdfPage": 18
+    },
+    "ST14": {
+      "name": "库房",
+      "clause": "5.3.14",
+      "pdfPage": 18
+    },
+    "ST15": {
+      "name": "屋翳",
+      "clause": "5.3.15",
+      "pdfPage": 18
+    },
+    "ST16": {
+      "name": "膺窗",
+      "clause": "5.3.16",
+      "pdfPage": 18
+    },
+    "ST17": {
+      "name": "乳中",
+      "clause": "5.3.17",
+      "pdfPage": 18
+    },
+    "ST18": {
+      "name": "乳根",
+      "clause": "5.3.18",
+      "pdfPage": 18
+    },
+    "ST19": {
+      "name": "不容",
+      "clause": "5.3.19",
+      "pdfPage": 18
+    },
+    "ST20": {
+      "name": "承满",
+      "clause": "5.3.20",
+      "pdfPage": 18
+    },
+    "ST21": {
+      "name": "梁门",
+      "clause": "5.3.21",
+      "pdfPage": 18
+    },
+    "ST22": {
+      "name": "关门",
+      "clause": "5.3.22",
+      "pdfPage": 18
+    },
+    "ST23": {
+      "name": "太乙",
+      "clause": "5.3.23",
+      "pdfPage": 18
+    },
+    "ST24": {
+      "name": "滑肉门",
+      "clause": "5.3.24",
+      "pdfPage": 19
+    },
+    "ST25": {
+      "name": "天枢",
+      "clause": "5.3.25",
+      "pdfPage": 19
+    },
+    "ST26": {
+      "name": "外陵",
+      "clause": "5.3.26",
+      "pdfPage": 19
+    },
+    "ST27": {
+      "name": "大巨",
+      "clause": "5.3.27",
+      "pdfPage": 19
+    },
+    "ST28": {
+      "name": "水道",
+      "clause": "5.3.28",
+      "pdfPage": 19
+    },
+    "ST29": {
+      "name": "归来",
+      "clause": "5.3.29",
+      "pdfPage": 19
+    },
+    "ST30": {
+      "name": "气冲",
+      "clause": "5.3.30",
+      "pdfPage": 19
+    },
+    "ST31": {
+      "name": "髀关",
+      "clause": "5.3.31",
+      "pdfPage": 19
+    },
+    "ST32": {
+      "name": "伏兔",
+      "clause": "5.3.32",
+      "pdfPage": 19
+    },
+    "ST33": {
+      "name": "阴市",
+      "clause": "5.3.33",
+      "pdfPage": 19
+    },
+    "ST34": {
+      "name": "梁丘",
+      "clause": "5.3.34",
+      "pdfPage": 19
+    },
+    "ST35": {
+      "name": "犊鼻",
+      "clause": "5.3.35",
+      "pdfPage": 20
+    },
+    "ST36": {
+      "name": "足三里",
+      "clause": "5.3.36",
+      "pdfPage": 20
+    },
+    "ST37": {
+      "name": "上巨虚",
+      "clause": "5.3.37",
+      "pdfPage": 20
+    },
+    "ST38": {
+      "name": "条口",
+      "clause": "5.3.38",
+      "pdfPage": 20
+    },
+    "ST39": {
+      "name": "下巨虚",
+      "clause": "5.3.39",
+      "pdfPage": 20
+    },
+    "ST40": {
+      "name": "丰隆",
+      "clause": "5.3.40",
+      "pdfPage": 20
+    },
+    "ST41": {
+      "name": "解溪",
+      "clause": "5.3.41",
+      "pdfPage": 20
+    },
+    "ST42": {
+      "name": "冲阳",
+      "clause": "5.3.42",
+      "pdfPage": 20
+    },
+    "ST43": {
+      "name": "陷谷",
+      "clause": "5.3.43",
+      "pdfPage": 20
+    },
+    "ST44": {
+      "name": "内庭",
+      "clause": "5.3.44",
+      "pdfPage": 20
+    },
+    "ST45": {
+      "name": "厉兑",
+      "clause": "5.3.45",
+      "pdfPage": 20
+    },
+    "SP1": {
+      "name": "隐白",
+      "clause": "5.4.1",
+      "pdfPage": 21
+    },
+    "SP2": {
+      "name": "大都",
+      "clause": "5.4.2",
+      "pdfPage": 21
+    },
+    "SP3": {
+      "name": "太白",
+      "clause": "5.4.3",
+      "pdfPage": 21
+    },
+    "SP4": {
+      "name": "公孙",
+      "clause": "5.4.4",
+      "pdfPage": 21
+    },
+    "SP5": {
+      "name": "商丘",
+      "clause": "5.4.5",
+      "pdfPage": 21
+    },
+    "SP6": {
+      "name": "三阴交",
+      "clause": "5.4.6",
+      "pdfPage": 21
+    },
+    "SP7": {
+      "name": "漏谷",
+      "clause": "5.4.7",
+      "pdfPage": 21
+    },
+    "SP8": {
+      "name": "地机",
+      "clause": "5.4.8",
+      "pdfPage": 21
+    },
+    "SP9": {
+      "name": "阴陵泉",
+      "clause": "5.4.9",
+      "pdfPage": 21
+    },
+    "SP10": {
+      "name": "血海",
+      "clause": "5.4.10",
+      "pdfPage": 21
+    },
+    "SP11": {
+      "name": "箕门",
+      "clause": "5.4.11",
+      "pdfPage": 21
+    },
+    "SP12": {
+      "name": "冲门",
+      "clause": "5.4.12",
+      "pdfPage": 22
+    },
+    "SP13": {
+      "name": "府舍",
+      "clause": "5.4.13",
+      "pdfPage": 22
+    },
+    "SP14": {
+      "name": "腹结",
+      "clause": "5.4.14",
+      "pdfPage": 22
+    },
+    "SP15": {
+      "name": "大横",
+      "clause": "5.4.15",
+      "pdfPage": 22
+    },
+    "SP16": {
+      "name": "腹哀",
+      "clause": "5.4.16",
+      "pdfPage": 22
+    },
+    "SP17": {
+      "name": "食窦",
+      "clause": "5.4.17",
+      "pdfPage": 22
+    },
+    "SP18": {
+      "name": "天溪",
+      "clause": "5.4.18",
+      "pdfPage": 22
+    },
+    "SP19": {
+      "name": "胸乡",
+      "clause": "5.4.19",
+      "pdfPage": 22
+    },
+    "SP20": {
+      "name": "周荣",
+      "clause": "5.4.20",
+      "pdfPage": 22
+    },
+    "SP21": {
+      "name": "大包",
+      "clause": "5.4.21",
+      "pdfPage": 22
+    },
+    "HT1": {
+      "name": "极泉",
+      "clause": "5.5.1",
+      "pdfPage": 22
+    },
+    "HT2": {
+      "name": "青灵",
+      "clause": "5.5.2",
+      "pdfPage": 23
+    },
+    "HT3": {
+      "name": "少海",
+      "clause": "5.5.3",
+      "pdfPage": 23
+    },
+    "HT4": {
+      "name": "灵道",
+      "clause": "5.5.4",
+      "pdfPage": 23
+    },
+    "HT5": {
+      "name": "通里",
+      "clause": "5.5.5",
+      "pdfPage": 23
+    },
+    "HT6": {
+      "name": "阴郄",
+      "clause": "5.5.6",
+      "pdfPage": 23
+    },
+    "HT7": {
+      "name": "神门",
+      "clause": "5.5.7",
+      "pdfPage": 23
+    },
+    "HT8": {
+      "name": "少府",
+      "clause": "5.5.8",
+      "pdfPage": 23
+    },
+    "HT9": {
+      "name": "少冲",
+      "clause": "5.5.9",
+      "pdfPage": 23
+    },
+    "SI1": {
+      "name": "少泽",
+      "clause": "5.6.1",
+      "pdfPage": 23
+    },
+    "SI2": {
+      "name": "前谷",
+      "clause": "5.6.2",
+      "pdfPage": 24
+    },
+    "SI3": {
+      "name": "后溪",
+      "clause": "5.6.3",
+      "pdfPage": 24
+    },
+    "SI4": {
+      "name": "腕骨",
+      "clause": "5.6.4",
+      "pdfPage": 24
+    },
+    "SI5": {
+      "name": "阳谷",
+      "clause": "5.6.5",
+      "pdfPage": 24
+    },
+    "SI6": {
+      "name": "养老",
+      "clause": "5.6.6",
+      "pdfPage": 24
+    },
+    "SI7": {
+      "name": "支正",
+      "clause": "5.6.7",
+      "pdfPage": 24
+    },
+    "SI8": {
+      "name": "小海",
+      "clause": "5.6.8",
+      "pdfPage": 24
+    },
+    "SI9": {
+      "name": "肩贞",
+      "clause": "5.6.9",
+      "pdfPage": 24
+    },
+    "SI10": {
+      "name": "臑俞",
+      "clause": "5.6.10",
+      "pdfPage": 24
+    },
+    "SI11": {
+      "name": "天宗",
+      "clause": "5.6.11",
+      "pdfPage": 24
+    },
+    "SI12": {
+      "name": "秉风",
+      "clause": "5.6.12",
+      "pdfPage": 24
+    },
+    "SI13": {
+      "name": "曲垣",
+      "clause": "5.6.13",
+      "pdfPage": 24
+    },
+    "SI14": {
+      "name": "肩外俞",
+      "clause": "5.6.14",
+      "pdfPage": 25
+    },
+    "SI15": {
+      "name": "肩中俞",
+      "clause": "5.6.15",
+      "pdfPage": 25
+    },
+    "SI16": {
+      "name": "天窗",
+      "clause": "5.6.16",
+      "pdfPage": 25
+    },
+    "SI17": {
+      "name": "天容",
+      "clause": "5.6.17",
+      "pdfPage": 25
+    },
+    "SI18": {
+      "name": "颧髎",
+      "clause": "5.6.18",
+      "pdfPage": 25
+    },
+    "SI19": {
+      "name": "听宫",
+      "clause": "5.6.19",
+      "pdfPage": 25
+    },
+    "BL1": {
+      "name": "睛明",
+      "clause": "5.7.1",
+      "pdfPage": 25
+    },
+    "BL2": {
+      "name": "攒竹",
+      "clause": "5.7.2",
+      "pdfPage": 25
+    },
+    "BL3": {
+      "name": "眉冲",
+      "clause": "5.7.3",
+      "pdfPage": 25
+    },
+    "BL4": {
+      "name": "曲差",
+      "clause": "5.7.4",
+      "pdfPage": 25
+    },
+    "BL5": {
+      "name": "五处",
+      "clause": "5.7.5",
+      "pdfPage": 26
+    },
+    "BL6": {
+      "name": "承光",
+      "clause": "5.7.6",
+      "pdfPage": 26
+    },
+    "BL7": {
+      "name": "通天",
+      "clause": "5.7.7",
+      "pdfPage": 26
+    },
+    "BL8": {
+      "name": "络却",
+      "clause": "5.7.8",
+      "pdfPage": 26
+    },
+    "BL9": {
+      "name": "玉枕",
+      "clause": "5.7.9",
+      "pdfPage": 26
+    },
+    "BL10": {
+      "name": "天柱",
+      "clause": "5.7.10",
+      "pdfPage": 26
+    },
+    "BL11": {
+      "name": "大杼",
+      "clause": "5.7.11",
+      "pdfPage": 26
+    },
+    "BL12": {
+      "name": "风门",
+      "clause": "5.7.12",
+      "pdfPage": 26
+    },
+    "BL13": {
+      "name": "肺俞",
+      "clause": "5.7.13",
+      "pdfPage": 26
+    },
+    "BL14": {
+      "name": "厥阴俞",
+      "clause": "5.7.14",
+      "pdfPage": 26
+    },
+    "BL15": {
+      "name": "心俞",
+      "clause": "5.7.15",
+      "pdfPage": 26
+    },
+    "BL16": {
+      "name": "督俞",
+      "clause": "5.7.16",
+      "pdfPage": 26
+    },
+    "BL17": {
+      "name": "膈俞",
+      "clause": "5.7.17",
+      "pdfPage": 27
+    },
+    "BL18": {
+      "name": "肝俞",
+      "clause": "5.7.18",
+      "pdfPage": 27
+    },
+    "BL19": {
+      "name": "胆俞",
+      "clause": "5.7.19",
+      "pdfPage": 27
+    },
+    "BL20": {
+      "name": "脾俞",
+      "clause": "5.7.20",
+      "pdfPage": 27
+    },
+    "BL21": {
+      "name": "胃俞",
+      "clause": "5.7.21",
+      "pdfPage": 27
+    },
+    "BL22": {
+      "name": "三焦俞",
+      "clause": "5.7.22",
+      "pdfPage": 27
+    },
+    "BL23": {
+      "name": "肾俞",
+      "clause": "5.7.23",
+      "pdfPage": 27
+    },
+    "BL24": {
+      "name": "气海俞",
+      "clause": "5.7.24",
+      "pdfPage": 27
+    },
+    "BL25": {
+      "name": "大肠俞",
+      "clause": "5.7.25",
+      "pdfPage": 27
+    },
+    "BL26": {
+      "name": "关元俞",
+      "clause": "5.7.26",
+      "pdfPage": 27
+    },
+    "BL27": {
+      "name": "小肠俞",
+      "clause": "5.7.27",
+      "pdfPage": 27
+    },
+    "BL28": {
+      "name": "膀胱俞",
+      "clause": "5.7.28",
+      "pdfPage": 27
+    },
+    "BL29": {
+      "name": "中膂俞",
+      "clause": "5.7.29",
+      "pdfPage": 27
+    },
+    "BL30": {
+      "name": "白环俞",
+      "clause": "5.7.30",
+      "pdfPage": 28
+    },
+    "BL31": {
+      "name": "上髎",
+      "clause": "5.7.31",
+      "pdfPage": 28
+    },
+    "BL32": {
+      "name": "次髎",
+      "clause": "5.7.32",
+      "pdfPage": 28
+    },
+    "BL33": {
+      "name": "中髎",
+      "clause": "5.7.33",
+      "pdfPage": 28
+    },
+    "BL34": {
+      "name": "下髎",
+      "clause": "5.7.34",
+      "pdfPage": 28
+    },
+    "BL35": {
+      "name": "会阳",
+      "clause": "5.7.35",
+      "pdfPage": 28
+    },
+    "BL36": {
+      "name": "承扶",
+      "clause": "5.7.36",
+      "pdfPage": 28
+    },
+    "BL37": {
+      "name": "殷门",
+      "clause": "5.7.37",
+      "pdfPage": 28
+    },
+    "BL38": {
+      "name": "浮郄",
+      "clause": "5.7.38",
+      "pdfPage": 28
+    },
+    "BL39": {
+      "name": "委阳",
+      "clause": "5.7.39",
+      "pdfPage": 28
+    },
+    "BL40": {
+      "name": "委中",
+      "clause": "5.7.40",
+      "pdfPage": 28
+    },
+    "BL41": {
+      "name": "附分",
+      "clause": "5.7.41",
+      "pdfPage": 29
+    },
+    "BL42": {
+      "name": "魄户",
+      "clause": "5.7.42",
+      "pdfPage": 29
+    },
+    "BL43": {
+      "name": "膏肓",
+      "clause": "5.7.43",
+      "pdfPage": 29
+    },
+    "BL44": {
+      "name": "神堂",
+      "clause": "5.7.44",
+      "pdfPage": 29
+    },
+    "BL45": {
+      "name": "譩譆",
+      "clause": "5.7.45",
+      "pdfPage": 29
+    },
+    "BL46": {
+      "name": "膈关",
+      "clause": "5.7.46",
+      "pdfPage": 29
+    },
+    "BL47": {
+      "name": "魂门",
+      "clause": "5.7.47",
+      "pdfPage": 29
+    },
+    "BL48": {
+      "name": "阳纲",
+      "clause": "5.7.48",
+      "pdfPage": 29
+    },
+    "BL49": {
+      "name": "意舍",
+      "clause": "5.7.49",
+      "pdfPage": 29
+    },
+    "BL50": {
+      "name": "胃仓",
+      "clause": "5.7.50",
+      "pdfPage": 29
+    },
+    "BL51": {
+      "name": "肓门",
+      "clause": "5.7.51",
+      "pdfPage": 29
+    },
+    "BL52": {
+      "name": "志室",
+      "clause": "5.7.52",
+      "pdfPage": 30
+    },
+    "BL53": {
+      "name": "胞肓",
+      "clause": "5.7.53",
+      "pdfPage": 30
+    },
+    "BL54": {
+      "name": "秩边",
+      "clause": "5.7.54",
+      "pdfPage": 30
+    },
+    "BL55": {
+      "name": "合阳",
+      "clause": "5.7.55",
+      "pdfPage": 30
+    },
+    "BL56": {
+      "name": "承筋",
+      "clause": "5.7.56",
+      "pdfPage": 30
+    },
+    "BL57": {
+      "name": "承山",
+      "clause": "5.7.57",
+      "pdfPage": 30
+    },
+    "BL58": {
+      "name": "飞扬",
+      "clause": "5.7.58",
+      "pdfPage": 30
+    },
+    "BL59": {
+      "name": "跗阳",
+      "clause": "5.7.59",
+      "pdfPage": 30
+    },
+    "BL60": {
+      "name": "昆仑",
+      "clause": "5.7.60",
+      "pdfPage": 30
+    },
+    "BL61": {
+      "name": "仆参",
+      "clause": "5.7.61",
+      "pdfPage": 30
+    },
+    "BL62": {
+      "name": "申脉",
+      "clause": "5.7.62",
+      "pdfPage": 30
+    },
+    "BL63": {
+      "name": "金门",
+      "clause": "5.7.63",
+      "pdfPage": 30
+    },
+    "BL64": {
+      "name": "京骨",
+      "clause": "5.7.64",
+      "pdfPage": 31
+    },
+    "BL65": {
+      "name": "束骨",
+      "clause": "5.7.65",
+      "pdfPage": 31
+    },
+    "BL66": {
+      "name": "足通谷",
+      "clause": "5.7.66",
+      "pdfPage": 31
+    },
+    "BL67": {
+      "name": "至阴",
+      "clause": "5.7.67",
+      "pdfPage": 31
+    },
+    "KI1": {
+      "name": "涌泉",
+      "clause": "5.8.1",
+      "pdfPage": 31
+    },
+    "KI2": {
+      "name": "然谷",
+      "clause": "5.8.2",
+      "pdfPage": 31
+    },
+    "KI3": {
+      "name": "太溪",
+      "clause": "5.8.3",
+      "pdfPage": 31
+    },
+    "KI4": {
+      "name": "大钟",
+      "clause": "5.8.4",
+      "pdfPage": 31
+    },
+    "KI5": {
+      "name": "水泉",
+      "clause": "5.8.5",
+      "pdfPage": 31
+    },
+    "KI6": {
+      "name": "照海",
+      "clause": "5.8.6",
+      "pdfPage": 31
+    },
+    "KI7": {
+      "name": "复溜",
+      "clause": "5.8.7",
+      "pdfPage": 31
+    },
+    "KI8": {
+      "name": "交信",
+      "clause": "5.8.8",
+      "pdfPage": 31
+    },
+    "KI9": {
+      "name": "筑宾",
+      "clause": "5.8.9",
+      "pdfPage": 32
+    },
+    "KI10": {
+      "name": "阴谷",
+      "clause": "5.8.10",
+      "pdfPage": 32
+    },
+    "KI11": {
+      "name": "横骨",
+      "clause": "5.8.11",
+      "pdfPage": 32
+    },
+    "KI12": {
+      "name": "大赫",
+      "clause": "5.8.12",
+      "pdfPage": 32
+    },
+    "KI13": {
+      "name": "气穴",
+      "clause": "5.8.13",
+      "pdfPage": 32
+    },
+    "KI14": {
+      "name": "四满",
+      "clause": "5.8.14",
+      "pdfPage": 32
+    },
+    "KI15": {
+      "name": "中注",
+      "clause": "5.8.15",
+      "pdfPage": 32
+    },
+    "KI16": {
+      "name": "肓俞",
+      "clause": "5.8.16",
+      "pdfPage": 32
+    },
+    "KI17": {
+      "name": "商曲",
+      "clause": "5.8.17",
+      "pdfPage": 32
+    },
+    "KI18": {
+      "name": "石关",
+      "clause": "5.8.18",
+      "pdfPage": 32
+    },
+    "KI19": {
+      "name": "阴都",
+      "clause": "5.8.19",
+      "pdfPage": 32
+    },
+    "KI20": {
+      "name": "腹通谷",
+      "clause": "5.8.20",
+      "pdfPage": 32
+    },
+    "KI21": {
+      "name": "幽门",
+      "clause": "5.8.21",
+      "pdfPage": 32
+    },
+    "KI22": {
+      "name": "步廊",
+      "clause": "5.8.22",
+      "pdfPage": 33
+    },
+    "KI23": {
+      "name": "神封",
+      "clause": "5.8.23",
+      "pdfPage": 33
+    },
+    "KI24": {
+      "name": "灵墟",
+      "clause": "5.8.24",
+      "pdfPage": 33
+    },
+    "KI25": {
+      "name": "神藏",
+      "clause": "5.8.25",
+      "pdfPage": 33
+    },
+    "KI26": {
+      "name": "彧中",
+      "clause": "5.8.26",
+      "pdfPage": 33
+    },
+    "KI27": {
+      "name": "俞府",
+      "clause": "5.8.27",
+      "pdfPage": 33
+    },
+    "PC1": {
+      "name": "天池",
+      "clause": "5.9.1",
+      "pdfPage": 33
+    },
+    "PC2": {
+      "name": "天泉",
+      "clause": "5.9.2",
+      "pdfPage": 33
+    },
+    "PC3": {
+      "name": "曲泽",
+      "clause": "5.9.3",
+      "pdfPage": 33
+    },
+    "PC4": {
+      "name": "郄门",
+      "clause": "5.9.4",
+      "pdfPage": 33
+    },
+    "PC5": {
+      "name": "间使",
+      "clause": "5.9.5",
+      "pdfPage": 33
+    },
+    "PC6": {
+      "name": "内关",
+      "clause": "5.9.6",
+      "pdfPage": 33
+    },
+    "PC7": {
+      "name": "大陵",
+      "clause": "5.9.7",
+      "pdfPage": 34
+    },
+    "PC8": {
+      "name": "劳宫",
+      "clause": "5.9.8",
+      "pdfPage": 34
+    },
+    "PC9": {
+      "name": "中冲",
+      "clause": "5.9.9",
+      "pdfPage": 34
+    },
+    "TE1": {
+      "name": "关冲",
+      "clause": "5.10.1",
+      "pdfPage": 34
+    },
+    "TE2": {
+      "name": "液门",
+      "clause": "5.10.2",
+      "pdfPage": 34
+    },
+    "TE3": {
+      "name": "中渚",
+      "clause": "5.10.3",
+      "pdfPage": 34
+    },
+    "TE4": {
+      "name": "阳池",
+      "clause": "5.10.4",
+      "pdfPage": 34
+    },
+    "TE5": {
+      "name": "外关",
+      "clause": "5.10.5",
+      "pdfPage": 34
+    },
+    "TE6": {
+      "name": "支沟",
+      "clause": "5.10.6",
+      "pdfPage": 34
+    },
+    "TE7": {
+      "name": "会宗",
+      "clause": "5.10.7",
+      "pdfPage": 34
+    },
+    "TE8": {
+      "name": "三阳络",
+      "clause": "5.10.8",
+      "pdfPage": 35
+    },
+    "TE9": {
+      "name": "四渎",
+      "clause": "5.10.9",
+      "pdfPage": 35
+    },
+    "TE10": {
+      "name": "天井",
+      "clause": "5.10.10",
+      "pdfPage": 35
+    },
+    "TE11": {
+      "name": "清泠渊",
+      "clause": "5.10.11",
+      "pdfPage": 35
+    },
+    "TE12": {
+      "name": "消泺",
+      "clause": "5.10.12",
+      "pdfPage": 35
+    },
+    "TE13": {
+      "name": "臑会",
+      "clause": "5.10.13",
+      "pdfPage": 35
+    },
+    "TE14": {
+      "name": "肩髎",
+      "clause": "5.10.14",
+      "pdfPage": 35
+    },
+    "TE15": {
+      "name": "天髎",
+      "clause": "5.10.15",
+      "pdfPage": 35
+    },
+    "TE16": {
+      "name": "天牖",
+      "clause": "5.10.16",
+      "pdfPage": 35
+    },
+    "TE17": {
+      "name": "翳风",
+      "clause": "5.10.17",
+      "pdfPage": 35
+    },
+    "TE18": {
+      "name": "瘈脉",
+      "clause": "5.10.18",
+      "pdfPage": 35
+    },
+    "TE19": {
+      "name": "颅息",
+      "clause": "5.10.19",
+      "pdfPage": 35
+    },
+    "TE20": {
+      "name": "角孙",
+      "clause": "5.10.20",
+      "pdfPage": 36
+    },
+    "TE21": {
+      "name": "耳门",
+      "clause": "5.10.21",
+      "pdfPage": 36
+    },
+    "TE22": {
+      "name": "耳和髎",
+      "clause": "5.10.22",
+      "pdfPage": 36
+    },
+    "TE23": {
+      "name": "丝竹空",
+      "clause": "5.10.23",
+      "pdfPage": 36
+    },
+    "GB1": {
+      "name": "瞳子髎",
+      "clause": "5.11.1",
+      "pdfPage": 36
+    },
+    "GB2": {
+      "name": "听会",
+      "clause": "5.11.2",
+      "pdfPage": 36
+    },
+    "GB3": {
+      "name": "上关",
+      "clause": "5.11.3",
+      "pdfPage": 36
+    },
+    "GB4": {
+      "name": "颔厌",
+      "clause": "5.11.4",
+      "pdfPage": 36
+    },
+    "GB5": {
+      "name": "悬颅",
+      "clause": "5.11.5",
+      "pdfPage": 36
+    },
+    "GB6": {
+      "name": "悬厘",
+      "clause": "5.11.6",
+      "pdfPage": 36
+    },
+    "GB7": {
+      "name": "曲鬓",
+      "clause": "5.11.7",
+      "pdfPage": 36
+    },
+    "GB8": {
+      "name": "率谷",
+      "clause": "5.11.8",
+      "pdfPage": 36
+    },
+    "GB9": {
+      "name": "天冲",
+      "clause": "5.11.9",
+      "pdfPage": 37
+    },
+    "GB10": {
+      "name": "浮白",
+      "clause": "5.11.10",
+      "pdfPage": 37
+    },
+    "GB11": {
+      "name": "头窍阴",
+      "clause": "5.11.11",
+      "pdfPage": 37
+    },
+    "GB12": {
+      "name": "完骨",
+      "clause": "5.11.12",
+      "pdfPage": 37
+    },
+    "GB13": {
+      "name": "本神",
+      "clause": "5.11.13",
+      "pdfPage": 37
+    },
+    "GB14": {
+      "name": "阳白",
+      "clause": "5.11.14",
+      "pdfPage": 37
+    },
+    "GB15": {
+      "name": "头临泣",
+      "clause": "5.11.15",
+      "pdfPage": 37
+    },
+    "GB16": {
+      "name": "目窗",
+      "clause": "5.11.16",
+      "pdfPage": 37
+    },
+    "GB17": {
+      "name": "正营",
+      "clause": "5.11.17",
+      "pdfPage": 37
+    },
+    "GB18": {
+      "name": "承灵",
+      "clause": "5.11.18",
+      "pdfPage": 37
+    },
+    "GB19": {
+      "name": "脑空",
+      "clause": "5.11.19",
+      "pdfPage": 37
+    },
+    "GB20": {
+      "name": "风池",
+      "clause": "5.11.20",
+      "pdfPage": 38
+    },
+    "GB21": {
+      "name": "肩井",
+      "clause": "5.11.21",
+      "pdfPage": 38
+    },
+    "GB22": {
+      "name": "渊腋",
+      "clause": "5.11.22",
+      "pdfPage": 38
+    },
+    "GB23": {
+      "name": "辄筋",
+      "clause": "5.11.23",
+      "pdfPage": 38
+    },
+    "GB24": {
+      "name": "日月",
+      "clause": "5.11.24",
+      "pdfPage": 38
+    },
+    "GB25": {
+      "name": "京门",
+      "clause": "5.11.25",
+      "pdfPage": 38
+    },
+    "GB26": {
+      "name": "带脉",
+      "clause": "5.11.26",
+      "pdfPage": 38
+    },
+    "GB27": {
+      "name": "五枢",
+      "clause": "5.11.27",
+      "pdfPage": 38
+    },
+    "GB28": {
+      "name": "维道",
+      "clause": "5.11.28",
+      "pdfPage": 38
+    },
+    "GB29": {
+      "name": "居髎",
+      "clause": "5.11.29",
+      "pdfPage": 38
+    },
+    "GB30": {
+      "name": "环跳",
+      "clause": "5.11.30",
+      "pdfPage": 38
+    },
+    "GB31": {
+      "name": "风市",
+      "clause": "5.11.31",
+      "pdfPage": 39
+    },
+    "GB32": {
+      "name": "中渎",
+      "clause": "5.11.32",
+      "pdfPage": 39
+    },
+    "GB33": {
+      "name": "膝阳关",
+      "clause": "5.11.33",
+      "pdfPage": 39
+    },
+    "GB34": {
+      "name": "阳陵泉",
+      "clause": "5.11.34",
+      "pdfPage": 39
+    },
+    "GB35": {
+      "name": "阳交",
+      "clause": "5.11.35",
+      "pdfPage": 39
+    },
+    "GB36": {
+      "name": "外丘",
+      "clause": "5.11.36",
+      "pdfPage": 39
+    },
+    "GB37": {
+      "name": "光明",
+      "clause": "5.11.37",
+      "pdfPage": 39
+    },
+    "GB38": {
+      "name": "阳辅",
+      "clause": "5.11.38",
+      "pdfPage": 39
+    },
+    "GB39": {
+      "name": "悬钟",
+      "clause": "5.11.39",
+      "pdfPage": 39
+    },
+    "GB40": {
+      "name": "丘墟",
+      "clause": "5.11.40",
+      "pdfPage": 39
+    },
+    "GB41": {
+      "name": "足临泣",
+      "clause": "5.11.41",
+      "pdfPage": 39
+    },
+    "GB42": {
+      "name": "地五会",
+      "clause": "5.11.42",
+      "pdfPage": 39
+    },
+    "GB43": {
+      "name": "侠溪",
+      "clause": "5.11.43",
+      "pdfPage": 39
+    },
+    "GB44": {
+      "name": "足窍阴",
+      "clause": "5.11.44",
+      "pdfPage": 40
+    },
+    "LR1": {
+      "name": "大敦",
+      "clause": "5.12.1",
+      "pdfPage": 40
+    },
+    "LR2": {
+      "name": "行间",
+      "clause": "5.12.2",
+      "pdfPage": 40
+    },
+    "LR3": {
+      "name": "太冲",
+      "clause": "5.12.3",
+      "pdfPage": 40
+    },
+    "LR4": {
+      "name": "中封",
+      "clause": "5.12.4",
+      "pdfPage": 40
+    },
+    "LR5": {
+      "name": "蠡沟",
+      "clause": "5.12.5",
+      "pdfPage": 40
+    },
+    "LR6": {
+      "name": "中都",
+      "clause": "5.12.6",
+      "pdfPage": 40
+    },
+    "LR7": {
+      "name": "膝关",
+      "clause": "5.12.7",
+      "pdfPage": 40
+    },
+    "LR8": {
+      "name": "曲泉",
+      "clause": "5.12.8",
+      "pdfPage": 40
+    },
+    "LR9": {
+      "name": "阴包",
+      "clause": "5.12.9",
+      "pdfPage": 40
+    },
+    "LR10": {
+      "name": "足五里",
+      "clause": "5.12.10",
+      "pdfPage": 40
+    },
+    "LR11": {
+      "name": "阴廉",
+      "clause": "5.12.11",
+      "pdfPage": 41
+    },
+    "LR12": {
+      "name": "急脉",
+      "clause": "5.12.12",
+      "pdfPage": 41
+    },
+    "LR13": {
+      "name": "章门",
+      "clause": "5.12.13",
+      "pdfPage": 41
+    },
+    "LR14": {
+      "name": "期门",
+      "clause": "5.12.14",
+      "pdfPage": 41
+    },
+    "GV1": {
+      "name": "长强",
+      "clause": "5.13.1",
+      "pdfPage": 41
+    },
+    "GV2": {
+      "name": "腰俞",
+      "clause": "5.13.2",
+      "pdfPage": 41
+    },
+    "GV3": {
+      "name": "腰阳关",
+      "clause": "5.13.3",
+      "pdfPage": 41
+    },
+    "GV4": {
+      "name": "命门",
+      "clause": "5.13.4",
+      "pdfPage": 41
+    },
+    "GV5": {
+      "name": "悬枢",
+      "clause": "5.13.5",
+      "pdfPage": 41
+    },
+    "GV6": {
+      "name": "脊中",
+      "clause": "5.13.6",
+      "pdfPage": 41
+    },
+    "GV7": {
+      "name": "中枢",
+      "clause": "5.13.7",
+      "pdfPage": 41
+    },
+    "GV8": {
+      "name": "筋缩",
+      "clause": "5.13.8",
+      "pdfPage": 42
+    },
+    "GV9": {
+      "name": "至阳",
+      "clause": "5.13.9",
+      "pdfPage": 42
+    },
+    "GV10": {
+      "name": "灵台",
+      "clause": "5.13.10",
+      "pdfPage": 42
+    },
+    "GV11": {
+      "name": "神道",
+      "clause": "5.13.11",
+      "pdfPage": 42
+    },
+    "GV12": {
+      "name": "身柱",
+      "clause": "5.13.12",
+      "pdfPage": 42
+    },
+    "GV13": {
+      "name": "陶道",
+      "clause": "5.13.13",
+      "pdfPage": 42
+    },
+    "GV14": {
+      "name": "大椎",
+      "clause": "5.13.14",
+      "pdfPage": 42
+    },
+    "GV15": {
+      "name": "哑门",
+      "clause": "5.13.15",
+      "pdfPage": 42
+    },
+    "GV16": {
+      "name": "风府",
+      "clause": "5.13.16",
+      "pdfPage": 42
+    },
+    "GV17": {
+      "name": "脑户",
+      "clause": "5.13.17",
+      "pdfPage": 42
+    },
+    "GV18": {
+      "name": "强间",
+      "clause": "5.13.18",
+      "pdfPage": 42
+    },
+    "GV19": {
+      "name": "后顶",
+      "clause": "5.13.19",
+      "pdfPage": 43
+    },
+    "GV20": {
+      "name": "百会",
+      "clause": "5.13.20",
+      "pdfPage": 43
+    },
+    "GV21": {
+      "name": "前顶",
+      "clause": "5.13.21",
+      "pdfPage": 43
+    },
+    "GV22": {
+      "name": "囟会",
+      "clause": "5.13.22",
+      "pdfPage": 43
+    },
+    "GV23": {
+      "name": "上星",
+      "clause": "5.13.23",
+      "pdfPage": 43
+    },
+    "GV24": {
+      "name": "神庭",
+      "clause": "5.13.24",
+      "pdfPage": 43
+    },
+    "GV24+": {
+      "name": "印堂",
+      "clause": "5.13.25",
+      "pdfPage": 43
+    },
+    "GV25": {
+      "name": "素髎",
+      "clause": "5.13.26",
+      "pdfPage": 43
+    },
+    "GV26": {
+      "name": "水沟",
+      "clause": "5.13.27",
+      "pdfPage": 43
+    },
+    "GV27": {
+      "name": "兑端",
+      "clause": "5.13.28",
+      "pdfPage": 43
+    },
+    "GV28": {
+      "name": "龈交",
+      "clause": "5.13.29",
+      "pdfPage": 43
+    },
+    "CV1": {
+      "name": "会阴",
+      "clause": "5.14.1",
+      "pdfPage": 43
+    },
+    "CV2": {
+      "name": "曲骨",
+      "clause": "5.14.2",
+      "pdfPage": 44
+    },
+    "CV3": {
+      "name": "中极",
+      "clause": "5.14.3",
+      "pdfPage": 44
+    },
+    "CV4": {
+      "name": "关元",
+      "clause": "5.14.4",
+      "pdfPage": 44
+    },
+    "CV5": {
+      "name": "石门",
+      "clause": "5.14.5",
+      "pdfPage": 44
+    },
+    "CV6": {
+      "name": "气海",
+      "clause": "5.14.6",
+      "pdfPage": 44
+    },
+    "CV7": {
+      "name": "阴交",
+      "clause": "5.14.7",
+      "pdfPage": 44
+    },
+    "CV8": {
+      "name": "神阙",
+      "clause": "5.14.8",
+      "pdfPage": 44
+    },
+    "CV9": {
+      "name": "水分",
+      "clause": "5.14.9",
+      "pdfPage": 44
+    },
+    "CV10": {
+      "name": "下脘",
+      "clause": "5.14.10",
+      "pdfPage": 44
+    },
+    "CV11": {
+      "name": "建里",
+      "clause": "5.14.11",
+      "pdfPage": 44
+    },
+    "CV12": {
+      "name": "中脘",
+      "clause": "5.14.12",
+      "pdfPage": 44
+    },
+    "CV13": {
+      "name": "上脘",
+      "clause": "5.14.13",
+      "pdfPage": 44
+    },
+    "CV14": {
+      "name": "巨阙",
+      "clause": "5.14.14",
+      "pdfPage": 44
+    },
+    "CV15": {
+      "name": "鸠尾",
+      "clause": "5.14.15",
+      "pdfPage": 44
+    },
+    "CV16": {
+      "name": "中庭",
+      "clause": "5.14.16",
+      "pdfPage": 45
+    },
+    "CV17": {
+      "name": "膻中",
+      "clause": "5.14.17",
+      "pdfPage": 45
+    },
+    "CV18": {
+      "name": "玉堂",
+      "clause": "5.14.18",
+      "pdfPage": 45
+    },
+    "CV19": {
+      "name": "紫宫",
+      "clause": "5.14.19",
+      "pdfPage": 45
+    },
+    "CV20": {
+      "name": "华盖",
+      "clause": "5.14.20",
+      "pdfPage": 45
+    },
+    "CV21": {
+      "name": "璇玑",
+      "clause": "5.14.21",
+      "pdfPage": 45
+    },
+    "CV22": {
+      "name": "天突",
+      "clause": "5.14.22",
+      "pdfPage": 45
+    },
+    "CV23": {
+      "name": "廉泉",
+      "clause": "5.14.23",
+      "pdfPage": 45
+    },
+    "CV24": {
+      "name": "承浆",
+      "clause": "5.14.24",
+      "pdfPage": 45
+    }
+  }
+}

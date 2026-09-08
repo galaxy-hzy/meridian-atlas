@@ -1,0 +1,6138 @@
+{
+  "standard": "GB/T 12346-2021",
+  "sourceSha256": "777643c116fb3cd543a6a632a3ad36c4bfbedd8880aced0c6979a877694d7692",
+  "sourceUrl": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+  "scope": "Basic location facts of all 362 points; commentary notes and procedures excluded; no anatomical validation of 3D coordinates.",
+  "extractionCorrections": [
+    {
+      "id": "ST26",
+      "pdfPage": 19,
+      "extracted": "脐中下l寸",
+      "corrected": "脐中下1寸"
+    },
+    {
+      "id": "ST41",
+      "pdfPage": 20,
+      "extracted": "长伸肌腱与趾长伸肌腱",
+      "corrected": "拇长伸肌腱与趾长伸肌腱"
+    }
+  ],
+  "points": {
+    "LU1": {
+      "region": "前胸部",
+      "relations": [
+        {
+          "kind": "level",
+          "reference": "第1肋间隙"
+        },
+        {
+          "kind": "anatomical",
+          "detail": "锁骨下窝外侧"
+        },
+        {
+          "kind": "distance",
+          "reference": "前正中线",
+          "direction": "旁开",
+          "cun": 6.0,
+          "detail": "",
+          "approximate": false
+        }
+      ],
+      "clause": "5.1.1",
+      "pdfPage": 14
+    },
+    "LU2": {
+      "region": "前胸部",
+      "relations": [
+        {
+          "kind": "anatomical",
+          "detail": "锁骨下窝凹陷中"
+        },
+        {
+          "kind": "anatomical",
+          "detail": "肩胛骨喙突内缘"
+        },
+        {
+          "kind": "distance",
+          "reference": "前正中线",
+          "direction": "旁开",
+          "cun": 6.0,
+          "detail": "",
+          "approximate": false
+        }
+      ],
+      "clause": "5.1.2",
+      "pdfPage": 14
+    },
+    "LU3": {
+      "region": "臂前外侧",
+      "relations": [
+        {
+          "kind": "distance",
+          "reference": "腋前纹头",
+          "direction": "下",
+          "cun": 3.0,
+          "detail": "",
+          "approximate": false
+        },
+        {
+          "kind": "anatomical",
+          "detail": "肱二头肌桡侧缘处"
+        }
+      ],
+      "clause": "5.1.3",
+      "pdfPage": 14
+    },
+    "LU4": {
+      "region": "臂前外侧",
+      "relations": [
+        {
+          "kind": "distance",
+          "reference": "腋前纹头",
+          "direction": "下",
+          "cun": 4.0,
+          "detail": "",
+          "approximate": false
+        },
+        {
+          "kind": "anatomical",
+          "detail": "肱二头肌桡侧缘处"
+        }
+      ],
+      "clause": "5.1.4",
+      "pdfPage": 14
+    },
+    "LU5": {
+      "region": "肘前侧",
+      "relations": [
+        {
+          "kind": "anatomical",
+          "detail": "肘横纹上"
+        },
+        {
+          "kind": "anatomical",
+          "detail": "肱二头肌腱桡侧缘凹陷中"
+        }
+      ],
+      "clause": "5.1.5",
+      "pdfPage": 14,
+      "postureNote": "屈肘时，在肘横纹上辨认肱二头肌腱，尺泽在肌腱桡侧，与尺侧的曲泽相对。"
+    },
+    "LU6": {
+      "region": "前臂前外侧",
+      "relations": [
+        {
+          "kind": "distance",
+          "reference": "腕掌侧远端横纹",
+          "direction": "上",
+          "cun": 7.0,
+          "detail": "",
+          "approximate": false
+        },
+        {
+          "kind": "line",
+          "names": ["尺泽", "太渊"],
+          "pointIds": ["LU5", "LU9"]
+        }
+      ],
+      "clause": "5.1.6",
+      "pdfPage": 14
+    },
+    "LU7": {
+      "region": "前臂外侧",
+      "relations": [
+        {
+          "kind": "distance",
+          "reference": "腕掌侧远端横纹",
+          "direction": "上",
+          "cun": 1.5,
+          "detail": "",
+          "approximate": false
+        },
+        {
+          "kind": "anatomical",
+          "detail": "拇短伸肌腱与拇长展肌腱之间"
+        },
+        {
+          "kind": "anatomical",
+          "detail": "拇长展肌腱沟的凹陷中"
+        }
+      ],
+      "clause": "5.1.7",
+      "pdfPage": 14
+    },
+    "LU8": {
+      "region": "前臂前外侧",
+      "relations": [
+        {
+          "kind": "distance",
+          "reference": "腕掌侧远端横纹",
+          "direction": "上",
+          "cun": 1.0,
+          "detail": "",
+          "approximate": false
+        },
+        {
+          "kind": "anatomical",
+          "detail": "桡骨茎突与桡动脉之间"
+        }
+      ],
+      "clause": "5.1.8",
+      "pdfPage": 15
+    },
+    "LU9": {
+      "region": "腕前外侧",
+      "relations": [
+        {
+          "kind": "anatomical",
+          "detail": "桡骨茎突与腕舟状骨之间"
+        },
+        {
+          "kind": "anatomical",
+          "detail": "拇长展肌腱尺侧凹陷中"
+        }
+      ],
+      "clause": "5.1.9",
+      "pdfPage": 15
+    },
+    "LU10": {
+      "region": "手掌",
+      "relations": [
+        {
+          "kind": "anatomical",
+          "detail": "第1掌骨桡侧中点赤白肉际处"
+        }
+      ],
+      "clause": "5.1.10",
+      "pdfPage": 15
+    },
+    "LU11": {
+      "region": "手指",
+      "relations": [
+        {
+          "kind": "anatomical",
+          "detail": "拇指末节桡侧"
+        },
+        {
+          "kind": "distance",
+          "reference": "指甲根角",
+          "direction": "侧上方",
+          "cun": 0.1,
+          "detail": "",
+          "approximate": false
+        }
+      ],
+      "clause": "5.1.11",
+      "pdfPage": 15
+    },
+    "LI1": {
+      "region": "手指",
+      "relations": [
+        {
+          "kind": "anatomical",
+          "detail": "食指末节桡侧"
+        },
+        {
+          "kind": "distance",
+          "reference": "指甲根角",
+          "direction": "侧上方",
+          "cun": 0.1,
+          "detail": "",
+          "approximate": false
+        }
+      ],
+      "clause": "5.2.1",
+      "pdfPage": 15
+    },
+    "LI2": {
+      "region": "手指",
+      "relations": [
+        {
+          "kind": "anatomical",
+          "detail": "第2掌指关节桡侧远端赤白肉际处"
+        }
+      ],
+      "clause": "5.2.2",
+      "pdfPage": 15
+    },
+    "LI3": {
+      "region": "手背",
+      "relations": [
+        {
+          "kind": "anatomical",
+          "detail": "第2掌指关节桡侧近端凹陷中"
+        }
+      ],
+      "clause": "5.2.3",
+      "pdfPage": 15
+    },
+    "LI4": {
+      "region": "手背",
+      "relations": [
+        {
+          "kind": "anatomical",
+          "detail": "第一掌骨和第二掌骨之间"
+        },
+        {
+          "kind": "anatomical",
+          "detail": "约平第2掌骨桡侧的中点"
+        }
+      ],
+      "clause": "5.2.4",
+      "pdfPage": 15
+    },
+    "LI5": {
+      "region": "腕后外侧",
+      "relations": [
+        {
+          "kind": "anatomical",
+          "detail": "腕背侧远端横纹桡侧"
+        },
+        {
+          "kind": "anatomical",
+          "detail": "桡骨茎突远端"
+        },
+        {
+          "kind": "anatomical",
+          "detail": "解剖学“鼻烟窝”凹陷中"
+        }
+      ],
+      "clause": "5.2.5",
+      "pdfPage": 15,
+      "postureNote": "拇指充分外展、后伸时，辨认拇长伸肌腱与拇短伸肌腱之间的鼻烟窝凹陷。"
+    },
+    "LI6": {
+      "region": "前臂后外侧",
+      "relations": [
+        {
+          "kind": "distance",
+          "reference": "腕背侧远端横纹",
+          "direction": "上",
+          "cun": 3.0,
+          "detail": "",
+          "approximate": false
+        },
+        {
+          "kind": "line",
+          "names": ["阳溪", "曲池"],
+          "pointIds": ["LI5", "LI11"]
+        }
+      ],
+      "clause": "5.2.6",
+      "pdfPage": 15
+    },
+    "LI7": {
+      "region": "前臂后外侧",
+      "relations": [
+        {
+          "kind": "distance",
+          "reference": "腕背侧远端横纹",
+          "direction": "上",
+          "cun": 5.0,
+          "detail": "",
+          "approximate": false
+        },
+        {
+          "kind": "line",
+          "names": ["阳溪", "曲池"],
+          "pointIds": ["LI5", "LI11"]
+        }
+      ],
+      "clause": "5.2.7",
+      "pdfPage": 15
+    },
+    "LI8": {
+      "region": "前臂后外侧",
+      "relations": [
+        {
+          "kind": "distance",
+          "reference": "肘横纹",
+          "direction": "下",
+          "cun": 4.0,
+          "detail": "",
+          "approximate": false
+        },
+        {
+          "kind": "line",
+          "names": ["阳溪", "曲池"],
+          "pointIds": ["LI5", "LI11"]
+        }
+      ],
+      "clause": "5.2.8",
+      "pdfPage": 16
+    },
+    "LI9": {
+      "region": "前臂后外侧",
+      "relations": [
+        {
+          "kind": "distance",
+          "reference": "肘横纹",
+          "direction": "下",
+          "cun": 3.0,
+          "detail": "",
+          "approximate": false
+        },
+        {
+          "kind": "line",
+          "names": ["阳溪", "曲池"],
+          "pointIds": ["LI5", "LI11"]
+        }
+      ],
+      "clause": "5.2.9",
+      "pdfPage": 16
+    },
+    "LI10": {
+      "region": "前臂后外侧",
+      "relations": [
+        {
+          "kind": "distance",
+          "reference": "肘横纹",
+          "direction": "下",
+          "cun": 2.0,
+          "detail": "",
+          "approximate": false
+        },
+        {
+          "kind": "line",
+          "names": ["阳溪", "曲池"],
+          "pointIds": ["LI5", "LI11"]
+        }
+      ],
+      "clause": "5.2.10",
+      "pdfPage": 16
+    },
+    "LI11": {
+      "region": "肘外侧",
+      "relations": [
+        {
+          "kind": "anatomical",
+          "detail": "尺泽(LU5)与肱骨外上髁连线的中点处"
+        }
+      ],
+      "clause": "5.2.11",
+      "pdfPage": 16,
+      "postureNote": "屈肘90°时，参照肘横纹外侧端外的凹陷；充分屈肘时，参照肘横纹桡侧端凹陷。"
+    },
+    "LI12": {
+      "region": "肘后外侧",
+      "relations": [
+        {
+          "kind": "anatomical",
+          "detail": "肱骨外上髁上缘"
+        },
+        {
+          "kind": "anatomical",
+          "detail": "髁上嵴的前缘"
+        }
+      ],
+      "clause": "5.2.12",
+      "pdfPage": 16
+    },
+    "LI13": {
+      "region": "臂外侧",
+      "relations": [
+        {
+          "kind": "distance",
+          "reference": "肘横纹",
+          "direction": "上",
+          "cun": 3.0,
+          "detail": "",
+          "approximate": false
+        },
+        {
+          "kind": "line",
+          "names": ["曲池", "肩髃"],
+          "pointIds": ["LI11", "LI15"]
+        }
+      ],
+      "clause": "5.2.13",
+      "pdfPage": 16
+    },
+    "LI14": {
+      "region": "臂外侧",
+      "relations": [
+        {
+          "kind": "line",
+          "names": ["曲池", "肩髃"],
+          "pointIds": ["LI11", "LI15"]
+        },
+        {
+          "kind": "anatomical",
+          "detail": "三角肌前缘处"
+        }
+      ],
+      "clause": "5.2.14",
+      "pdfPage": 16
+    },
+    "LI15": {
+      "region": "肩带部",
+      "relations": [
+        {
+          "kind": "anatomical",
+          "detail": "肩峰外侧缘前端与肱骨大结节两骨间凹陷中"
+        }
+      ],
+      "clause": "5.2.15",
+      "pdfPage": 16,
+      "postureNote": "屈臂外展时，肩峰外侧缘前后可见两个凹陷；前方较深者对应肩髃，后方者对应肩髎。"
+    },
+    "LI16": {
+      "region": "肩带部",
+      "relations": [
+        {
+          "kind": "anatomical",
+          "detail": "锁骨肩峰端与肩胛冈之间凹陷中"
+        }
+      ],
+      "clause": "5.2.16",
+      "pdfPage": 16
+    },
+    "LI17": {
+      "region": "颈前部",
+      "relations": [
+        {
+          "kind": "level",
+          "reference": "环状软骨"
+        },
+        {
+          "kind": "anatomical",
+          "detail": "胸锁乳突肌后缘"
+        }
+      ],
+      "clause": "5.2.17",
+      "pdfPage": 16
+    },
+    "LI18": {
+      "region": "颈前部",
+      "relations": [
+        {
+          "kind": "level",
+          "reference": "甲状软骨上缘(约相当于喉结处)"
+        },
+        {
+          "kind": "anatomical",
+          "detail": "胸锁乳突肌前、后缘中间"
+        }
+      ],
+      "clause": "5.2.18",
+      "pdfPage": 16
+    },
+    "LI19": {
+      "region": "面部",
+      "relations": [
+        {
+          "kind": "level",
+          "reference": "人中沟上1/3与下2/3交点"
+        },
+        {
+          "kind": "anatomical",
+          "detail": "鼻孔外缘直下"
+        }
+      ],
+      "clause": "5.2.19",
+      "pdfPage": 16
+    },
+    "LI20": {
+      "region": "面部",
+      "relations": [
+        {
+          "kind": "anatomical",
+          "detail": "鼻翼外缘中点旁"
+        },
+        {
+          "kind": "anatomical",
+          "detail": "鼻唇沟中"
+        }
+      ],
+      "clause": "5.2.20",
+      "pdfPage": 17
+    },
+    "ST1": {
+      "region": "面部",
+      "relations": [
+        {
+          "kind": "anatomical",
+          "detail": "眼球与眶下缘之间"
+        },
+        {
+          "kind": "anatomical",
+          "detail": "瞳孔直下"
+        }
+      ],
+      "clause": "5.3.1",
+      "pdfPage": 17
+    },
+    "ST2": {
+      "region": "面部",
+      "relations": [
+        {
+          "kind": "anatomical",
+          "detail": "眶下孔处"
+        }
+      ],
+      "clause": "5.3.2",
+      "pdfPage": 17
+    },
+    "ST3": {
+      "region": "面部",
+      "relations": [
+        {
+          "kind": "level",
+          "reference": "鼻翼下缘"
+        },
+        {
+          "kind": "anatomical",
+          "detail": "瞳孔直下"
+        }
+      ],
+      "clause": "5.3.3",
+      "pdfPage": 17
+    },
+    "ST4": {
+      "region": "面部",
+      "relations": [
+        {
+          "kind": "distance",
+          "reference": "口角",
+          "direction": "旁开",
+          "cun": 0.4,
+          "detail": "",
+          "approximate": false
+        }
+      ],
+      "clause": "5.3.4",
+      "pdfPage": 17
+    },
+    "ST5": {
+      "region": "面部",
+      "relations": [
+        {
+          "kind": "anatomical",
+          "detail": "下颌角前方"
+        },
+        {
+          "kind": "anatomical",
+          "detail": "咬肌附着部的前缘凹陷中"
+        },
+        {
+          "kind": "anatomical",
+          "detail": "面动脉搏动处"
+        }
+      ],
+      "clause": "5.3.5",
+      "pdfPage": 17
+    },
+    "ST6": {
+      "region": "面部",
+      "relations": [
+        {
+          "kind": "anatomical",
+          "detail": "下颌角前上方一横指"
+        }
+      ],
+      "clause": "5.3.6",
+      "pdfPage": 17,
+      "postureNote": "闭口咬紧牙时咬肌隆起，放松后参照该处凹陷。"
+    },
+    "ST7": {
+      "region": "面部",
+      "relations": [
+        {
+          "kind": "anatomical",
+          "detail": "颧弓下缘中央与下颌切迹之间凹陷中"
+        }
+      ],
+      "clause": "5.3.7",
+      "pdfPage": 17,
+      "postureNote": "闭口时，参照上关直下、颧弓下缘的凹陷。"
+    },
+    "ST8": {
+      "region": "头部",
+      "relations": [
+        {
+          "kind": "distance",
+          "reference": "额角发际",
+          "direction": "直上",
+          "cun": 0.5,
+          "detail": "",
+          "approximate": false
+        },
+        {
+          "kind": "distance",
+          "reference": "头正中线",
+          "direction": "旁开",
+          "cun": 4.5,
+          "detail": "",
+          "approximate": false
+        }
+      ],
+      "clause": "5.3.8",
+      "pdfPage": 17
+    },
+    "ST9": {
+      "region": "颈前部",
+      "relations": [
+        {
+          "kind": "level",
+          "reference": "甲状软骨上缘(约相当于喉结处)"
+        },
+        {
+          "kind": "anatomical",
+          "detail": "胸锁乳突肌前缘"
+        },
+        {
+          "kind": "anatomical",
+          "detail": "颈总动脉搏动处"
+        }
+      ],
+      "clause": "5.3.9",
+      "pdfPage": 17
+    },
+    "ST10": {
+      "region": "颈前部",
+      "relations": [
+        {
+          "kind": "level",
+          "reference": "环状软骨"
+        },
+        {
+          "kind": "anatomical",
+          "detail": "胸锁乳突肌前缘"
+        }
+      ],
+      "clause": "5.3.10",
+      "pdfPage": 17
+    },
+    "ST11": {
+      "region": "颈前部",
+      "relations": [
+        {
+          "kind": "anatomical",
+          "detail": "锁骨上小窝"
+        },
+        {
+          "kind": "anatomical",
+          "detail": "锁骨胸骨端上缘"
+        },
+        {
+          "kind": "anatomical",
+          "detail": "胸锁乳突肌胸骨头与锁骨头中间的凹陷中"
+        }
+      ],
+      "clause": "5.3.11",
+      "pdfPage": 17
+    },
+    "ST12": {
+      "region": "颈前部",
+      "relations": [
+        {
+          "kind": "anatomical",
+          "detail": "锁骨上大窝"
+        },
+        {
+          "kind": "anatomical",
+          "detail": "锁骨上缘凹陷中"
+        },
+        {
+          "kind": "distance",
+          "reference": "前正中线",
+          "direction": "旁开",
+          "cun": 4.0,
+          "detail": "",
+          "approximate": false
+        }
+      ],
+      "clause": "5.3.12",
+      "pdfPage": 18
+    },
+    "ST13": {
+      "region": "前胸部",
+      "relations": [
+        {
+          "kind": "anatomical",
+          "detail": "锁骨下缘"
+        },
+        {
+          "kind": "distance",
+          "reference": "前正中线",
+          "direction": "旁开",
+          "cun": 4.0,
+          "detail": "",
+          "approximate": false
+        }
+      ],
+      "clause": "5.3.13",
+      "pdfPage": 18
+    },
+    "ST14": {
+      "region": "前胸部",
+      "relations": [
+        {
+          "kind": "intercostal",
+          "space": 1
+        },
+        {
+          "kind": "distance",
+          "reference": "前正中线",
+          "direction": "旁开",
+          "cun": 4.0,
+          "detail": "",
+          "approximate": false
+        }
+      ],
+      "clause": "5.3.14",
+      "pdfPage": 18
+    },
+    "ST15": {
+      "region": "前胸部",
+      "relations": [
+        {
+          "kind": "intercostal",
+          "space": 2
+        },
+        {
+          "kind": "distance",
+          "reference": "前正中线",
+          "direction": "旁开",
+          "cun": 4.0,
+          "detail": "",
+          "approximate": false
+        }
+      ],
+      "clause": "5.3.15",
+      "pdfPage": 18
+    },
+    "ST16": {
+      "region": "前胸部",
+      "relations": [
+        {
+          "kind": "intercostal",
+          "space": 3
+        },
+        {
+          "kind": "distance",
+          "reference": "前正中线",
+          "direction": "旁开",
+          "cun": 4.0,
+          "detail": "",
+          "approximate": false
+        }
+      ],
+      "clause": "5.3.16",
+      "pdfPage": 18
+    },
+    "ST17": {
+      "region": "前胸部",
+      "relations": [
+        {
+          "kind": "anatomical",
+          "detail": "乳头中央"
+        }
+      ],
+      "clause": "5.3.17",
+      "pdfPage": 18
+    },
+    "ST18": {
+      "region": "前胸部",
+      "relations": [
+        {
+          "kind": "intercostal",
+          "space": 5
+        },
+        {
+          "kind": "distance",
+          "reference": "前正中线",
+          "direction": "旁开",
+          "cun": 4.0,
+          "detail": "",
+          "approximate": false
+        }
+      ],
+      "clause": "5.3.18",
+      "pdfPage": 18
+    },
+    "ST19": {
+      "region": "上腹部",
+      "relations": [
+        {
+          "kind": "distance",
+          "reference": "脐中",
+          "direction": "上",
+          "cun": 6.0,
+          "detail": "",
+          "approximate": false
+        },
+        {
+          "kind": "distance",
+          "reference": "前正中线",
+          "direction": "旁开",
+          "cun": 2.0,
+          "detail": "",
+          "approximate": false
+        }
+      ],
+      "clause": "5.3.19",
+      "pdfPage": 18
+    },
+    "ST20": {
+      "region": "上腹部",
+      "relations": [
+        {
+          "kind": "distance",
+          "reference": "脐中",
+          "direction": "上",
+          "cun": 5.0,
+          "detail": "",
+          "approximate": false
+        },
+        {
+          "kind": "distance",
+          "reference": "前正中线",
+          "direction": "旁开",
+          "cun": 2.0,
+          "detail": "",
+          "approximate": false
+        }
+      ],
+      "clause": "5.3.20",
+      "pdfPage": 18
+    },
+    "ST21": {
+      "region": "上腹部",
+      "relations": [
+        {
+          "kind": "distance",
+          "reference": "脐中",
+          "direction": "上",
+          "cun": 4.0,
+          "detail": "",
+          "approximate": false
+        },
+        {
+          "kind": "distance",
+          "reference": "前正中线",
+          "direction": "旁开",
+          "cun": 2.0,
+          "detail": "",
+          "approximate": false
+        }
+      ],
+      "clause": "5.3.21",
+      "pdfPage": 18
+    },
+    "ST22": {
+      "region": "上腹部",
+      "relations": [
+        {
+          "kind": "distance",
+          "reference": "脐中",
+          "direction": "上",
+          "cun": 3.0,
+          "detail": "",
+          "approximate": false
+        },
+        {
+          "kind": "distance",
+          "reference": "前正中线",
+          "direction": "旁开",
+          "cun": 2.0,
+          "detail": "",
+          "approximate": false
+        }
+      ],
+      "clause": "5.3.22",
+      "pdfPage": 18
+    },
+    "ST23": {
+      "region": "上腹部",
+      "relations": [
+        {
+          "kind": "distance",
+          "reference": "脐中",
+          "direction": "上",
+          "cun": 2.0,
+          "detail": "",
+          "approximate": false
+        },
+        {
+          "kind": "distance",
+          "reference": "前正中线",
+          "direction": "旁开",
+          "cun": 2.0,
+          "detail": "",
+          "approximate": false
+        }
+      ],
+      "clause": "5.3.23",
+      "pdfPage": 18
+    },
+    "ST24": {
+      "region": "上腹部",
+      "relations": [
+        {
+          "kind": "distance",
+          "reference": "脐中",
+          "direction": "上",
+          "cun": 1.0,
+          "detail": "",
+          "approximate": false
+        },
+        {
+          "kind": "distance",
+          "reference": "前正中线",
+          "direction": "旁开",
+          "cun": 2.0,
+          "detail": "",
+          "approximate": false
+        }
+      ],
+      "clause": "5.3.24",
+      "pdfPage": 19
+    },
+    "ST25": {
+      "region": "上腹部",
+      "relations": [
+        {
+          "kind": "level",
+          "reference": "脐中"
+        },
+        {
+          "kind": "distance",
+          "reference": "前正中线",
+          "direction": "旁开",
+          "cun": 2.0,
+          "detail": "",
+          "approximate": false
+        }
+      ],
+      "clause": "5.3.25",
+      "pdfPage": 19
+    },
+    "ST26": {
+      "region": "下腹部",
+      "relations": [
+        {
+          "kind": "distance",
+          "reference": "脐中",
+          "direction": "下",
+          "cun": 1.0,
+          "detail": "",
+          "approximate": false
+        },
+        {
+          "kind": "distance",
+          "reference": "前正中线",
+          "direction": "旁开",
+          "cun": 2.0,
+          "detail": "",
+          "approximate": false
+        }
+      ],
+      "clause": "5.3.26",
+      "pdfPage": 19
+    },
+    "ST27": {
+      "region": "下腹部",
+      "relations": [
+        {
+          "kind": "distance",
+          "reference": "脐中",
+          "direction": "下",
+          "cun": 2.0,
+          "detail": "",
+          "approximate": false
+        },
+        {
+          "kind": "distance",
+          "reference": "前正中线",
+          "direction": "旁开",
+          "cun": 2.0,
+          "detail": "",
+          "approximate": false
+        }
+      ],
+      "clause": "5.3.27",
+      "pdfPage": 19
+    },
+    "ST28": {
+      "region": "下腹部",
+      "relations": [
+        {
+          "kind": "distance",
+          "reference": "脐中",
+          "direction": "下",
+          "cun": 3.0,
+          "detail": "",
+          "approximate": false
+        },
+        {
+          "kind": "distance",
+          "reference": "前正中线",
+          "direction": "旁开",
+          "cun": 2.0,
+          "detail": "",
+          "approximate": false
+        }
+      ],
+      "clause": "5.3.28",
+      "pdfPage": 19
+    },
+    "ST29": {
+      "region": "下腹部",
+      "relations": [
+        {
+          "kind": "distance",
+          "reference": "脐中",
+          "direction": "下",
+          "cun": 4.0,
+          "detail": "",
+          "approximate": false
+        },
+        {
+          "kind": "distance",
+          "reference": "前正中线",
+          "direction": "旁开",
+          "cun": 2.0,
+          "detail": "",
+          "approximate": false
+        }
+      ],
+      "clause": "5.3.29",
+      "pdfPage": 19
+    },
+    "ST30": {
+      "region": "腹股沟",
+      "relations": [
+        {
+          "kind": "anatomical",
+          "detail": "耻骨联合上缘"
+        },
+        {
+          "kind": "distance",
+          "reference": "前正中线",
+          "direction": "旁开",
+          "cun": 2.0,
+          "detail": "",
+          "approximate": false
+        },
+        {
+          "kind": "anatomical",
+          "detail": "动脉搏动处"
+        }
+      ],
+      "clause": "5.3.30",
+      "pdfPage": 19
+    },
+    "ST31": {
+      "region": "股前侧",
+      "relations": [
+        {
+          "kind": "anatomical",
+          "detail": "股直肌近端、缝匠肌与阔筋膜张肌3条肌肉之间凹陷中"
+        }
+      ],
+      "clause": "5.3.31",
+      "pdfPage": 19,
+      "postureNote": "稍屈膝，大腿略外展、外旋并绷紧肌肉时，辨认股直肌近端与缝匠肌、阔筋膜张肌围成的三角形凹陷。"
+    },
+    "ST32": {
+      "region": "股前外侧",
+      "relations": [
+        {
+          "kind": "distance",
+          "reference": "髌底",
+          "direction": "上",
+          "cun": 6.0,
+          "detail": "",
+          "approximate": false
+        },
+        {
+          "kind": "anatomical",
+          "detail": "髂前上棘与髌底外侧端的连线上"
+        }
+      ],
+      "clause": "5.3.32",
+      "pdfPage": 19
+    },
+    "ST33": {
+      "region": "股前外侧",
+      "relations": [
+        {
+          "kind": "distance",
+          "reference": "髌底",
+          "direction": "上",
+          "cun": 3.0,
+          "detail": "",
+          "approximate": false
+        },
+        {
+          "kind": "anatomical",
+          "detail": "股直肌肌腱外侧缘"
+        }
+      ],
+      "clause": "5.3.33",
+      "pdfPage": 19
+    },
+    "ST34": {
+      "region": "股前外侧",
+      "relations": [
+        {
+          "kind": "distance",
+          "reference": "髌底",
+          "direction": "上",
+          "cun": 2.0,
+          "detail": "",
+          "approximate": false
+        },
+        {
+          "kind": "anatomical",
+          "detail": "股外侧肌与股直肌肌腱之间"
+        }
+      ],
+      "clause": "5.3.34",
+      "pdfPage": 19
+    },
+    "ST35": {
+      "region": "膝前侧",
+      "relations": [
+        {
+          "kind": "anatomical",
+          "detail": "髌韧带外侧凹陷中"
+        }
+      ],
+      "clause": "5.3.35",
+      "pdfPage": 20,
+      "postureNote": "屈膝45°时，参照髌骨外下方的凹陷。"
+    },
+    "ST36": {
+      "region": "小腿外侧",
+      "relations": [
+        {
+          "kind": "distance",
+          "reference": "犊鼻(ST35)",
+          "direction": "下",
+          "cun": 3.0,
+          "detail": "",
+          "approximate": false
+        },
+        {
+          "kind": "line",
+          "names": ["犊鼻", "解溪"],
+          "pointIds": ["ST35", "ST41"]
+        }
+      ],
+      "clause": "5.3.36",
+      "pdfPage": 20
+    },
+    "ST37": {
+      "region": "小腿外侧",
+      "relations": [
+        {
+          "kind": "distance",
+          "reference": "犊鼻(ST35)",
+          "direction": "下",
+          "cun": 6.0,
+          "detail": "",
+          "approximate": false
+        },
+        {
+          "kind": "line",
+          "names": ["犊鼻", "解溪"],
+          "pointIds": ["ST35", "ST41"]
+        }
+      ],
+      "clause": "5.3.37",
+      "pdfPage": 20
+    },
+    "ST38": {
+      "region": "小腿外侧",
+      "relations": [
+        {
+          "kind": "distance",
+          "reference": "犊鼻(ST35)",
+          "direction": "下",
+          "cun": 8.0,
+          "detail": "",
+          "approximate": false
+        },
+        {
+          "kind": "line",
+          "names": ["犊鼻", "解溪"],
+          "pointIds": ["ST35", "ST41"]
+        }
+      ],
+      "clause": "5.3.38",
+      "pdfPage": 20
+    },
+    "ST39": {
+      "region": "小腿外侧",
+      "relations": [
+        {
+          "kind": "distance",
+          "reference": "犊鼻(ST35)",
+          "direction": "下",
+          "cun": 9.0,
+          "detail": "",
+          "approximate": false
+        },
+        {
+          "kind": "line",
+          "names": ["犊鼻", "解溪"],
+          "pointIds": ["ST35", "ST41"]
+        }
+      ],
+      "clause": "5.3.39",
+      "pdfPage": 20
+    },
+    "ST40": {
+      "region": "小腿外侧",
+      "relations": [
+        {
+          "kind": "distance",
+          "reference": "外踝尖",
+          "direction": "上",
+          "cun": 8.0,
+          "detail": "",
+          "approximate": false
+        },
+        {
+          "kind": "anatomical",
+          "detail": "胫骨前肌的外缘"
+        }
+      ],
+      "clause": "5.3.40",
+      "pdfPage": 20
+    },
+    "ST41": {
+      "region": "踝前侧",
+      "relations": [
+        {
+          "kind": "anatomical",
+          "detail": "踝关节前面中央凹陷中"
+        },
+        {
+          "kind": "anatomical",
+          "detail": "拇长伸肌腱与趾长伸肌腱之间"
+        }
+      ],
+      "clause": "5.3.41",
+      "pdfPage": 20,
+      "postureNote": "足趾上跷时显露足背两侧肌腱，参照两腱之间的踝前凹陷。"
+    },
+    "ST42": {
+      "region": "足背",
+      "relations": [
+        {
+          "kind": "anatomical",
+          "detail": "第2跖骨基底部与中间楔状骨关节处"
+        },
+        {
+          "kind": "anatomical",
+          "detail": "可触及足背动脉"
+        }
+      ],
+      "clause": "5.3.42",
+      "pdfPage": 20
+    },
+    "ST43": {
+      "region": "足背",
+      "relations": [
+        {
+          "kind": "anatomical",
+          "detail": "第2、3跖骨间"
+        },
+        {
+          "kind": "anatomical",
+          "detail": "第2跖趾关节近端凹陷中"
+        }
+      ],
+      "clause": "5.3.43",
+      "pdfPage": 20
+    },
+    "ST44": {
+      "region": "足背",
+      "relations": [
+        {
+          "kind": "anatomical",
+          "detail": "第2、3趾间"
+        },
+        {
+          "kind": "anatomical",
+          "detail": "趾蹼缘后方赤白肉际处"
+        }
+      ],
+      "clause": "5.3.44",
+      "pdfPage": 20
+    },
+    "ST45": {
+      "region": "足趾",
+      "relations": [
+        {
+          "kind": "anatomical",
+          "detail": "第2趾末节外侧"
+        },
+        {
+          "kind": "distance",
+          "reference": "趾甲根角",
+          "direction": "侧后方",
+          "cun": 0.1,
+          "detail": "",
+          "approximate": false
+        }
+      ],
+      "clause": "5.3.45",
+      "pdfPage": 20
+    },
+    "SP1": {
+      "region": "足趾",
+      "relations": [
+        {
+          "kind": "anatomical",
+          "detail": "大趾末节内侧"
+        },
+        {
+          "kind": "distance",
+          "reference": "趾甲根角",
+          "direction": "侧后方",
+          "cun": 0.1,
+          "detail": "",
+          "approximate": false
+        }
+      ],
+      "clause": "5.4.1",
+      "pdfPage": 21
+    },
+    "SP2": {
+      "region": "足趾",
+      "relations": [
+        {
+          "kind": "anatomical",
+          "detail": "第1跖趾关节远端赤白肉际凹陷中"
+        }
+      ],
+      "clause": "5.4.2",
+      "pdfPage": 21
+    },
+    "SP3": {
+      "region": "足内侧",
+      "relations": [
+        {
+          "kind": "anatomical",
+          "detail": "第1跖趾关节近端赤白肉际凹陷中"
+        }
+      ],
+      "clause": "5.4.3",
+      "pdfPage": 21
+    },
+    "SP4": {
+      "region": "足内侧",
+      "relations": [
+        {
+          "kind": "anatomical",
+          "detail": "第1跖骨底的前下缘赤白肉际处"
+        }
+      ],
+      "clause": "5.4.4",
+      "pdfPage": 21
+    },
+    "SP5": {
+      "region": "足内侧",
+      "relations": [
+        {
+          "kind": "anatomical",
+          "detail": "内踝前下方"
+        },
+        {
+          "kind": "anatomical",
+          "detail": "舟骨粗隆与内踝尖连线中点凹陷中"
+        }
+      ],
+      "clause": "5.4.5",
+      "pdfPage": 21
+    },
+    "SP6": {
+      "region": "小腿内侧",
+      "relations": [
+        {
+          "kind": "distance",
+          "reference": "内踝尖",
+          "direction": "上",
+          "cun": 3.0,
+          "detail": "",
+          "approximate": false
+        },
+        {
+          "kind": "anatomical",
+          "detail": "胫骨内侧缘后际"
+        }
+      ],
+      "clause": "5.4.6",
+      "pdfPage": 21
+    },
+    "SP7": {
+      "region": "小腿内侧",
+      "relations": [
+        {
+          "kind": "distance",
+          "reference": "内踝尖",
+          "direction": "上",
+          "cun": 6.0,
+          "detail": "",
+          "approximate": false
+        },
+        {
+          "kind": "anatomical",
+          "detail": "胫骨内侧缘后际"
+        }
+      ],
+      "clause": "5.4.7",
+      "pdfPage": 21
+    },
+    "SP8": {
+      "region": "小腿内侧",
+      "relations": [
+        {
+          "kind": "distance",
+          "reference": "阴陵泉(SP9)",
+          "direction": "下",
+          "cun": 3.0,
+          "detail": "",
+          "approximate": false
+        },
+        {
+          "kind": "anatomical",
+          "detail": "胫骨内侧缘后际"
+        }
+      ],
+      "clause": "5.4.8",
+      "pdfPage": 21
+    },
+    "SP9": {
+      "region": "小腿内侧",
+      "relations": [
+        {
+          "kind": "anatomical",
+          "detail": "由胫骨内侧髁下缘与胫骨内侧缘形成的凹陷中"
+        }
+      ],
+      "clause": "5.4.9",
+      "pdfPage": 21
+    },
+    "SP10": {
+      "region": "股前内侧",
+      "relations": [
+        {
+          "kind": "distance",
+          "reference": "髌底内侧端",
+          "direction": "上",
+          "cun": 2.0,
+          "detail": "",
+          "approximate": false
+        },
+        {
+          "kind": "anatomical",
+          "detail": "股内侧肌隆起处"
+        }
+      ],
+      "clause": "5.4.10",
+      "pdfPage": 21
+    },
+    "SP11": {
+      "region": "股内侧",
+      "relations": [
+        {
+          "kind": "anatomical",
+          "detail": "髌底内侧端与冲门(SP12)的连线上1/3与下2/3交点"
+        },
+        {
+          "kind": "anatomical",
+          "detail": "长收肌和缝匠肌交角的动脉搏动处"
+        }
+      ],
+      "clause": "5.4.11",
+      "pdfPage": 21
+    },
+    "SP12": {
+      "region": "腹股沟",
+      "relations": [
+        {
+          "kind": "anatomical",
+          "detail": "腹股沟斜纹中"
+        },
+        {
+          "kind": "anatomical",
+          "detail": "髂外动脉搏动处的外侧"
+        }
+      ],
+      "clause": "5.4.12",
+      "pdfPage": 22
+    },
+    "SP13": {
+      "region": "下腹部",
+      "relations": [
+        {
+          "kind": "distance",
+          "reference": "脐中",
+          "direction": "下",
+          "cun": 4.3,
+          "detail": "",
+          "approximate": false
+        },
+        {
+          "kind": "distance",
+          "reference": "前正中线",
+          "direction": "旁开",
+          "cun": 4.0,
+          "detail": "",
+          "approximate": false
+        }
+      ],
+      "clause": "5.4.13",
+      "pdfPage": 22
+    },
+    "SP14": {
+      "region": "下腹部",
+      "relations": [
+        {
+          "kind": "distance",
+          "reference": "脐中",
+          "direction": "下",
+          "cun": 1.3,
+          "detail": "",
+          "approximate": false
+        },
+        {
+          "kind": "distance",
+          "reference": "前正中线",
+          "direction": "旁开",
+          "cun": 4.0,
+          "detail": "",
+          "approximate": false
+        }
+      ],
+      "clause": "5.4.14",
+      "pdfPage": 22
+    },
+    "SP15": {
+      "region": "上腹部",
+      "relations": [
+        {
+          "kind": "distance",
+          "reference": "脐中",
+          "direction": "旁开",
+          "cun": 4.0,
+          "detail": "",
+          "approximate": false
+        }
+      ],
+      "clause": "5.4.15",
+      "pdfPage": 22
+    },
+    "SP16": {
+      "region": "上腹部",
+      "relations": [
+        {
+          "kind": "distance",
+          "reference": "脐中",
+          "direction": "上",
+          "cun": 3.0,
+          "detail": "",
+          "approximate": false
+        },
+        {
+          "kind": "distance",
+          "reference": "前正中线",
+          "direction": "旁开",
+          "cun": 4.0,
+          "detail": "",
+          "approximate": false
+        }
+      ],
+      "clause": "5.4.16",
+      "pdfPage": 22
+    },
+    "SP17": {
+      "region": "前胸部",
+      "relations": [
+        {
+          "kind": "intercostal",
+          "space": 5
+        },
+        {
+          "kind": "distance",
+          "reference": "前正中线",
+          "direction": "旁开",
+          "cun": 6.0,
+          "detail": "",
+          "approximate": false
+        }
+      ],
+      "clause": "5.4.17",
+      "pdfPage": 22
+    },
+    "SP18": {
+      "region": "前胸部",
+      "relations": [
+        {
+          "kind": "intercostal",
+          "space": 4
+        },
+        {
+          "kind": "distance",
+          "reference": "前正中线",
+          "direction": "旁开",
+          "cun": 6.0,
+          "detail": "",
+          "approximate": false
+        }
+      ],
+      "clause": "5.4.18",
+      "pdfPage": 22
+    },
+    "SP19": {
+      "region": "前胸部",
+      "relations": [
+        {
+          "kind": "intercostal",
+          "space": 3
+        },
+        {
+          "kind": "distance",
+          "reference": "前正中线",
+          "direction": "旁开",
+          "cun": 6.0,
+          "detail": "",
+          "approximate": false
+        }
+      ],
+      "clause": "5.4.19",
+      "pdfPage": 22
+    },
+    "SP20": {
+      "region": "前胸部",
+      "relations": [
+        {
+          "kind": "intercostal",
+          "space": 2
+        },
+        {
+          "kind": "distance",
+          "reference": "前正中线",
+          "direction": "旁开",
+          "cun": 6.0,
+          "detail": "",
+          "approximate": false
+        }
+      ],
+      "clause": "5.4.20",
+      "pdfPage": 22
+    },
+    "SP21": {
+      "region": "侧胸部",
+      "relations": [
+        {
+          "kind": "intercostal",
+          "space": 6
+        },
+        {
+          "kind": "axis",
+          "reference": "腋中线"
+        }
+      ],
+      "clause": "5.4.21",
+      "pdfPage": 22,
+      "postureNote": "侧卧举臂时，参照第6肋间隙与腋中线的交点。"
+    },
+    "HT1": {
+      "region": "腋窝中央",
+      "relations": [
+        {
+          "kind": "anatomical",
+          "detail": "腋动脉搏动处"
+        }
+      ],
+      "clause": "5.5.1",
+      "pdfPage": 22
+    },
+    "HT2": {
+      "region": "臂内侧",
+      "relations": [
+        {
+          "kind": "distance",
+          "reference": "肘横纹",
+          "direction": "上",
+          "cun": 3.0,
+          "detail": "",
+          "approximate": false
+        },
+        {
+          "kind": "anatomical",
+          "detail": "肱二头肌的内侧沟中"
+        }
+      ],
+      "clause": "5.5.2",
+      "pdfPage": 23,
+      "postureNote": "屈肘举臂时，参照极泉与少海连线的上2/3、下1/3交点。"
+    },
+    "HT3": {
+      "region": "肘前内侧",
+      "relations": [
+        {
+          "kind": "level",
+          "reference": "肘横纹"
+        },
+        {
+          "kind": "anatomical",
+          "detail": "肱骨内上髁前缘"
+        }
+      ],
+      "clause": "5.5.3",
+      "pdfPage": 23,
+      "postureNote": "屈肘时，参照肘横纹内侧端与肱骨内上髁连线的中点。"
+    },
+    "HT4": {
+      "region": "前臂前内侧",
+      "relations": [
+        {
+          "kind": "distance",
+          "reference": "腕掌侧远端横纹",
+          "direction": "上",
+          "cun": 1.5,
+          "detail": "",
+          "approximate": false
+        },
+        {
+          "kind": "anatomical",
+          "detail": "尺侧腕屈肌腱的桡侧缘"
+        }
+      ],
+      "clause": "5.5.4",
+      "pdfPage": 23
+    },
+    "HT5": {
+      "region": "前臂前内侧",
+      "relations": [
+        {
+          "kind": "distance",
+          "reference": "腕掌侧远端横纹",
+          "direction": "上",
+          "cun": 1.0,
+          "detail": "",
+          "approximate": false
+        },
+        {
+          "kind": "anatomical",
+          "detail": "尺侧腕屈肌腱的桡侧缘"
+        }
+      ],
+      "clause": "5.5.5",
+      "pdfPage": 23
+    },
+    "HT6": {
+      "region": "前臂前内侧",
+      "relations": [
+        {
+          "kind": "distance",
+          "reference": "腕掌侧远端横纹",
+          "direction": "上",
+          "cun": 0.5,
+          "detail": "",
+          "approximate": false
+        },
+        {
+          "kind": "anatomical",
+          "detail": "尺侧腕屈肌腱的桡侧缘"
+        }
+      ],
+      "clause": "5.5.6",
+      "pdfPage": 23
+    },
+    "HT7": {
+      "region": "腕前内侧",
+      "relations": [
+        {
+          "kind": "anatomical",
+          "detail": "腕掌侧远端横纹尺侧端"
+        },
+        {
+          "kind": "anatomical",
+          "detail": "尺侧腕屈肌腱的桡侧缘"
+        }
+      ],
+      "clause": "5.5.7",
+      "pdfPage": 23
+    },
+    "HT8": {
+      "region": "手掌",
+      "relations": [
+        {
+          "kind": "level",
+          "reference": "第5掌指关节近端"
+        },
+        {
+          "kind": "anatomical",
+          "detail": "第4、5掌骨之间"
+        }
+      ],
+      "clause": "5.5.8",
+      "pdfPage": 23,
+      "postureNote": "握拳时，参照小指尖所指处；与劳宫同一横向水平。"
+    },
+    "HT9": {
+      "region": "手指",
+      "relations": [
+        {
+          "kind": "anatomical",
+          "detail": "小指末节桡侧"
+        },
+        {
+          "kind": "distance",
+          "reference": "指甲根角",
+          "direction": "侧上方",
+          "cun": 0.1,
+          "detail": "",
+          "approximate": false
+        }
+      ],
+      "clause": "5.5.9",
+      "pdfPage": 23
+    },
+    "SI1": {
+      "region": "手指",
+      "relations": [
+        {
+          "kind": "anatomical",
+          "detail": "小指末节尺侧"
+        },
+        {
+          "kind": "distance",
+          "reference": "指甲根角",
+          "direction": "侧上方",
+          "cun": 0.1,
+          "detail": "",
+          "approximate": false
+        }
+      ],
+      "clause": "5.6.1",
+      "pdfPage": 23
+    },
+    "SI2": {
+      "region": "手指",
+      "relations": [
+        {
+          "kind": "anatomical",
+          "detail": "第5掌指关节尺侧远端赤白肉际凹陷中"
+        }
+      ],
+      "clause": "5.6.2",
+      "pdfPage": 24,
+      "postureNote": "半握拳时，参照第5掌指横纹尺侧端。"
+    },
+    "SI3": {
+      "region": "手背",
+      "relations": [
+        {
+          "kind": "anatomical",
+          "detail": "第5掌指关节尺侧近端赤白肉际凹陷中"
+        }
+      ],
+      "clause": "5.6.3",
+      "pdfPage": 24,
+      "postureNote": "半握拳时，参照掌远侧横纹尺侧端的赤白肉际。"
+    },
+    "SI4": {
+      "region": "腕后内侧",
+      "relations": [
+        {
+          "kind": "anatomical",
+          "detail": "第5掌骨底与三角骨之间的赤白肉际凹陷中"
+        }
+      ],
+      "clause": "5.6.4",
+      "pdfPage": 24
+    },
+    "SI5": {
+      "region": "腕后内侧",
+      "relations": [
+        {
+          "kind": "anatomical",
+          "detail": "尺骨茎突与三角骨之间的凹陷中"
+        }
+      ],
+      "clause": "5.6.5",
+      "pdfPage": 24
+    },
+    "SI6": {
+      "region": "前臂后侧",
+      "relations": [
+        {
+          "kind": "distance",
+          "reference": "腕背横纹",
+          "direction": "上",
+          "cun": 1.0,
+          "detail": "",
+          "approximate": false
+        },
+        {
+          "kind": "anatomical",
+          "detail": "尺骨头桡侧凹陷中"
+        }
+      ],
+      "clause": "5.6.6",
+      "pdfPage": 24,
+      "postureNote": "先掌心向下辨认尺骨头最高点，再将手掌旋后，辨认其桡侧骨缝凹陷。固定体位模型不能演示这一动态定位过程。"
+    },
+    "SI7": {
+      "region": "前臂外侧",
+      "relations": [
+        {
+          "kind": "distance",
+          "reference": "腕背侧远端横纹",
+          "direction": "上",
+          "cun": 5.0,
+          "detail": "",
+          "approximate": false
+        },
+        {
+          "kind": "anatomical",
+          "detail": "尺骨尺侧与尺侧腕屈肌之间"
+        }
+      ],
+      "clause": "5.6.7",
+      "pdfPage": 24
+    },
+    "SI8": {
+      "region": "肘后内侧",
+      "relations": [
+        {
+          "kind": "anatomical",
+          "detail": "尺骨鹰嘴(即肘尖)与肱骨内上髁之间凹陷中"
+        }
+      ],
+      "clause": "5.6.8",
+      "pdfPage": 24,
+      "postureNote": "微屈肘时辨认肘后内侧的尺神经沟。"
+    },
+    "SI9": {
+      "region": "肩带部",
+      "relations": [
+        {
+          "kind": "anatomical",
+          "detail": "肩关节后下方"
+        },
+        {
+          "kind": "distance",
+          "reference": "腋后纹头",
+          "direction": "直上",
+          "cun": 1.0,
+          "detail": "",
+          "approximate": false
+        }
+      ],
+      "clause": "5.6.9",
+      "pdfPage": 24,
+      "postureNote": "臂内收时，参照腋后纹头直上1寸及三角肌后缘。"
+    },
+    "SI10": {
+      "region": "肩带部",
+      "relations": [
+        {
+          "kind": "anatomical",
+          "detail": "腋后纹头直上"
+        },
+        {
+          "kind": "anatomical",
+          "detail": "肩胛冈下缘凹陷中"
+        }
+      ],
+      "clause": "5.6.10",
+      "pdfPage": 24
+    },
+    "SI11": {
+      "region": "肩带部",
+      "relations": [
+        {
+          "kind": "anatomical",
+          "detail": "肩胛冈中点与肩胛骨下角连线上1/3与下2/3交点凹陷中"
+        }
+      ],
+      "clause": "5.6.11",
+      "pdfPage": 24
+    },
+    "SI12": {
+      "region": "肩带部",
+      "relations": [
+        {
+          "kind": "anatomical",
+          "detail": "肩胛冈中点上方冈上窝中"
+        }
+      ],
+      "clause": "5.6.12",
+      "pdfPage": 24
+    },
+    "SI13": {
+      "region": "肩带部",
+      "relations": [
+        {
+          "kind": "anatomical",
+          "detail": "肩胛冈内侧端上缘凹陷中"
+        }
+      ],
+      "clause": "5.6.13",
+      "pdfPage": 24
+    },
+    "SI14": {
+      "region": "背部",
+      "relations": [
+        {
+          "kind": "anatomical",
+          "detail": "第1胸椎棘突下"
+        },
+        {
+          "kind": "distance",
+          "reference": "后正中线",
+          "direction": "旁开",
+          "cun": 3.0,
+          "detail": "",
+          "approximate": false
+        }
+      ],
+      "clause": "5.6.14",
+      "pdfPage": 25
+    },
+    "SI15": {
+      "region": "背部",
+      "relations": [
+        {
+          "kind": "anatomical",
+          "detail": "第7颈椎棘突下"
+        },
+        {
+          "kind": "distance",
+          "reference": "后正中线",
+          "direction": "旁开",
+          "cun": 2.0,
+          "detail": "",
+          "approximate": false
+        }
+      ],
+      "clause": "5.6.15",
+      "pdfPage": 25
+    },
+    "SI16": {
+      "region": "颈前部",
+      "relations": [
+        {
+          "kind": "level",
+          "reference": "甲状软骨上缘(约相当于喉结处)"
+        },
+        {
+          "kind": "anatomical",
+          "detail": "胸锁乳突肌的后缘"
+        }
+      ],
+      "clause": "5.6.16",
+      "pdfPage": 25
+    },
+    "SI17": {
+      "region": "颈前部",
+      "relations": [
+        {
+          "kind": "anatomical",
+          "detail": "下颌角后方"
+        },
+        {
+          "kind": "anatomical",
+          "detail": "胸锁乳突肌的前缘凹陷中"
+        }
+      ],
+      "clause": "5.6.17",
+      "pdfPage": 25
+    },
+    "SI18": {
+      "region": "面部",
+      "relations": [
+        {
+          "kind": "anatomical",
+          "detail": "颧骨下缘"
+        },
+        {
+          "kind": "anatomical",
+          "detail": "目外眦直下凹陷中"
+        }
+      ],
+      "clause": "5.6.18",
+      "pdfPage": 25
+    },
+    "SI19": {
+      "region": "面部",
+      "relations": [
+        {
+          "kind": "anatomical",
+          "detail": "耳屏正中与下颌骨髁突之间的凹陷中"
+        }
+      ],
+      "clause": "5.6.19",
+      "pdfPage": 25,
+      "postureNote": "微张口时，参照耳屏正中前缘的凹陷，位于耳门与听会之间。"
+    },
+    "BL1": {
+      "region": "面部",
+      "relations": [
+        {
+          "kind": "anatomical",
+          "detail": "目内眦内上方眶内侧壁凹陷中"
+        }
+      ],
+      "clause": "5.7.1",
+      "pdfPage": 25
+    },
+    "BL2": {
+      "region": "面部",
+      "relations": [
+        {
+          "kind": "anatomical",
+          "detail": "眉头凹陷中"
+        },
+        {
+          "kind": "anatomical",
+          "detail": "额切迹处"
+        }
+      ],
+      "clause": "5.7.2",
+      "pdfPage": 25
+    },
+    "BL3": {
+      "region": "头部",
+      "relations": [
+        {
+          "kind": "anatomical",
+          "detail": "额切迹直上入发际0.5寸"
+        }
+      ],
+      "clause": "5.7.3",
+      "pdfPage": 25
+    },
+    "BL4": {
+      "region": "头部",
+      "relations": [
+        {
+          "kind": "distance",
+          "reference": "前发际正中",
+          "direction": "直上",
+          "cun": 0.5,
+          "detail": "",
+          "approximate": false
+        },
+        {
+          "kind": "anatomical",
+          "detail": "旁开1.5寸"
+        }
+      ],
+      "clause": "5.7.4",
+      "pdfPage": 25
+    },
+    "BL5": {
+      "region": "头部",
+      "relations": [
+        {
+          "kind": "distance",
+          "reference": "前发际正中",
+          "direction": "直上",
+          "cun": 1.0,
+          "detail": "",
+          "approximate": false
+        },
+        {
+          "kind": "anatomical",
+          "detail": "旁开1.5寸"
+        }
+      ],
+      "clause": "5.7.5",
+      "pdfPage": 26
+    },
+    "BL6": {
+      "region": "头部",
+      "relations": [
+        {
+          "kind": "distance",
+          "reference": "前发际正中",
+          "direction": "直上",
+          "cun": 2.5,
+          "detail": "",
+          "approximate": false
+        },
+        {
+          "kind": "anatomical",
+          "detail": "旁开1.5寸"
+        }
+      ],
+      "clause": "5.7.6",
+      "pdfPage": 26
+    },
+    "BL7": {
+      "region": "头部",
+      "relations": [
+        {
+          "kind": "distance",
+          "reference": "前发际正中",
+          "direction": "直上",
+          "cun": 4.0,
+          "detail": "",
+          "approximate": false
+        },
+        {
+          "kind": "anatomical",
+          "detail": "旁开1.5寸"
+        }
+      ],
+      "clause": "5.7.7",
+      "pdfPage": 26
+    },
+    "BL8": {
+      "region": "头部",
+      "relations": [
+        {
+          "kind": "distance",
+          "reference": "前发际正中",
+          "direction": "直上",
+          "cun": 5.5,
+          "detail": "",
+          "approximate": false
+        },
+        {
+          "kind": "anatomical",
+          "detail": "旁开1.5寸"
+        }
+      ],
+      "clause": "5.7.8",
+      "pdfPage": 26
+    },
+    "BL9": {
+      "region": "头部",
+      "relations": [
+        {
+          "kind": "level",
+          "reference": "枕外隆凸上缘"
+        },
+        {
+          "kind": "distance",
+          "reference": "后发际正中",
+          "direction": "旁开",
+          "cun": 1.3,
+          "detail": "",
+          "approximate": false
+        }
+      ],
+      "clause": "5.7.9",
+      "pdfPage": 26
+    },
+    "BL10": {
+      "region": "颈后部",
+      "relations": [
+        {
+          "kind": "level",
+          "reference": "第2颈椎棘突上际"
+        },
+        {
+          "kind": "anatomical",
+          "detail": "斜方肌外缘凹陷中"
+        }
+      ],
+      "clause": "5.7.10",
+      "pdfPage": 26
+    },
+    "BL11": {
+      "region": "背部",
+      "relations": [
+        {
+          "kind": "anatomical",
+          "detail": "第1胸椎棘突下"
+        },
+        {
+          "kind": "distance",
+          "reference": "后正中线",
+          "direction": "旁开",
+          "cun": 1.5,
+          "detail": "",
+          "approximate": false
+        }
+      ],
+      "clause": "5.7.11",
+      "pdfPage": 26
+    },
+    "BL12": {
+      "region": "背部",
+      "relations": [
+        {
+          "kind": "anatomical",
+          "detail": "第2胸椎棘突下"
+        },
+        {
+          "kind": "distance",
+          "reference": "后正中线",
+          "direction": "旁开",
+          "cun": 1.5,
+          "detail": "",
+          "approximate": false
+        }
+      ],
+      "clause": "5.7.12",
+      "pdfPage": 26
+    },
+    "BL13": {
+      "region": "背部",
+      "relations": [
+        {
+          "kind": "anatomical",
+          "detail": "第3胸椎棘突下"
+        },
+        {
+          "kind": "distance",
+          "reference": "后正中线",
+          "direction": "旁开",
+          "cun": 1.5,
+          "detail": "",
+          "approximate": false
+        }
+      ],
+      "clause": "5.7.13",
+      "pdfPage": 26
+    },
+    "BL14": {
+      "region": "背部",
+      "relations": [
+        {
+          "kind": "anatomical",
+          "detail": "第4胸椎棘突下"
+        },
+        {
+          "kind": "distance",
+          "reference": "后正中线",
+          "direction": "旁开",
+          "cun": 1.5,
+          "detail": "",
+          "approximate": false
+        }
+      ],
+      "clause": "5.7.14",
+      "pdfPage": 26
+    },
+    "BL15": {
+      "region": "背部",
+      "relations": [
+        {
+          "kind": "anatomical",
+          "detail": "第5胸椎棘突下"
+        },
+        {
+          "kind": "distance",
+          "reference": "后正中线",
+          "direction": "旁开",
+          "cun": 1.5,
+          "detail": "",
+          "approximate": false
+        }
+      ],
+      "clause": "5.7.15",
+      "pdfPage": 26
+    },
+    "BL16": {
+      "region": "背部",
+      "relations": [
+        {
+          "kind": "anatomical",
+          "detail": "第6胸椎棘突下"
+        },
+        {
+          "kind": "distance",
+          "reference": "后正中线",
+          "direction": "旁开",
+          "cun": 1.5,
+          "detail": "",
+          "approximate": false
+        }
+      ],
+      "clause": "5.7.16",
+      "pdfPage": 26
+    },
+    "BL17": {
+      "region": "背部",
+      "relations": [
+        {
+          "kind": "anatomical",
+          "detail": "第7胸椎棘突下"
+        },
+        {
+          "kind": "distance",
+          "reference": "后正中线",
+          "direction": "旁开",
+          "cun": 1.5,
+          "detail": "",
+          "approximate": false
+        }
+      ],
+      "clause": "5.7.17",
+      "pdfPage": 27
+    },
+    "BL18": {
+      "region": "背部",
+      "relations": [
+        {
+          "kind": "anatomical",
+          "detail": "第9胸椎棘突下"
+        },
+        {
+          "kind": "distance",
+          "reference": "后正中线",
+          "direction": "旁开",
+          "cun": 1.5,
+          "detail": "",
+          "approximate": false
+        }
+      ],
+      "clause": "5.7.18",
+      "pdfPage": 27
+    },
+    "BL19": {
+      "region": "背部",
+      "relations": [
+        {
+          "kind": "anatomical",
+          "detail": "第10胸椎棘突下"
+        },
+        {
+          "kind": "distance",
+          "reference": "后正中线",
+          "direction": "旁开",
+          "cun": 1.5,
+          "detail": "",
+          "approximate": false
+        }
+      ],
+      "clause": "5.7.19",
+      "pdfPage": 27
+    },
+    "BL20": {
+      "region": "背部",
+      "relations": [
+        {
+          "kind": "anatomical",
+          "detail": "第11胸椎棘突下"
+        },
+        {
+          "kind": "distance",
+          "reference": "后正中线",
+          "direction": "旁开",
+          "cun": 1.5,
+          "detail": "",
+          "approximate": false
+        }
+      ],
+      "clause": "5.7.20",
+      "pdfPage": 27
+    },
+    "BL21": {
+      "region": "背部",
+      "relations": [
+        {
+          "kind": "anatomical",
+          "detail": "第12胸椎棘突下"
+        },
+        {
+          "kind": "distance",
+          "reference": "后正中线",
+          "direction": "旁开",
+          "cun": 1.5,
+          "detail": "",
+          "approximate": false
+        }
+      ],
+      "clause": "5.7.21",
+      "pdfPage": 27
+    },
+    "BL22": {
+      "region": "腰部",
+      "relations": [
+        {
+          "kind": "anatomical",
+          "detail": "第1腰椎棘突下"
+        },
+        {
+          "kind": "distance",
+          "reference": "后正中线",
+          "direction": "旁开",
+          "cun": 1.5,
+          "detail": "",
+          "approximate": false
+        }
+      ],
+      "clause": "5.7.22",
+      "pdfPage": 27
+    },
+    "BL23": {
+      "region": "腰部",
+      "relations": [
+        {
+          "kind": "anatomical",
+          "detail": "第2腰椎棘突下"
+        },
+        {
+          "kind": "distance",
+          "reference": "后正中线",
+          "direction": "旁开",
+          "cun": 1.5,
+          "detail": "",
+          "approximate": false
+        }
+      ],
+      "clause": "5.7.23",
+      "pdfPage": 27
+    },
+    "BL24": {
+      "region": "腰部",
+      "relations": [
+        {
+          "kind": "anatomical",
+          "detail": "第3腰椎棘突下"
+        },
+        {
+          "kind": "distance",
+          "reference": "后正中线",
+          "direction": "旁开",
+          "cun": 1.5,
+          "detail": "",
+          "approximate": false
+        }
+      ],
+      "clause": "5.7.24",
+      "pdfPage": 27
+    },
+    "BL25": {
+      "region": "腰部",
+      "relations": [
+        {
+          "kind": "anatomical",
+          "detail": "第4腰椎棘突下"
+        },
+        {
+          "kind": "distance",
+          "reference": "后正中线",
+          "direction": "旁开",
+          "cun": 1.5,
+          "detail": "",
+          "approximate": false
+        }
+      ],
+      "clause": "5.7.25",
+      "pdfPage": 27
+    },
+    "BL26": {
+      "region": "腰部",
+      "relations": [
+        {
+          "kind": "anatomical",
+          "detail": "第5腰椎棘突下"
+        },
+        {
+          "kind": "distance",
+          "reference": "后正中线",
+          "direction": "旁开",
+          "cun": 1.5,
+          "detail": "",
+          "approximate": false
+        }
+      ],
+      "clause": "5.7.26",
+      "pdfPage": 27
+    },
+    "BL27": {
+      "region": "骶部",
+      "relations": [
+        {
+          "kind": "level",
+          "reference": "第1骶后孔"
+        },
+        {
+          "kind": "distance",
+          "reference": "骶正中嵴",
+          "direction": "旁开",
+          "cun": 1.5,
+          "detail": "",
+          "approximate": false
+        }
+      ],
+      "clause": "5.7.27",
+      "pdfPage": 27
+    },
+    "BL28": {
+      "region": "骶部",
+      "relations": [
+        {
+          "kind": "level",
+          "reference": "第2骶后孔"
+        },
+        {
+          "kind": "distance",
+          "reference": "骶正中嵴",
+          "direction": "旁开",
+          "cun": 1.5,
+          "detail": "",
+          "approximate": false
+        }
+      ],
+      "clause": "5.7.28",
+      "pdfPage": 27
+    },
+    "BL29": {
+      "region": "骶部",
+      "relations": [
+        {
+          "kind": "level",
+          "reference": "第3骶后孔"
+        },
+        {
+          "kind": "distance",
+          "reference": "骶正中嵴",
+          "direction": "旁开",
+          "cun": 1.5,
+          "detail": "",
+          "approximate": false
+        }
+      ],
+      "clause": "5.7.29",
+      "pdfPage": 27
+    },
+    "BL30": {
+      "region": "骶部",
+      "relations": [
+        {
+          "kind": "level",
+          "reference": "第4骶后孔"
+        },
+        {
+          "kind": "distance",
+          "reference": "骶正中嵴",
+          "direction": "旁开",
+          "cun": 1.5,
+          "detail": "",
+          "approximate": false
+        }
+      ],
+      "clause": "5.7.30",
+      "pdfPage": 28
+    },
+    "BL31": {
+      "region": "骶部",
+      "relations": [
+        {
+          "kind": "anatomical",
+          "detail": "正对第1骶后孔中"
+        }
+      ],
+      "clause": "5.7.31",
+      "pdfPage": 28
+    },
+    "BL32": {
+      "region": "骶部",
+      "relations": [
+        {
+          "kind": "anatomical",
+          "detail": "第2骶后孔中"
+        }
+      ],
+      "clause": "5.7.32",
+      "pdfPage": 28,
+      "postureNote": "俯卧时，参照髂后上棘与第2骶椎棘突连线中点附近的第2骶后孔。"
+    },
+    "BL33": {
+      "region": "骶部",
+      "relations": [
+        {
+          "kind": "anatomical",
+          "detail": "正对第3骶后孔中"
+        }
+      ],
+      "clause": "5.7.33",
+      "pdfPage": 28
+    },
+    "BL34": {
+      "region": "骶部",
+      "relations": [
+        {
+          "kind": "anatomical",
+          "detail": "正对第4骶后孔中"
+        }
+      ],
+      "clause": "5.7.34",
+      "pdfPage": 28
+    },
+    "BL35": {
+      "region": "臀部",
+      "relations": [
+        {
+          "kind": "distance",
+          "reference": "尾骨端",
+          "direction": "旁开",
+          "cun": 0.5,
+          "detail": "",
+          "approximate": false
+        }
+      ],
+      "clause": "5.7.35",
+      "pdfPage": 28,
+      "postureNote": "采用俯卧或跪伏位，参照尾骨下端旁的软组织凹陷。"
+    },
+    "BL36": {
+      "region": "臀部",
+      "relations": [
+        {
+          "kind": "anatomical",
+          "detail": "臀沟的中点"
+        }
+      ],
+      "clause": "5.7.36",
+      "pdfPage": 28
+    },
+    "BL37": {
+      "region": "股后侧",
+      "relations": [
+        {
+          "kind": "distance",
+          "reference": "臀沟",
+          "direction": "下",
+          "cun": 6.0,
+          "detail": "",
+          "approximate": false
+        },
+        {
+          "kind": "anatomical",
+          "detail": "股二头肌与半腱肌之间"
+        }
+      ],
+      "clause": "5.7.37",
+      "pdfPage": 28,
+      "postureNote": "俯卧、膝关节抗阻力屈曲时，半腱肌与股二头肌较易显露；大腿内外旋有助于辨认两肌。"
+    },
+    "BL38": {
+      "region": "膝后侧",
+      "relations": [
+        {
+          "kind": "distance",
+          "reference": "腘横纹",
+          "direction": "上",
+          "cun": 1.0,
+          "detail": "",
+          "approximate": false
+        },
+        {
+          "kind": "anatomical",
+          "detail": "股二头肌腱的内侧缘"
+        }
+      ],
+      "clause": "5.7.38",
+      "pdfPage": 28,
+      "postureNote": "稍屈膝时，参照委阳上1寸、股二头肌腱内侧缘。"
+    },
+    "BL39": {
+      "region": "膝后外侧",
+      "relations": [
+        {
+          "kind": "anatomical",
+          "detail": "腘横纹上"
+        },
+        {
+          "kind": "anatomical",
+          "detail": "股二头肌腱的内侧缘"
+        }
+      ],
+      "clause": "5.7.39",
+      "pdfPage": 28,
+      "postureNote": "稍屈膝时，辨认显露的股二头肌腱及其内侧缘。"
+    },
+    "BL40": {
+      "region": "膝后侧",
+      "relations": [
+        {
+          "kind": "anatomical",
+          "detail": "腘横纹中点"
+        }
+      ],
+      "clause": "5.7.40",
+      "pdfPage": 28
+    },
+    "BL41": {
+      "region": "背部",
+      "relations": [
+        {
+          "kind": "anatomical",
+          "detail": "第2胸椎棘突下"
+        },
+        {
+          "kind": "distance",
+          "reference": "后正中线",
+          "direction": "旁开",
+          "cun": 3.0,
+          "detail": "",
+          "approximate": false
+        }
+      ],
+      "clause": "5.7.41",
+      "pdfPage": 29
+    },
+    "BL42": {
+      "region": "背部",
+      "relations": [
+        {
+          "kind": "anatomical",
+          "detail": "第3胸椎棘突下"
+        },
+        {
+          "kind": "distance",
+          "reference": "后正中线",
+          "direction": "旁开",
+          "cun": 3.0,
+          "detail": "",
+          "approximate": false
+        }
+      ],
+      "clause": "5.7.42",
+      "pdfPage": 29
+    },
+    "BL43": {
+      "region": "背部",
+      "relations": [
+        {
+          "kind": "anatomical",
+          "detail": "第4胸椎棘突下"
+        },
+        {
+          "kind": "distance",
+          "reference": "后正中线",
+          "direction": "旁开",
+          "cun": 3.0,
+          "detail": "",
+          "approximate": false
+        }
+      ],
+      "clause": "5.7.43",
+      "pdfPage": 29
+    },
+    "BL44": {
+      "region": "背部",
+      "relations": [
+        {
+          "kind": "anatomical",
+          "detail": "第5胸椎棘突下"
+        },
+        {
+          "kind": "distance",
+          "reference": "后正中线",
+          "direction": "旁开",
+          "cun": 3.0,
+          "detail": "",
+          "approximate": false
+        }
+      ],
+      "clause": "5.7.44",
+      "pdfPage": 29
+    },
+    "BL45": {
+      "region": "背部",
+      "relations": [
+        {
+          "kind": "anatomical",
+          "detail": "第6胸椎棘突下"
+        },
+        {
+          "kind": "distance",
+          "reference": "后正中线",
+          "direction": "旁开",
+          "cun": 3.0,
+          "detail": "",
+          "approximate": false
+        }
+      ],
+      "clause": "5.7.45",
+      "pdfPage": 29
+    },
+    "BL46": {
+      "region": "背部",
+      "relations": [
+        {
+          "kind": "anatomical",
+          "detail": "第7胸椎棘突下"
+        },
+        {
+          "kind": "distance",
+          "reference": "后正中线",
+          "direction": "旁开",
+          "cun": 3.0,
+          "detail": "",
+          "approximate": false
+        }
+      ],
+      "clause": "5.7.46",
+      "pdfPage": 29
+    },
+    "BL47": {
+      "region": "背部",
+      "relations": [
+        {
+          "kind": "anatomical",
+          "detail": "第9胸椎棘突下"
+        },
+        {
+          "kind": "distance",
+          "reference": "后正中线",
+          "direction": "旁开",
+          "cun": 3.0,
+          "detail": "",
+          "approximate": false
+        }
+      ],
+      "clause": "5.7.47",
+      "pdfPage": 29
+    },
+    "BL48": {
+      "region": "背部",
+      "relations": [
+        {
+          "kind": "anatomical",
+          "detail": "第10胸椎棘突下"
+        },
+        {
+          "kind": "distance",
+          "reference": "后正中线",
+          "direction": "旁开",
+          "cun": 3.0,
+          "detail": "",
+          "approximate": false
+        }
+      ],
+      "clause": "5.7.48",
+      "pdfPage": 29
+    },
+    "BL49": {
+      "region": "背部",
+      "relations": [
+        {
+          "kind": "anatomical",
+          "detail": "第11胸椎棘突下"
+        },
+        {
+          "kind": "distance",
+          "reference": "后正中线",
+          "direction": "旁开",
+          "cun": 3.0,
+          "detail": "",
+          "approximate": false
+        }
+      ],
+      "clause": "5.7.49",
+      "pdfPage": 29
+    },
+    "BL50": {
+      "region": "背部",
+      "relations": [
+        {
+          "kind": "anatomical",
+          "detail": "第12胸椎棘突下"
+        },
+        {
+          "kind": "distance",
+          "reference": "后正中线",
+          "direction": "旁开",
+          "cun": 3.0,
+          "detail": "",
+          "approximate": false
+        }
+      ],
+      "clause": "5.7.50",
+      "pdfPage": 29
+    },
+    "BL51": {
+      "region": "腰部",
+      "relations": [
+        {
+          "kind": "anatomical",
+          "detail": "第1腰椎棘突下"
+        },
+        {
+          "kind": "distance",
+          "reference": "后正中线",
+          "direction": "旁开",
+          "cun": 3.0,
+          "detail": "",
+          "approximate": false
+        }
+      ],
+      "clause": "5.7.51",
+      "pdfPage": 29
+    },
+    "BL52": {
+      "region": "腰部",
+      "relations": [
+        {
+          "kind": "anatomical",
+          "detail": "第2腰椎棘突下"
+        },
+        {
+          "kind": "distance",
+          "reference": "后正中线",
+          "direction": "旁开",
+          "cun": 3.0,
+          "detail": "",
+          "approximate": false
+        }
+      ],
+      "clause": "5.7.52",
+      "pdfPage": 30
+    },
+    "BL53": {
+      "region": "臀部",
+      "relations": [
+        {
+          "kind": "level",
+          "reference": "第2骶后孔"
+        },
+        {
+          "kind": "distance",
+          "reference": "骶正中嵴",
+          "direction": "旁开",
+          "cun": 3.0,
+          "detail": "",
+          "approximate": false
+        }
+      ],
+      "clause": "5.7.53",
+      "pdfPage": 30
+    },
+    "BL54": {
+      "region": "臀部",
+      "relations": [
+        {
+          "kind": "level",
+          "reference": "第4骶后孔"
+        },
+        {
+          "kind": "distance",
+          "reference": "骶正中嵴",
+          "direction": "旁开",
+          "cun": 3.0,
+          "detail": "",
+          "approximate": false
+        }
+      ],
+      "clause": "5.7.54",
+      "pdfPage": 30
+    },
+    "BL55": {
+      "region": "小腿后侧",
+      "relations": [
+        {
+          "kind": "distance",
+          "reference": "腘横纹",
+          "direction": "下",
+          "cun": 2.0,
+          "detail": "",
+          "approximate": false
+        },
+        {
+          "kind": "anatomical",
+          "detail": "腓肠肌内、外侧头之间"
+        }
+      ],
+      "clause": "5.7.55",
+      "pdfPage": 30
+    },
+    "BL56": {
+      "region": "小腿后侧",
+      "relations": [
+        {
+          "kind": "distance",
+          "reference": "腘横纹",
+          "direction": "下",
+          "cun": 5.0,
+          "detail": "",
+          "approximate": false
+        },
+        {
+          "kind": "anatomical",
+          "detail": "腓肠肌两肌腹之间"
+        }
+      ],
+      "clause": "5.7.56",
+      "pdfPage": 30
+    },
+    "BL57": {
+      "region": "小腿后侧",
+      "relations": [
+        {
+          "kind": "anatomical",
+          "detail": "腓肠肌两肌腹与跟腱交角处"
+        }
+      ],
+      "clause": "5.7.57",
+      "pdfPage": 30
+    },
+    "BL58": {
+      "region": "小腿后外侧",
+      "relations": [
+        {
+          "kind": "anatomical",
+          "detail": "腓肠肌外下缘与跟腱移行处"
+        },
+        {
+          "kind": "distance",
+          "reference": "昆仑(BL60)",
+          "direction": "直上",
+          "cun": 7.0,
+          "detail": "",
+          "approximate": true
+        }
+      ],
+      "clause": "5.7.58",
+      "pdfPage": 30
+    },
+    "BL59": {
+      "region": "小腿后外侧",
+      "relations": [
+        {
+          "kind": "distance",
+          "reference": "昆仑(BL60)",
+          "direction": "直上",
+          "cun": 3.0,
+          "detail": "",
+          "approximate": false
+        },
+        {
+          "kind": "anatomical",
+          "detail": "腓骨与跟腱之间"
+        }
+      ],
+      "clause": "5.7.59",
+      "pdfPage": 30
+    },
+    "BL60": {
+      "region": "踝后外侧",
+      "relations": [
+        {
+          "kind": "anatomical",
+          "detail": "外踝尖与跟腱之间的凹陷中"
+        }
+      ],
+      "clause": "5.7.60",
+      "pdfPage": 30
+    },
+    "BL61": {
+      "region": "足外侧",
+      "relations": [
+        {
+          "kind": "anatomical",
+          "detail": "昆仑(BL60)直下"
+        },
+        {
+          "kind": "anatomical",
+          "detail": "跟骨外侧"
+        },
+        {
+          "kind": "anatomical",
+          "detail": "赤白肉际处"
+        }
+      ],
+      "clause": "5.7.61",
+      "pdfPage": 30
+    },
+    "BL62": {
+      "region": "足外侧",
+      "relations": [
+        {
+          "kind": "anatomical",
+          "detail": "外踝尖直下"
+        },
+        {
+          "kind": "anatomical",
+          "detail": "外踝下缘与跟骨之间凹陷中"
+        }
+      ],
+      "clause": "5.7.62",
+      "pdfPage": 30
+    },
+    "BL63": {
+      "region": "足背",
+      "relations": [
+        {
+          "kind": "anatomical",
+          "detail": "外踝前缘直下"
+        },
+        {
+          "kind": "anatomical",
+          "detail": "第5跖骨粗隆后方"
+        },
+        {
+          "kind": "anatomical",
+          "detail": "骰骨下缘凹陷中"
+        }
+      ],
+      "clause": "5.7.63",
+      "pdfPage": 30
+    },
+    "BL64": {
+      "region": "足外侧",
+      "relations": [
+        {
+          "kind": "anatomical",
+          "detail": "第5跖骨粗隆前下方"
+        },
+        {
+          "kind": "anatomical",
+          "detail": "赤白肉际处"
+        }
+      ],
+      "clause": "5.7.64",
+      "pdfPage": 31
+    },
+    "BL65": {
+      "region": "足外侧",
+      "relations": [
+        {
+          "kind": "anatomical",
+          "detail": "第5跖趾关节的近端"
+        },
+        {
+          "kind": "anatomical",
+          "detail": "赤白肉际处"
+        }
+      ],
+      "clause": "5.7.65",
+      "pdfPage": 31
+    },
+    "BL66": {
+      "region": "足趾",
+      "relations": [
+        {
+          "kind": "anatomical",
+          "detail": "第5跖趾关节的远端"
+        },
+        {
+          "kind": "anatomical",
+          "detail": "赤白肉际处"
+        }
+      ],
+      "clause": "5.7.66",
+      "pdfPage": 31
+    },
+    "BL67": {
+      "region": "足趾",
+      "relations": [
+        {
+          "kind": "anatomical",
+          "detail": "小趾末节外侧"
+        },
+        {
+          "kind": "distance",
+          "reference": "趾甲根角",
+          "direction": "侧后方",
+          "cun": 0.1,
+          "detail": "",
+          "approximate": false
+        }
+      ],
+      "clause": "5.7.67",
+      "pdfPage": 31
+    },
+    "KI1": {
+      "region": "足底",
+      "relations": [
+        {
+          "kind": "anatomical",
+          "detail": "屈足卷趾时足心最凹陷中"
+        }
+      ],
+      "clause": "5.8.1",
+      "pdfPage": 31,
+      "postureNote": "卧位或伸腿坐位，屈足卷趾时辨认足心最明显的凹陷。"
+    },
+    "KI2": {
+      "region": "足内侧",
+      "relations": [
+        {
+          "kind": "anatomical",
+          "detail": "足舟骨粗隆下方"
+        },
+        {
+          "kind": "anatomical",
+          "detail": "赤白肉际处"
+        }
+      ],
+      "clause": "5.8.2",
+      "pdfPage": 31
+    },
+    "KI3": {
+      "region": "踝后内侧",
+      "relations": [
+        {
+          "kind": "anatomical",
+          "detail": "内踝尖与跟腱之间的凹陷中"
+        }
+      ],
+      "clause": "5.8.3",
+      "pdfPage": 31
+    },
+    "KI4": {
+      "region": "足内侧",
+      "relations": [
+        {
+          "kind": "anatomical",
+          "detail": "内踝后下方"
+        },
+        {
+          "kind": "anatomical",
+          "detail": "跟骨上缘"
+        },
+        {
+          "kind": "anatomical",
+          "detail": "跟腱附着部内侧前缘凹陷中"
+        }
+      ],
+      "clause": "5.8.4",
+      "pdfPage": 31
+    },
+    "KI5": {
+      "region": "足内侧",
+      "relations": [
+        {
+          "kind": "distance",
+          "reference": "太溪(KI3)",
+          "direction": "直下",
+          "cun": 1.0,
+          "detail": "",
+          "approximate": false
+        },
+        {
+          "kind": "anatomical",
+          "detail": "跟骨结节内侧凹陷中"
+        }
+      ],
+      "clause": "5.8.5",
+      "pdfPage": 31
+    },
+    "KI6": {
+      "region": "足内侧",
+      "relations": [
+        {
+          "kind": "distance",
+          "reference": "内踝尖",
+          "direction": "下",
+          "cun": 1.0,
+          "detail": "",
+          "approximate": false
+        },
+        {
+          "kind": "anatomical",
+          "detail": "内踝下缘边际凹陷中"
+        }
+      ],
+      "clause": "5.8.6",
+      "pdfPage": 31
+    },
+    "KI7": {
+      "region": "小腿后内侧",
+      "relations": [
+        {
+          "kind": "distance",
+          "reference": "内踝尖",
+          "direction": "上",
+          "cun": 2.0,
+          "detail": "",
+          "approximate": false
+        },
+        {
+          "kind": "anatomical",
+          "detail": "跟腱的前缘"
+        }
+      ],
+      "clause": "5.8.7",
+      "pdfPage": 31
+    },
+    "KI8": {
+      "region": "小腿内侧",
+      "relations": [
+        {
+          "kind": "distance",
+          "reference": "内踝尖",
+          "direction": "上",
+          "cun": 2.0,
+          "detail": "",
+          "approximate": false
+        },
+        {
+          "kind": "anatomical",
+          "detail": "胫骨内侧缘后际凹陷中"
+        }
+      ],
+      "clause": "5.8.8",
+      "pdfPage": 31
+    },
+    "KI9": {
+      "region": "小腿后内侧",
+      "relations": [
+        {
+          "kind": "distance",
+          "reference": "太溪(KI3)",
+          "direction": "直上",
+          "cun": 5.0,
+          "detail": "",
+          "approximate": false
+        },
+        {
+          "kind": "anatomical",
+          "detail": "比目鱼肌与跟腱之间"
+        }
+      ],
+      "clause": "5.8.9",
+      "pdfPage": 32,
+      "postureNote": "屈膝、小腿抗阻力绷紧时，辨认胫骨内侧缘后方显露的比目鱼肌。"
+    },
+    "KI10": {
+      "region": "膝后内侧",
+      "relations": [
+        {
+          "kind": "anatomical",
+          "detail": "腘横纹上"
+        },
+        {
+          "kind": "anatomical",
+          "detail": "半腱肌肌腱外侧缘"
+        }
+      ],
+      "clause": "5.8.10",
+      "pdfPage": 32,
+      "postureNote": "屈膝时，参照腘窝内侧、与委中同高的位置。"
+    },
+    "KI11": {
+      "region": "下腹部",
+      "relations": [
+        {
+          "kind": "distance",
+          "reference": "脐中",
+          "direction": "下",
+          "cun": 5.0,
+          "detail": "",
+          "approximate": false
+        },
+        {
+          "kind": "distance",
+          "reference": "前正中线",
+          "direction": "旁开",
+          "cun": 0.5,
+          "detail": "",
+          "approximate": false
+        }
+      ],
+      "clause": "5.8.11",
+      "pdfPage": 32
+    },
+    "KI12": {
+      "region": "下腹部",
+      "relations": [
+        {
+          "kind": "distance",
+          "reference": "脐中",
+          "direction": "下",
+          "cun": 4.0,
+          "detail": "",
+          "approximate": false
+        },
+        {
+          "kind": "distance",
+          "reference": "前正中线",
+          "direction": "旁开",
+          "cun": 0.5,
+          "detail": "",
+          "approximate": false
+        }
+      ],
+      "clause": "5.8.12",
+      "pdfPage": 32
+    },
+    "KI13": {
+      "region": "下腹部",
+      "relations": [
+        {
+          "kind": "distance",
+          "reference": "脐中",
+          "direction": "下",
+          "cun": 3.0,
+          "detail": "",
+          "approximate": false
+        },
+        {
+          "kind": "distance",
+          "reference": "前正中线",
+          "direction": "旁开",
+          "cun": 0.5,
+          "detail": "",
+          "approximate": false
+        }
+      ],
+      "clause": "5.8.13",
+      "pdfPage": 32
+    },
+    "KI14": {
+      "region": "下腹部",
+      "relations": [
+        {
+          "kind": "distance",
+          "reference": "脐中",
+          "direction": "下",
+          "cun": 2.0,
+          "detail": "",
+          "approximate": false
+        },
+        {
+          "kind": "distance",
+          "reference": "前正中线",
+          "direction": "旁开",
+          "cun": 0.5,
+          "detail": "",
+          "approximate": false
+        }
+      ],
+      "clause": "5.8.14",
+      "pdfPage": 32
+    },
+    "KI15": {
+      "region": "下腹部",
+      "relations": [
+        {
+          "kind": "distance",
+          "reference": "脐中",
+          "direction": "下",
+          "cun": 1.0,
+          "detail": "",
+          "approximate": false
+        },
+        {
+          "kind": "distance",
+          "reference": "前正中线",
+          "direction": "旁开",
+          "cun": 0.5,
+          "detail": "",
+          "approximate": false
+        }
+      ],
+      "clause": "5.8.15",
+      "pdfPage": 32
+    },
+    "KI16": {
+      "region": "上腹部",
+      "relations": [
+        {
+          "kind": "distance",
+          "reference": "脐中",
+          "direction": "旁开",
+          "cun": 0.5,
+          "detail": "",
+          "approximate": false
+        }
+      ],
+      "clause": "5.8.16",
+      "pdfPage": 32
+    },
+    "KI17": {
+      "region": "上腹部",
+      "relations": [
+        {
+          "kind": "distance",
+          "reference": "脐中",
+          "direction": "上",
+          "cun": 2.0,
+          "detail": "",
+          "approximate": false
+        },
+        {
+          "kind": "distance",
+          "reference": "前正中线",
+          "direction": "旁开",
+          "cun": 0.5,
+          "detail": "",
+          "approximate": false
+        }
+      ],
+      "clause": "5.8.17",
+      "pdfPage": 32
+    },
+    "KI18": {
+      "region": "上腹部",
+      "relations": [
+        {
+          "kind": "distance",
+          "reference": "脐中",
+          "direction": "上",
+          "cun": 3.0,
+          "detail": "",
+          "approximate": false
+        },
+        {
+          "kind": "distance",
+          "reference": "前正中线",
+          "direction": "旁开",
+          "cun": 0.5,
+          "detail": "",
+          "approximate": false
+        }
+      ],
+      "clause": "5.8.18",
+      "pdfPage": 32
+    },
+    "KI19": {
+      "region": "上腹部",
+      "relations": [
+        {
+          "kind": "distance",
+          "reference": "脐中",
+          "direction": "上",
+          "cun": 4.0,
+          "detail": "",
+          "approximate": false
+        },
+        {
+          "kind": "distance",
+          "reference": "前正中线",
+          "direction": "旁开",
+          "cun": 0.5,
+          "detail": "",
+          "approximate": false
+        }
+      ],
+      "clause": "5.8.19",
+      "pdfPage": 32
+    },
+    "KI20": {
+      "region": "上腹部",
+      "relations": [
+        {
+          "kind": "distance",
+          "reference": "脐中",
+          "direction": "上",
+          "cun": 5.0,
+          "detail": "",
+          "approximate": false
+        },
+        {
+          "kind": "distance",
+          "reference": "前正中线",
+          "direction": "旁开",
+          "cun": 0.5,
+          "detail": "",
+          "approximate": false
+        }
+      ],
+      "clause": "5.8.20",
+      "pdfPage": 32
+    },
+    "KI21": {
+      "region": "上腹部",
+      "relations": [
+        {
+          "kind": "distance",
+          "reference": "脐中",
+          "direction": "上",
+          "cun": 6.0,
+          "detail": "",
+          "approximate": false
+        },
+        {
+          "kind": "distance",
+          "reference": "前正中线",
+          "direction": "旁开",
+          "cun": 0.5,
+          "detail": "",
+          "approximate": false
+        }
+      ],
+      "clause": "5.8.21",
+      "pdfPage": 32
+    },
+    "KI22": {
+      "region": "前胸部",
+      "relations": [
+        {
+          "kind": "intercostal",
+          "space": 5
+        },
+        {
+          "kind": "distance",
+          "reference": "前正中线",
+          "direction": "旁开",
+          "cun": 2.0,
+          "detail": "",
+          "approximate": false
+        }
+      ],
+      "clause": "5.8.22",
+      "pdfPage": 33
+    },
+    "KI23": {
+      "region": "前胸部",
+      "relations": [
+        {
+          "kind": "intercostal",
+          "space": 4
+        },
+        {
+          "kind": "distance",
+          "reference": "前正中线",
+          "direction": "旁开",
+          "cun": 2.0,
+          "detail": "",
+          "approximate": false
+        }
+      ],
+      "clause": "5.8.23",
+      "pdfPage": 33
+    },
+    "KI24": {
+      "region": "前胸部",
+      "relations": [
+        {
+          "kind": "intercostal",
+          "space": 3
+        },
+        {
+          "kind": "distance",
+          "reference": "前正中线",
+          "direction": "旁开",
+          "cun": 2.0,
+          "detail": "",
+          "approximate": false
+        }
+      ],
+      "clause": "5.8.24",
+      "pdfPage": 33
+    },
+    "KI25": {
+      "region": "前胸部",
+      "relations": [
+        {
+          "kind": "intercostal",
+          "space": 2
+        },
+        {
+          "kind": "distance",
+          "reference": "前正中线",
+          "direction": "旁开",
+          "cun": 2.0,
+          "detail": "",
+          "approximate": false
+        }
+      ],
+      "clause": "5.8.25",
+      "pdfPage": 33
+    },
+    "KI26": {
+      "region": "前胸部",
+      "relations": [
+        {
+          "kind": "intercostal",
+          "space": 1
+        },
+        {
+          "kind": "distance",
+          "reference": "前正中线",
+          "direction": "旁开",
+          "cun": 2.0,
+          "detail": "",
+          "approximate": false
+        }
+      ],
+      "clause": "5.8.26",
+      "pdfPage": 33
+    },
+    "KI27": {
+      "region": "前胸部",
+      "relations": [
+        {
+          "kind": "anatomical",
+          "detail": "锁骨下缘"
+        },
+        {
+          "kind": "distance",
+          "reference": "前正中线",
+          "direction": "旁开",
+          "cun": 2.0,
+          "detail": "",
+          "approximate": false
+        }
+      ],
+      "clause": "5.8.27",
+      "pdfPage": 33
+    },
+    "PC1": {
+      "region": "前胸部",
+      "relations": [
+        {
+          "kind": "intercostal",
+          "space": 4
+        },
+        {
+          "kind": "distance",
+          "reference": "前正中线",
+          "direction": "旁开",
+          "cun": 5.0,
+          "detail": "",
+          "approximate": false
+        }
+      ],
+      "clause": "5.9.1",
+      "pdfPage": 33
+    },
+    "PC2": {
+      "region": "臂前侧",
+      "relations": [
+        {
+          "kind": "distance",
+          "reference": "腋前纹头",
+          "direction": "下",
+          "cun": 2.0,
+          "detail": "",
+          "approximate": false
+        },
+        {
+          "kind": "anatomical",
+          "detail": "肱二头肌的长、短头之间"
+        }
+      ],
+      "clause": "5.9.2",
+      "pdfPage": 33
+    },
+    "PC3": {
+      "region": "肘前侧",
+      "relations": [
+        {
+          "kind": "anatomical",
+          "detail": "肘横纹上"
+        },
+        {
+          "kind": "anatomical",
+          "detail": "肱二头肌腱的尺侧缘凹陷中"
+        }
+      ],
+      "clause": "5.9.3",
+      "pdfPage": 33,
+      "postureNote": "掌心向上、屈肘45°时，辨认肱二头肌腱的尺侧缘凹陷。"
+    },
+    "PC4": {
+      "region": "前臂前侧",
+      "relations": [
+        {
+          "kind": "distance",
+          "reference": "腕掌侧远端横纹",
+          "direction": "上",
+          "cun": 5.0,
+          "detail": "",
+          "approximate": false
+        },
+        {
+          "kind": "anatomical",
+          "detail": "掌长肌腱与桡侧腕屈肌腱之间"
+        }
+      ],
+      "clause": "5.9.4",
+      "pdfPage": 33,
+      "postureNote": "握拳、手外展、微屈腕时辨认两肌腱；若掌长肌腱不能辨认，国标另以桡侧腕屈肌腱尺侧为定位参照。"
+    },
+    "PC5": {
+      "region": "前臂前侧",
+      "relations": [
+        {
+          "kind": "distance",
+          "reference": "腕掌侧远端横纹",
+          "direction": "上",
+          "cun": 3.0,
+          "detail": "",
+          "approximate": false
+        },
+        {
+          "kind": "anatomical",
+          "detail": "掌长肌腱与桡侧腕屈肌腱之间"
+        }
+      ],
+      "clause": "5.9.5",
+      "pdfPage": 33,
+      "postureNote": "握拳、手外展、微屈腕时辨认两肌腱；若掌长肌腱不能辨认，国标另以桡侧腕屈肌腱尺侧为定位参照。"
+    },
+    "PC6": {
+      "region": "前臂前侧",
+      "relations": [
+        {
+          "kind": "distance",
+          "reference": "腕掌侧远端横纹",
+          "direction": "上",
+          "cun": 2.0,
+          "detail": "",
+          "approximate": false
+        },
+        {
+          "kind": "anatomical",
+          "detail": "掌长肌腱与桡侧腕屈肌腱之间"
+        }
+      ],
+      "clause": "5.9.6",
+      "pdfPage": 33,
+      "postureNote": "握拳、手外展、微屈腕时辨认两肌腱；若掌长肌腱不能辨认，国标另以桡侧腕屈肌腱尺侧为定位参照（该注续于PDF第34页）。"
+    },
+    "PC7": {
+      "region": "腕前侧",
+      "relations": [
+        {
+          "kind": "anatomical",
+          "detail": "腕掌侧远端横纹中"
+        },
+        {
+          "kind": "anatomical",
+          "detail": "掌长肌腱与桡侧腕屈肌腱之间"
+        }
+      ],
+      "clause": "5.9.7",
+      "pdfPage": 34,
+      "postureNote": "握拳、手外展、微屈腕时辨认两肌腱；若掌长肌腱不能辨认，国标另以桡侧腕屈肌腱尺侧为定位参照。"
+    },
+    "PC8": {
+      "region": "手掌",
+      "relations": [
+        {
+          "kind": "level",
+          "reference": "第3掌指关节近端"
+        },
+        {
+          "kind": "anatomical",
+          "detail": "第2、3掌骨之间偏于第3掌骨"
+        }
+      ],
+      "clause": "5.9.8",
+      "pdfPage": 34,
+      "postureNote": "握拳屈指时，参照中指尖所指处及第3掌骨桡侧。"
+    },
+    "PC9": {
+      "region": "手指",
+      "relations": [
+        {
+          "kind": "anatomical",
+          "detail": "中指末端最高点"
+        }
+      ],
+      "clause": "5.9.9",
+      "pdfPage": 34
+    },
+    "TE1": {
+      "region": "手指",
+      "relations": [
+        {
+          "kind": "anatomical",
+          "detail": "第4指末节尺侧"
+        },
+        {
+          "kind": "distance",
+          "reference": "指甲根角",
+          "direction": "侧上方",
+          "cun": 0.1,
+          "detail": "",
+          "approximate": false
+        }
+      ],
+      "clause": "5.10.1",
+      "pdfPage": 34
+    },
+    "TE2": {
+      "region": "手背",
+      "relations": [
+        {
+          "kind": "anatomical",
+          "detail": "第4、5指间"
+        },
+        {
+          "kind": "anatomical",
+          "detail": "指蹼缘上方赤白肉际凹陷中"
+        }
+      ],
+      "clause": "5.10.2",
+      "pdfPage": 34
+    },
+    "TE3": {
+      "region": "手背",
+      "relations": [
+        {
+          "kind": "anatomical",
+          "detail": "第4、5掌骨间"
+        },
+        {
+          "kind": "anatomical",
+          "detail": "第4掌指关节近端凹陷中"
+        }
+      ],
+      "clause": "5.10.3",
+      "pdfPage": 34
+    },
+    "TE4": {
+      "region": "腕后侧",
+      "relations": [
+        {
+          "kind": "anatomical",
+          "detail": "腕背侧远端横纹上"
+        },
+        {
+          "kind": "anatomical",
+          "detail": "指伸肌腱的尺侧缘凹陷中"
+        }
+      ],
+      "clause": "5.10.4",
+      "pdfPage": 34
+    },
+    "TE5": {
+      "region": "前臂后侧",
+      "relations": [
+        {
+          "kind": "distance",
+          "reference": "腕背侧远端横纹",
+          "direction": "上",
+          "cun": 2.0,
+          "detail": "",
+          "approximate": false
+        },
+        {
+          "kind": "anatomical",
+          "detail": "尺骨与桡骨间隙中点"
+        }
+      ],
+      "clause": "5.10.5",
+      "pdfPage": 34
+    },
+    "TE6": {
+      "region": "前臂后侧",
+      "relations": [
+        {
+          "kind": "distance",
+          "reference": "腕背侧远端横纹",
+          "direction": "上",
+          "cun": 3.0,
+          "detail": "",
+          "approximate": false
+        },
+        {
+          "kind": "anatomical",
+          "detail": "尺骨与桡骨间隙中点"
+        }
+      ],
+      "clause": "5.10.6",
+      "pdfPage": 34
+    },
+    "TE7": {
+      "region": "前臂后侧",
+      "relations": [
+        {
+          "kind": "distance",
+          "reference": "腕背侧远端横纹",
+          "direction": "上",
+          "cun": 3.0,
+          "detail": "",
+          "approximate": false
+        },
+        {
+          "kind": "anatomical",
+          "detail": "尺骨的桡侧缘"
+        }
+      ],
+      "clause": "5.10.7",
+      "pdfPage": 34
+    },
+    "TE8": {
+      "region": "前臂后侧",
+      "relations": [
+        {
+          "kind": "distance",
+          "reference": "腕背侧远端横纹",
+          "direction": "上",
+          "cun": 4.0,
+          "detail": "",
+          "approximate": false
+        },
+        {
+          "kind": "anatomical",
+          "detail": "尺骨与桡骨间隙中点"
+        }
+      ],
+      "clause": "5.10.8",
+      "pdfPage": 35
+    },
+    "TE9": {
+      "region": "前臂后侧",
+      "relations": [
+        {
+          "kind": "distance",
+          "reference": "尺骨鹰嘴尖",
+          "direction": "下",
+          "cun": 5.0,
+          "detail": "",
+          "approximate": false
+        },
+        {
+          "kind": "anatomical",
+          "detail": "尺骨与桡骨间隙中点"
+        }
+      ],
+      "clause": "5.10.9",
+      "pdfPage": 35
+    },
+    "TE10": {
+      "region": "肘后侧",
+      "relations": [
+        {
+          "kind": "distance",
+          "reference": "尺骨鹰嘴尖",
+          "direction": "上",
+          "cun": 1.0,
+          "detail": "凹陷中",
+          "approximate": false
+        }
+      ],
+      "clause": "5.10.10",
+      "pdfPage": 35,
+      "postureNote": "屈肘90°时，参照鹰嘴窝凹陷。"
+    },
+    "TE11": {
+      "region": "臂后侧",
+      "relations": [
+        {
+          "kind": "anatomical",
+          "detail": "尺骨鹰嘴尖与肩峰角连线上"
+        },
+        {
+          "kind": "distance",
+          "reference": "尺骨鹰嘴尖",
+          "direction": "上",
+          "cun": 2.0,
+          "detail": "",
+          "approximate": false
+        }
+      ],
+      "clause": "5.10.11",
+      "pdfPage": 35
+    },
+    "TE12": {
+      "region": "臂后侧",
+      "relations": [
+        {
+          "kind": "anatomical",
+          "detail": "尺骨鹰嘴尖与肩峰角连线上"
+        },
+        {
+          "kind": "distance",
+          "reference": "鹰嘴尖",
+          "direction": "上",
+          "cun": 5.0,
+          "detail": "",
+          "approximate": false
+        }
+      ],
+      "clause": "5.10.12",
+      "pdfPage": 35
+    },
+    "TE13": {
+      "region": "臂后侧",
+      "relations": [
+        {
+          "kind": "anatomical",
+          "detail": "尺骨鹰嘴尖与肩峰角连线上"
+        },
+        {
+          "kind": "anatomical",
+          "detail": "与三角肌后缘相交处"
+        }
+      ],
+      "clause": "5.10.13",
+      "pdfPage": 35
+    },
+    "TE14": {
+      "region": "肩带部",
+      "relations": [
+        {
+          "kind": "anatomical",
+          "detail": "肩峰角与肱骨大结节两骨间凹陷中"
+        }
+      ],
+      "clause": "5.10.14",
+      "pdfPage": 35,
+      "postureNote": "屈臂外展时，肩峰外侧缘前后可见两个凹陷；后方者对应肩髎，前方较深者对应肩髃。"
+    },
+    "TE15": {
+      "region": "肩带部",
+      "relations": [
+        {
+          "kind": "anatomical",
+          "detail": "肩胛骨上角骨际凹陷中"
+        }
+      ],
+      "clause": "5.10.15",
+      "pdfPage": 35,
+      "postureNote": "正坐垂肩时，参照肩井与曲垣连线的中点。"
+    },
+    "TE16": {
+      "region": "颈前部",
+      "relations": [
+        {
+          "kind": "level",
+          "reference": "下颌角"
+        },
+        {
+          "kind": "anatomical",
+          "detail": "胸锁乳突肌的后缘凹陷中"
+        }
+      ],
+      "clause": "5.10.16",
+      "pdfPage": 35
+    },
+    "TE17": {
+      "region": "颈部",
+      "relations": [
+        {
+          "kind": "anatomical",
+          "detail": "耳垂后方"
+        },
+        {
+          "kind": "anatomical",
+          "detail": "乳突下端前方凹陷中"
+        }
+      ],
+      "clause": "5.10.17",
+      "pdfPage": 35
+    },
+    "TE18": {
+      "region": "头部",
+      "relations": [
+        {
+          "kind": "anatomical",
+          "detail": "乳突中央"
+        },
+        {
+          "kind": "anatomical",
+          "detail": "角孙(TE20)与翳风(TE17)沿耳轮弧形连线的上2/3与下1/3的交点处"
+        }
+      ],
+      "clause": "5.10.18",
+      "pdfPage": 35
+    },
+    "TE19": {
+      "region": "头部",
+      "relations": [
+        {
+          "kind": "anatomical",
+          "detail": "角孙(TE20)与翳风(TE17)沿耳轮弧形连线的上1/3与下2/3的交点处"
+        }
+      ],
+      "clause": "5.10.19",
+      "pdfPage": 35
+    },
+    "TE20": {
+      "region": "头部",
+      "relations": [
+        {
+          "kind": "anatomical",
+          "detail": "耳尖正对发际处"
+        }
+      ],
+      "clause": "5.10.20",
+      "pdfPage": 36
+    },
+    "TE21": {
+      "region": "面部",
+      "relations": [
+        {
+          "kind": "anatomical",
+          "detail": "耳屏上切迹与下颌骨髁突之间的凹陷中"
+        }
+      ],
+      "clause": "5.10.21",
+      "pdfPage": 36,
+      "postureNote": "微张口时，参照耳屏上切迹前方的凹陷，位于听宫直上。"
+    },
+    "TE22": {
+      "region": "头部",
+      "relations": [
+        {
+          "kind": "anatomical",
+          "detail": "鬓发后缘"
+        },
+        {
+          "kind": "anatomical",
+          "detail": "耳郭根的前方"
+        },
+        {
+          "kind": "anatomical",
+          "detail": "颞浅动脉的后缘"
+        }
+      ],
+      "clause": "5.10.22",
+      "pdfPage": 36
+    },
+    "TE23": {
+      "region": "头部",
+      "relations": [
+        {
+          "kind": "anatomical",
+          "detail": "眉梢凹陷中"
+        }
+      ],
+      "clause": "5.10.23",
+      "pdfPage": 36
+    },
+    "GB1": {
+      "region": "头部",
+      "relations": [
+        {
+          "kind": "distance",
+          "reference": "目外眦",
+          "direction": "外侧",
+          "cun": 0.5,
+          "detail": "凹陷中",
+          "approximate": false
+        }
+      ],
+      "clause": "5.11.1",
+      "pdfPage": 36
+    },
+    "GB2": {
+      "region": "面部",
+      "relations": [
+        {
+          "kind": "anatomical",
+          "detail": "耳屏间切迹与下颌骨髁突之间的凹陷中"
+        }
+      ],
+      "clause": "5.11.2",
+      "pdfPage": 36,
+      "postureNote": "微张口时，参照耳屏间切迹前方的凹陷，位于听宫直下。"
+    },
+    "GB3": {
+      "region": "头部",
+      "relations": [
+        {
+          "kind": "anatomical",
+          "detail": "颧弓上缘中央凹陷中"
+        }
+      ],
+      "clause": "5.11.3",
+      "pdfPage": 36,
+      "postureNote": "微张口时，参照下关直上、颧弓上缘的凹陷。"
+    },
+    "GB4": {
+      "region": "头部",
+      "relations": [
+        {
+          "kind": "anatomical",
+          "detail": "从头维(ST8)至曲鬓(GB7)的弧形连线(其弧度与鬓发弧度相应)的上1/4与下3/4的交点处"
+        }
+      ],
+      "clause": "5.11.4",
+      "pdfPage": 36
+    },
+    "GB5": {
+      "region": "头部",
+      "relations": [
+        {
+          "kind": "anatomical",
+          "detail": "从头维(ST8)至曲鬓(GB7)的弧形连线(其弧度与鬓发弧度相应)的中点处"
+        }
+      ],
+      "clause": "5.11.5",
+      "pdfPage": 36
+    },
+    "GB6": {
+      "region": "头部",
+      "relations": [
+        {
+          "kind": "anatomical",
+          "detail": "从头维(ST8)至曲鬓(GB7)的弧形连线(其弧度与鬓发弧度相应)的上3/4与下1/4的交点处"
+        }
+      ],
+      "clause": "5.11.6",
+      "pdfPage": 36
+    },
+    "GB7": {
+      "region": "头部",
+      "relations": [
+        {
+          "kind": "anatomical",
+          "detail": "鬓角发际后缘与耳尖水平线的交点处"
+        }
+      ],
+      "clause": "5.11.7",
+      "pdfPage": 36
+    },
+    "GB8": {
+      "region": "头部",
+      "relations": [
+        {
+          "kind": "anatomical",
+          "detail": "耳尖直上入发际1.5寸"
+        }
+      ],
+      "clause": "5.11.8",
+      "pdfPage": 36
+    },
+    "GB9": {
+      "region": "头部",
+      "relations": [
+        {
+          "kind": "anatomical",
+          "detail": "耳根后缘直上"
+        },
+        {
+          "kind": "anatomical",
+          "detail": "入发际2寸"
+        }
+      ],
+      "clause": "5.11.9",
+      "pdfPage": 37
+    },
+    "GB10": {
+      "region": "头部",
+      "relations": [
+        {
+          "kind": "anatomical",
+          "detail": "耳后乳突的后上方"
+        },
+        {
+          "kind": "anatomical",
+          "detail": "从天冲(GB9)至完骨(GB12)的弧形连线(其弧度与耳郭弧度相应)的上1/3与下2/3交点处"
+        }
+      ],
+      "clause": "5.11.10",
+      "pdfPage": 37
+    },
+    "GB11": {
+      "region": "头部",
+      "relations": [
+        {
+          "kind": "anatomical",
+          "detail": "耳后乳突的后上方"
+        },
+        {
+          "kind": "anatomical",
+          "detail": "从天冲(GB9)到完骨(GB12)的弧形连线(其弧度与耳郭弧度相应)的上2/3与下1/3交点处"
+        }
+      ],
+      "clause": "5.11.11",
+      "pdfPage": 37
+    },
+    "GB12": {
+      "region": "颈部",
+      "relations": [
+        {
+          "kind": "anatomical",
+          "detail": "耳后乳突的后下方凹陷中"
+        }
+      ],
+      "clause": "5.11.12",
+      "pdfPage": 37
+    },
+    "GB13": {
+      "region": "头部",
+      "relations": [
+        {
+          "kind": "distance",
+          "reference": "前发际",
+          "direction": "上",
+          "cun": 0.5,
+          "detail": "",
+          "approximate": false
+        },
+        {
+          "kind": "distance",
+          "reference": "头正中线",
+          "direction": "旁开",
+          "cun": 3.0,
+          "detail": "",
+          "approximate": false
+        }
+      ],
+      "clause": "5.11.13",
+      "pdfPage": 37
+    },
+    "GB14": {
+      "region": "头部",
+      "relations": [
+        {
+          "kind": "distance",
+          "reference": "眉",
+          "direction": "上",
+          "cun": 1.0,
+          "detail": "",
+          "approximate": false
+        },
+        {
+          "kind": "anatomical",
+          "detail": "瞳孔直上"
+        }
+      ],
+      "clause": "5.11.14",
+      "pdfPage": 37
+    },
+    "GB15": {
+      "region": "头部",
+      "relations": [
+        {
+          "kind": "distance",
+          "reference": "前发际",
+          "direction": "上",
+          "cun": 0.5,
+          "detail": "",
+          "approximate": false
+        },
+        {
+          "kind": "anatomical",
+          "detail": "瞳孔直上"
+        }
+      ],
+      "clause": "5.11.15",
+      "pdfPage": 37
+    },
+    "GB16": {
+      "region": "头部",
+      "relations": [
+        {
+          "kind": "distance",
+          "reference": "前发际",
+          "direction": "上",
+          "cun": 1.5,
+          "detail": "",
+          "approximate": false
+        },
+        {
+          "kind": "anatomical",
+          "detail": "瞳孔直上"
+        }
+      ],
+      "clause": "5.11.16",
+      "pdfPage": 37
+    },
+    "GB17": {
+      "region": "头部",
+      "relations": [
+        {
+          "kind": "distance",
+          "reference": "前发际",
+          "direction": "上",
+          "cun": 2.5,
+          "detail": "",
+          "approximate": false
+        },
+        {
+          "kind": "anatomical",
+          "detail": "瞳孔直上"
+        }
+      ],
+      "clause": "5.11.17",
+      "pdfPage": 37
+    },
+    "GB18": {
+      "region": "头部",
+      "relations": [
+        {
+          "kind": "distance",
+          "reference": "前发际",
+          "direction": "上",
+          "cun": 4.0,
+          "detail": "",
+          "approximate": false
+        },
+        {
+          "kind": "anatomical",
+          "detail": "瞳孔直上"
+        }
+      ],
+      "clause": "5.11.18",
+      "pdfPage": 37
+    },
+    "GB19": {
+      "region": "头部",
+      "relations": [
+        {
+          "kind": "level",
+          "reference": "枕外隆凸的上缘"
+        },
+        {
+          "kind": "anatomical",
+          "detail": "风池(GB20)直上"
+        }
+      ],
+      "clause": "5.11.19",
+      "pdfPage": 37
+    },
+    "GB20": {
+      "region": "项部",
+      "relations": [
+        {
+          "kind": "anatomical",
+          "detail": "枕骨之下"
+        },
+        {
+          "kind": "anatomical",
+          "detail": "胸锁乳突肌上端与斜方肌上端之间的凹陷中"
+        }
+      ],
+      "clause": "5.11.20",
+      "pdfPage": 38
+    },
+    "GB21": {
+      "region": "颈后部",
+      "relations": [
+        {
+          "kind": "anatomical",
+          "detail": "第7颈椎棘突与肩峰最外侧点连线的中点"
+        }
+      ],
+      "clause": "5.11.21",
+      "pdfPage": 38
+    },
+    "GB22": {
+      "region": "侧胸部",
+      "relations": [
+        {
+          "kind": "intercostal",
+          "space": 4
+        },
+        {
+          "kind": "axis",
+          "reference": "腋中线"
+        }
+      ],
+      "clause": "5.11.22",
+      "pdfPage": 38
+    },
+    "GB23": {
+      "region": "侧胸部",
+      "relations": [
+        {
+          "kind": "intercostal",
+          "space": 4
+        },
+        {
+          "kind": "distance",
+          "reference": "腋中线",
+          "direction": "前",
+          "cun": 1.0,
+          "detail": "",
+          "approximate": false
+        }
+      ],
+      "clause": "5.11.23",
+      "pdfPage": 38
+    },
+    "GB24": {
+      "region": "前胸部",
+      "relations": [
+        {
+          "kind": "intercostal",
+          "space": 7
+        },
+        {
+          "kind": "distance",
+          "reference": "前正中线",
+          "direction": "旁开",
+          "cun": 4.0,
+          "detail": "",
+          "approximate": false
+        }
+      ],
+      "clause": "5.11.24",
+      "pdfPage": 38
+    },
+    "GB25": {
+      "region": "侧腹部",
+      "relations": [
+        {
+          "kind": "anatomical",
+          "detail": "第12肋骨游离端的下际"
+        }
+      ],
+      "clause": "5.11.25",
+      "pdfPage": 38,
+      "postureNote": "侧卧举臂时，辨认第12肋骨游离端下方。"
+    },
+    "GB26": {
+      "region": "侧腹部",
+      "relations": [
+        {
+          "kind": "anatomical",
+          "detail": "第11肋骨游离端垂线与脐水平线的交点上"
+        }
+      ],
+      "clause": "5.11.26",
+      "pdfPage": 38,
+      "postureNote": "侧卧举臂，上侧下肢屈曲、下侧下肢伸直时，辨认第11肋游离端直下与脐同高处。"
+    },
+    "GB27": {
+      "region": "下腹部",
+      "relations": [
+        {
+          "kind": "level",
+          "reference": "脐下3寸"
+        },
+        {
+          "kind": "anatomical",
+          "detail": "髂前上棘内侧"
+        }
+      ],
+      "clause": "5.11.27",
+      "pdfPage": 38
+    },
+    "GB28": {
+      "region": "下腹部",
+      "relations": [
+        {
+          "kind": "distance",
+          "reference": "髂前上棘",
+          "direction": "内下",
+          "cun": 0.5,
+          "detail": "",
+          "approximate": false
+        }
+      ],
+      "clause": "5.11.28",
+      "pdfPage": 38
+    },
+    "GB29": {
+      "region": "臀部",
+      "relations": [
+        {
+          "kind": "anatomical",
+          "detail": "髂前上棘与股骨大转子最凸点连线的中点处"
+        }
+      ],
+      "clause": "5.11.29",
+      "pdfPage": 38
+    },
+    "GB30": {
+      "region": "臀部",
+      "relations": [
+        {
+          "kind": "anatomical",
+          "detail": "股骨大转子最凸点与骶管裂孔连线的外1/3与内2/3交点处"
+        }
+      ],
+      "clause": "5.11.30",
+      "pdfPage": 38,
+      "postureNote": "侧卧，下侧腿伸直，上侧腿屈髋、屈膝。"
+    },
+    "GB31": {
+      "region": "股外侧",
+      "relations": [
+        {
+          "kind": "distance",
+          "reference": "腘横纹",
+          "direction": "上",
+          "cun": 9.0,
+          "detail": "",
+          "approximate": false
+        },
+        {
+          "kind": "anatomical",
+          "detail": "髂胫束后缘"
+        }
+      ],
+      "clause": "5.11.31",
+      "pdfPage": 39,
+      "postureNote": "直立垂手、掌心贴大腿时参照中指尖所指凹陷；稍屈膝、大腿略内收提起时有助于显露髂胫束。"
+    },
+    "GB32": {
+      "region": "股外侧",
+      "relations": [
+        {
+          "kind": "distance",
+          "reference": "腘横纹",
+          "direction": "上",
+          "cun": 7.0,
+          "detail": "",
+          "approximate": false
+        },
+        {
+          "kind": "anatomical",
+          "detail": "髂胫束后缘"
+        }
+      ],
+      "clause": "5.11.32",
+      "pdfPage": 39
+    },
+    "GB33": {
+      "region": "膝外侧",
+      "relations": [
+        {
+          "kind": "anatomical",
+          "detail": "股骨外上髁后上缘"
+        },
+        {
+          "kind": "anatomical",
+          "detail": "股二头肌腱与髂胫束之间的凹陷中"
+        }
+      ],
+      "clause": "5.11.33",
+      "pdfPage": 39
+    },
+    "GB34": {
+      "region": "小腿外侧",
+      "relations": [
+        {
+          "kind": "anatomical",
+          "detail": "腓骨头前下方凹陷中"
+        }
+      ],
+      "clause": "5.11.34",
+      "pdfPage": 39
+    },
+    "GB35": {
+      "region": "小腿外侧",
+      "relations": [
+        {
+          "kind": "distance",
+          "reference": "外踝尖",
+          "direction": "上",
+          "cun": 7.0,
+          "detail": "",
+          "approximate": false
+        },
+        {
+          "kind": "anatomical",
+          "detail": "腓骨后缘"
+        }
+      ],
+      "clause": "5.11.35",
+      "pdfPage": 39
+    },
+    "GB36": {
+      "region": "小腿外侧",
+      "relations": [
+        {
+          "kind": "distance",
+          "reference": "外踝尖",
+          "direction": "上",
+          "cun": 7.0,
+          "detail": "",
+          "approximate": false
+        },
+        {
+          "kind": "anatomical",
+          "detail": "腓骨前缘"
+        }
+      ],
+      "clause": "5.11.36",
+      "pdfPage": 39
+    },
+    "GB37": {
+      "region": "小腿外侧",
+      "relations": [
+        {
+          "kind": "distance",
+          "reference": "外踝尖",
+          "direction": "上",
+          "cun": 5.0,
+          "detail": "",
+          "approximate": false
+        },
+        {
+          "kind": "anatomical",
+          "detail": "腓骨前缘"
+        }
+      ],
+      "clause": "5.11.37",
+      "pdfPage": 39
+    },
+    "GB38": {
+      "region": "小腿外侧",
+      "relations": [
+        {
+          "kind": "distance",
+          "reference": "外踝尖",
+          "direction": "上",
+          "cun": 4.0,
+          "detail": "",
+          "approximate": false
+        },
+        {
+          "kind": "anatomical",
+          "detail": "腓骨前缘"
+        }
+      ],
+      "clause": "5.11.38",
+      "pdfPage": 39
+    },
+    "GB39": {
+      "region": "小腿外侧",
+      "relations": [
+        {
+          "kind": "distance",
+          "reference": "外踝尖",
+          "direction": "上",
+          "cun": 3.0,
+          "detail": "",
+          "approximate": false
+        },
+        {
+          "kind": "anatomical",
+          "detail": "腓骨前缘"
+        }
+      ],
+      "clause": "5.11.39",
+      "pdfPage": 39
+    },
+    "GB40": {
+      "region": "踝前外侧",
+      "relations": [
+        {
+          "kind": "anatomical",
+          "detail": "外踝的前下方"
+        },
+        {
+          "kind": "anatomical",
+          "detail": "趾长伸肌腱的外侧凹陷中"
+        }
+      ],
+      "clause": "5.11.40",
+      "pdfPage": 39
+    },
+    "GB41": {
+      "region": "足背",
+      "relations": [
+        {
+          "kind": "anatomical",
+          "detail": "第4、5跖骨底结合部的前方"
+        },
+        {
+          "kind": "anatomical",
+          "detail": "第5趾长伸肌腱外侧凹陷中"
+        }
+      ],
+      "clause": "5.11.41",
+      "pdfPage": 39
+    },
+    "GB42": {
+      "region": "足背",
+      "relations": [
+        {
+          "kind": "anatomical",
+          "detail": "第4、5跖骨间"
+        },
+        {
+          "kind": "anatomical",
+          "detail": "第4跖趾关节近端凹陷中"
+        }
+      ],
+      "clause": "5.11.42",
+      "pdfPage": 39
+    },
+    "GB43": {
+      "region": "足背",
+      "relations": [
+        {
+          "kind": "anatomical",
+          "detail": "第4、5趾间"
+        },
+        {
+          "kind": "anatomical",
+          "detail": "趾蹼缘后方赤白肉际处"
+        }
+      ],
+      "clause": "5.11.43",
+      "pdfPage": 39
+    },
+    "GB44": {
+      "region": "足趾",
+      "relations": [
+        {
+          "kind": "anatomical",
+          "detail": "第4趾末节外侧"
+        },
+        {
+          "kind": "distance",
+          "reference": "趾甲根角",
+          "direction": "侧后方",
+          "cun": 0.1,
+          "detail": "",
+          "approximate": false
+        }
+      ],
+      "clause": "5.11.44",
+      "pdfPage": 40
+    },
+    "LR1": {
+      "region": "足趾",
+      "relations": [
+        {
+          "kind": "anatomical",
+          "detail": "大趾末节外侧"
+        },
+        {
+          "kind": "distance",
+          "reference": "趾甲根角",
+          "direction": "侧后方",
+          "cun": 0.1,
+          "detail": "",
+          "approximate": false
+        }
+      ],
+      "clause": "5.12.1",
+      "pdfPage": 40
+    },
+    "LR2": {
+      "region": "足背",
+      "relations": [
+        {
+          "kind": "anatomical",
+          "detail": "第1、2趾间"
+        },
+        {
+          "kind": "anatomical",
+          "detail": "趾蹼缘后方赤白肉际处"
+        }
+      ],
+      "clause": "5.12.2",
+      "pdfPage": 40
+    },
+    "LR3": {
+      "region": "足背",
+      "relations": [
+        {
+          "kind": "anatomical",
+          "detail": "第1、2跖骨间"
+        },
+        {
+          "kind": "anatomical",
+          "detail": "跖骨底结合部前方凹陷中"
+        },
+        {
+          "kind": "anatomical",
+          "detail": "或触及动脉搏动"
+        }
+      ],
+      "clause": "5.12.3",
+      "pdfPage": 40
+    },
+    "LR4": {
+      "region": "踝前内侧",
+      "relations": [
+        {
+          "kind": "anatomical",
+          "detail": "足内踝前"
+        },
+        {
+          "kind": "anatomical",
+          "detail": "胫骨前肌肌腱的内侧缘凹陷中"
+        }
+      ],
+      "clause": "5.12.4",
+      "pdfPage": 40
+    },
+    "LR5": {
+      "region": "小腿前内侧",
+      "relations": [
+        {
+          "kind": "distance",
+          "reference": "内踝尖",
+          "direction": "上",
+          "cun": 5.0,
+          "detail": "",
+          "approximate": false
+        },
+        {
+          "kind": "anatomical",
+          "detail": "胫骨内侧面的中央"
+        }
+      ],
+      "clause": "5.12.5",
+      "pdfPage": 40
+    },
+    "LR6": {
+      "region": "小腿前内侧",
+      "relations": [
+        {
+          "kind": "distance",
+          "reference": "内踝尖",
+          "direction": "上",
+          "cun": 7.0,
+          "detail": "",
+          "approximate": false
+        },
+        {
+          "kind": "anatomical",
+          "detail": "胫骨内侧面的中央"
+        }
+      ],
+      "clause": "5.12.6",
+      "pdfPage": 40
+    },
+    "LR7": {
+      "region": "小腿内侧",
+      "relations": [
+        {
+          "kind": "anatomical",
+          "detail": "胫骨内侧髁的下方"
+        },
+        {
+          "kind": "distance",
+          "reference": "阴陵泉(SP9)",
+          "direction": "后",
+          "cun": 1.0,
+          "detail": "",
+          "approximate": false
+        }
+      ],
+      "clause": "5.12.7",
+      "pdfPage": 40
+    },
+    "LR8": {
+      "region": "膝内侧",
+      "relations": [
+        {
+          "kind": "anatomical",
+          "detail": "腘横纹内侧端"
+        },
+        {
+          "kind": "anatomical",
+          "detail": "半腱肌肌腱内缘凹陷中"
+        }
+      ],
+      "clause": "5.12.8",
+      "pdfPage": 40,
+      "postureNote": "屈膝时，辨认腘横纹内侧端最明显肌腱的内侧凹陷。"
+    },
+    "LR9": {
+      "region": "股内侧",
+      "relations": [
+        {
+          "kind": "distance",
+          "reference": "髌底",
+          "direction": "上",
+          "cun": 4.0,
+          "detail": "",
+          "approximate": false
+        },
+        {
+          "kind": "anatomical",
+          "detail": "股薄肌与缝匠肌之间"
+        }
+      ],
+      "clause": "5.12.9",
+      "pdfPage": 40,
+      "postureNote": "下肢略屈、略外展并稍提起，或坐位大腿略外展并收缩肌肉时，辨认缝匠肌后缘。"
+    },
+    "LR10": {
+      "region": "股内侧",
+      "relations": [
+        {
+          "kind": "distance",
+          "reference": "气冲(ST30)",
+          "direction": "直下",
+          "cun": 3.0,
+          "detail": "",
+          "approximate": false
+        },
+        {
+          "kind": "anatomical",
+          "detail": "动脉搏动处"
+        }
+      ],
+      "clause": "5.12.10",
+      "pdfPage": 40
+    },
+    "LR11": {
+      "region": "股内侧",
+      "relations": [
+        {
+          "kind": "distance",
+          "reference": "气冲(ST30)",
+          "direction": "直下",
+          "cun": 2.0,
+          "detail": "",
+          "approximate": false
+        }
+      ],
+      "clause": "5.12.11",
+      "pdfPage": 41,
+      "postureNote": "稍屈髋、屈膝、外展，大腿抗阻力内收时，辨认长收肌外缘。"
+    },
+    "LR12": {
+      "region": "腹股沟",
+      "relations": [
+        {
+          "kind": "level",
+          "reference": "耻骨联合上缘"
+        },
+        {
+          "kind": "distance",
+          "reference": "前正中线",
+          "direction": "旁开",
+          "cun": 2.5,
+          "detail": "",
+          "approximate": false
+        }
+      ],
+      "clause": "5.12.12",
+      "pdfPage": 41
+    },
+    "LR13": {
+      "region": "侧腹部",
+      "relations": [
+        {
+          "kind": "anatomical",
+          "detail": "第11肋游离端的下际"
+        }
+      ],
+      "clause": "5.12.13",
+      "pdfPage": 41,
+      "postureNote": "侧卧举臂，上侧下肢屈曲、下侧下肢伸直时，辨认第11肋游离端下际。"
+    },
+    "LR14": {
+      "region": "前胸部",
+      "relations": [
+        {
+          "kind": "intercostal",
+          "space": 6
+        },
+        {
+          "kind": "distance",
+          "reference": "前正中线",
+          "direction": "旁开",
+          "cun": 4.0,
+          "detail": "",
+          "approximate": false
+        }
+      ],
+      "clause": "5.12.14",
+      "pdfPage": 41
+    },
+    "GV1": {
+      "region": "会阴部",
+      "relations": [
+        {
+          "kind": "anatomical",
+          "detail": "尾骨下方"
+        },
+        {
+          "kind": "anatomical",
+          "detail": "尾骨端与肛门连线的中点处"
+        }
+      ],
+      "clause": "5.13.1",
+      "pdfPage": 41
+    },
+    "GV2": {
+      "region": "骶部",
+      "relations": [
+        {
+          "kind": "anatomical",
+          "detail": "正对骶管裂孔"
+        },
+        {
+          "kind": "axis",
+          "reference": "后正中线"
+        }
+      ],
+      "clause": "5.13.2",
+      "pdfPage": 41
+    },
+    "GV3": {
+      "region": "腰部",
+      "relations": [
+        {
+          "kind": "anatomical",
+          "detail": "第4腰椎棘突下凹陷中"
+        },
+        {
+          "kind": "axis",
+          "reference": "后正中线"
+        }
+      ],
+      "clause": "5.13.3",
+      "pdfPage": 41
+    },
+    "GV4": {
+      "region": "腰部",
+      "relations": [
+        {
+          "kind": "anatomical",
+          "detail": "第2腰椎棘突下凹陷中"
+        },
+        {
+          "kind": "axis",
+          "reference": "后正中线"
+        }
+      ],
+      "clause": "5.13.4",
+      "pdfPage": 41
+    },
+    "GV5": {
+      "region": "腰部",
+      "relations": [
+        {
+          "kind": "anatomical",
+          "detail": "第1腰椎棘突下凹陷中"
+        },
+        {
+          "kind": "axis",
+          "reference": "后正中线"
+        }
+      ],
+      "clause": "5.13.5",
+      "pdfPage": 41
+    },
+    "GV6": {
+      "region": "背部",
+      "relations": [
+        {
+          "kind": "anatomical",
+          "detail": "第11胸椎棘突下凹陷中"
+        },
+        {
+          "kind": "axis",
+          "reference": "后正中线"
+        }
+      ],
+      "clause": "5.13.6",
+      "pdfPage": 41
+    },
+    "GV7": {
+      "region": "背部",
+      "relations": [
+        {
+          "kind": "anatomical",
+          "detail": "第10胸椎棘突下凹陷中"
+        },
+        {
+          "kind": "axis",
+          "reference": "后正中线"
+        }
+      ],
+      "clause": "5.13.7",
+      "pdfPage": 41
+    },
+    "GV8": {
+      "region": "背部",
+      "relations": [
+        {
+          "kind": "anatomical",
+          "detail": "第9胸椎棘突下凹陷中"
+        },
+        {
+          "kind": "axis",
+          "reference": "后正中线"
+        }
+      ],
+      "clause": "5.13.8",
+      "pdfPage": 42
+    },
+    "GV9": {
+      "region": "背部",
+      "relations": [
+        {
+          "kind": "anatomical",
+          "detail": "第7胸椎棘突下凹陷中"
+        },
+        {
+          "kind": "axis",
+          "reference": "后正中线"
+        }
+      ],
+      "clause": "5.13.9",
+      "pdfPage": 42
+    },
+    "GV10": {
+      "region": "背部",
+      "relations": [
+        {
+          "kind": "anatomical",
+          "detail": "第6胸椎棘突下凹陷中"
+        },
+        {
+          "kind": "axis",
+          "reference": "后正中线"
+        }
+      ],
+      "clause": "5.13.10",
+      "pdfPage": 42
+    },
+    "GV11": {
+      "region": "背部",
+      "relations": [
+        {
+          "kind": "anatomical",
+          "detail": "第5胸椎棘突下凹陷中"
+        },
+        {
+          "kind": "axis",
+          "reference": "后正中线"
+        }
+      ],
+      "clause": "5.13.11",
+      "pdfPage": 42
+    },
+    "GV12": {
+      "region": "背部",
+      "relations": [
+        {
+          "kind": "anatomical",
+          "detail": "第3胸椎棘突下凹陷中"
+        },
+        {
+          "kind": "axis",
+          "reference": "后正中线"
+        }
+      ],
+      "clause": "5.13.12",
+      "pdfPage": 42
+    },
+    "GV13": {
+      "region": "背部",
+      "relations": [
+        {
+          "kind": "anatomical",
+          "detail": "第1胸椎棘突下凹陷中"
+        },
+        {
+          "kind": "axis",
+          "reference": "后正中线"
+        }
+      ],
+      "clause": "5.13.13",
+      "pdfPage": 42
+    },
+    "GV14": {
+      "region": "颈后部",
+      "relations": [
+        {
+          "kind": "anatomical",
+          "detail": "第7颈椎棘突下凹陷中"
+        },
+        {
+          "kind": "axis",
+          "reference": "后正中线"
+        }
+      ],
+      "clause": "5.13.14",
+      "pdfPage": 42
+    },
+    "GV15": {
+      "region": "颈后部",
+      "relations": [
+        {
+          "kind": "anatomical",
+          "detail": "第2颈椎棘突上际凹陷中"
+        },
+        {
+          "kind": "axis",
+          "reference": "后正中线"
+        }
+      ],
+      "clause": "5.13.15",
+      "pdfPage": 42
+    },
+    "GV16": {
+      "region": "颈后部",
+      "relations": [
+        {
+          "kind": "anatomical",
+          "detail": "枕外隆凸直下"
+        },
+        {
+          "kind": "anatomical",
+          "detail": "两侧斜方肌之间凹陷中"
+        }
+      ],
+      "clause": "5.13.16",
+      "pdfPage": 42,
+      "postureNote": "正坐、头稍仰使项部斜方肌松弛时，参照枕外隆凸下方的凹陷。"
+    },
+    "GV17": {
+      "region": "头部",
+      "relations": [
+        {
+          "kind": "anatomical",
+          "detail": "枕外隆凸的上缘凹陷中"
+        }
+      ],
+      "clause": "5.13.17",
+      "pdfPage": 42
+    },
+    "GV18": {
+      "region": "头部",
+      "relations": [
+        {
+          "kind": "distance",
+          "reference": "后发际正中",
+          "direction": "直上",
+          "cun": 4.0,
+          "detail": "",
+          "approximate": false
+        }
+      ],
+      "clause": "5.13.18",
+      "pdfPage": 42
+    },
+    "GV19": {
+      "region": "头部",
+      "relations": [
+        {
+          "kind": "distance",
+          "reference": "后发际正中",
+          "direction": "直上",
+          "cun": 5.5,
+          "detail": "",
+          "approximate": false
+        }
+      ],
+      "clause": "5.13.19",
+      "pdfPage": 43
+    },
+    "GV20": {
+      "region": "头部",
+      "relations": [
+        {
+          "kind": "distance",
+          "reference": "前发际正中",
+          "direction": "直上",
+          "cun": 5.0,
+          "detail": "",
+          "approximate": false
+        }
+      ],
+      "clause": "5.13.20",
+      "pdfPage": 43
+    },
+    "GV21": {
+      "region": "头部",
+      "relations": [
+        {
+          "kind": "distance",
+          "reference": "前发际正中",
+          "direction": "直上",
+          "cun": 3.5,
+          "detail": "",
+          "approximate": false
+        }
+      ],
+      "clause": "5.13.21",
+      "pdfPage": 43
+    },
+    "GV22": {
+      "region": "头部",
+      "relations": [
+        {
+          "kind": "distance",
+          "reference": "前发际正中",
+          "direction": "直上",
+          "cun": 2.0,
+          "detail": "",
+          "approximate": false
+        }
+      ],
+      "clause": "5.13.22",
+      "pdfPage": 43
+    },
+    "GV23": {
+      "region": "头部",
+      "relations": [
+        {
+          "kind": "distance",
+          "reference": "前发际正中",
+          "direction": "直上",
+          "cun": 1.0,
+          "detail": "",
+          "approximate": false
+        }
+      ],
+      "clause": "5.13.23",
+      "pdfPage": 43
+    },
+    "GV24": {
+      "region": "头部",
+      "relations": [
+        {
+          "kind": "distance",
+          "reference": "前发际正中",
+          "direction": "直上",
+          "cun": 0.5,
+          "detail": "",
+          "approximate": false
+        }
+      ],
+      "clause": "5.13.24",
+      "pdfPage": 43
+    },
+    "GV24+": {
+      "region": "头部",
+      "relations": [
+        {
+          "kind": "anatomical",
+          "detail": "两眉毛内侧端中间的凹陷中"
+        }
+      ],
+      "clause": "5.13.25",
+      "pdfPage": 43
+    },
+    "GV25": {
+      "region": "面部",
+      "relations": [
+        {
+          "kind": "anatomical",
+          "detail": "鼻尖的正中央"
+        }
+      ],
+      "clause": "5.13.26",
+      "pdfPage": 43
+    },
+    "GV26": {
+      "region": "面部",
+      "relations": [
+        {
+          "kind": "anatomical",
+          "detail": "人中沟的上1/3与中1/3交点处"
+        }
+      ],
+      "clause": "5.13.27",
+      "pdfPage": 43
+    },
+    "GV27": {
+      "region": "面部",
+      "relations": [
+        {
+          "kind": "anatomical",
+          "detail": "上唇结节的中点"
+        }
+      ],
+      "clause": "5.13.28",
+      "pdfPage": 43
+    },
+    "GV28": {
+      "region": "上唇内",
+      "relations": [
+        {
+          "kind": "anatomical",
+          "detail": "上唇系带与上牙龈的交点"
+        }
+      ],
+      "clause": "5.13.29",
+      "pdfPage": 43,
+      "postureNote": "正坐仰头、提起上唇时，辨认上唇系带与上牙龈的移行处。"
+    },
+    "CV1": {
+      "region": "会阴部",
+      "relations": [
+        {
+          "kind": "anatomical",
+          "detail": "男性在阴囊根部与肛门连线的中点"
+        },
+        {
+          "kind": "anatomical",
+          "detail": "女性在大阴唇后联合与肛门连线的中点"
+        }
+      ],
+      "clause": "5.14.1",
+      "pdfPage": 43,
+      "postureNote": "胸膝位或侧卧位，参照前后二阴之间（国标注释续于PDF第44页）。"
+    },
+    "CV2": {
+      "region": "下腹部",
+      "relations": [
+        {
+          "kind": "anatomical",
+          "detail": "耻骨联合上缘"
+        },
+        {
+          "kind": "axis",
+          "reference": "前正中线"
+        }
+      ],
+      "clause": "5.14.2",
+      "pdfPage": 44
+    },
+    "CV3": {
+      "region": "下腹部",
+      "relations": [
+        {
+          "kind": "distance",
+          "reference": "脐中",
+          "direction": "下",
+          "cun": 4.0,
+          "detail": "",
+          "approximate": false
+        },
+        {
+          "kind": "axis",
+          "reference": "前正中线"
+        }
+      ],
+      "clause": "5.14.3",
+      "pdfPage": 44
+    },
+    "CV4": {
+      "region": "下腹部",
+      "relations": [
+        {
+          "kind": "distance",
+          "reference": "脐中",
+          "direction": "下",
+          "cun": 3.0,
+          "detail": "",
+          "approximate": false
+        },
+        {
+          "kind": "axis",
+          "reference": "前正中线"
+        }
+      ],
+      "clause": "5.14.4",
+      "pdfPage": 44
+    },
+    "CV5": {
+      "region": "下腹部",
+      "relations": [
+        {
+          "kind": "distance",
+          "reference": "脐中",
+          "direction": "下",
+          "cun": 2.0,
+          "detail": "",
+          "approximate": false
+        },
+        {
+          "kind": "axis",
+          "reference": "前正中线"
+        }
+      ],
+      "clause": "5.14.5",
+      "pdfPage": 44
+    },
+    "CV6": {
+      "region": "下腹部",
+      "relations": [
+        {
+          "kind": "distance",
+          "reference": "脐中",
+          "direction": "下",
+          "cun": 1.5,
+          "detail": "",
+          "approximate": false
+        },
+        {
+          "kind": "axis",
+          "reference": "前正中线"
+        }
+      ],
+      "clause": "5.14.6",
+      "pdfPage": 44
+    },
+    "CV7": {
+      "region": "下腹部",
+      "relations": [
+        {
+          "kind": "distance",
+          "reference": "脐中",
+          "direction": "下",
+          "cun": 1.0,
+          "detail": "",
+          "approximate": false
+        },
+        {
+          "kind": "axis",
+          "reference": "前正中线"
+        }
+      ],
+      "clause": "5.14.7",
+      "pdfPage": 44
+    },
+    "CV8": {
+      "region": "上腹部",
+      "relations": [
+        {
+          "kind": "anatomical",
+          "detail": "脐中央"
+        }
+      ],
+      "clause": "5.14.8",
+      "pdfPage": 44
+    },
+    "CV9": {
+      "region": "上腹部",
+      "relations": [
+        {
+          "kind": "distance",
+          "reference": "脐中",
+          "direction": "上",
+          "cun": 1.0,
+          "detail": "",
+          "approximate": false
+        },
+        {
+          "kind": "axis",
+          "reference": "前正中线"
+        }
+      ],
+      "clause": "5.14.9",
+      "pdfPage": 44
+    },
+    "CV10": {
+      "region": "上腹部",
+      "relations": [
+        {
+          "kind": "distance",
+          "reference": "脐中",
+          "direction": "上",
+          "cun": 2.0,
+          "detail": "",
+          "approximate": false
+        },
+        {
+          "kind": "axis",
+          "reference": "前正中线"
+        }
+      ],
+      "clause": "5.14.10",
+      "pdfPage": 44
+    },
+    "CV11": {
+      "region": "上腹部",
+      "relations": [
+        {
+          "kind": "distance",
+          "reference": "脐中",
+          "direction": "上",
+          "cun": 3.0,
+          "detail": "",
+          "approximate": false
+        },
+        {
+          "kind": "axis",
+          "reference": "前正中线"
+        }
+      ],
+      "clause": "5.14.11",
+      "pdfPage": 44
+    },
+    "CV12": {
+      "region": "上腹部",
+      "relations": [
+        {
+          "kind": "distance",
+          "reference": "脐中",
+          "direction": "上",
+          "cun": 4.0,
+          "detail": "",
+          "approximate": false
+        },
+        {
+          "kind": "axis",
+          "reference": "前正中线"
+        }
+      ],
+      "clause": "5.14.12",
+      "pdfPage": 44
+    },
+    "CV13": {
+      "region": "上腹部",
+      "relations": [
+        {
+          "kind": "distance",
+          "reference": "脐中",
+          "direction": "上",
+          "cun": 5.0,
+          "detail": "",
+          "approximate": false
+        },
+        {
+          "kind": "axis",
+          "reference": "前正中线"
+        }
+      ],
+      "clause": "5.14.13",
+      "pdfPage": 44
+    },
+    "CV14": {
+      "region": "上腹部",
+      "relations": [
+        {
+          "kind": "distance",
+          "reference": "脐中",
+          "direction": "上",
+          "cun": 6.0,
+          "detail": "",
+          "approximate": false
+        },
+        {
+          "kind": "axis",
+          "reference": "前正中线"
+        }
+      ],
+      "clause": "5.14.14",
+      "pdfPage": 44
+    },
+    "CV15": {
+      "region": "上腹部",
+      "relations": [
+        {
+          "kind": "distance",
+          "reference": "剑突尖",
+          "direction": "下",
+          "cun": 1.0,
+          "detail": "",
+          "approximate": false
+        },
+        {
+          "kind": "axis",
+          "reference": "前正中线"
+        }
+      ],
+      "clause": "5.14.15",
+      "pdfPage": 44
+    },
+    "CV16": {
+      "region": "前胸部",
+      "relations": [
+        {
+          "kind": "anatomical",
+          "detail": "剑突尖所在处"
+        },
+        {
+          "kind": "axis",
+          "reference": "前正中线"
+        }
+      ],
+      "clause": "5.14.16",
+      "pdfPage": 45
+    },
+    "CV17": {
+      "region": "前胸部",
+      "relations": [
+        {
+          "kind": "level",
+          "reference": "第4肋间隙"
+        },
+        {
+          "kind": "axis",
+          "reference": "前正中线"
+        }
+      ],
+      "clause": "5.14.17",
+      "pdfPage": 45
+    },
+    "CV18": {
+      "region": "前胸部",
+      "relations": [
+        {
+          "kind": "level",
+          "reference": "第3肋间隙"
+        },
+        {
+          "kind": "axis",
+          "reference": "前正中线"
+        }
+      ],
+      "clause": "5.14.18",
+      "pdfPage": 45
+    },
+    "CV19": {
+      "region": "前胸部",
+      "relations": [
+        {
+          "kind": "level",
+          "reference": "第2肋间隙"
+        },
+        {
+          "kind": "axis",
+          "reference": "前正中线"
+        }
+      ],
+      "clause": "5.14.19",
+      "pdfPage": 45
+    },
+    "CV20": {
+      "region": "前胸部",
+      "relations": [
+        {
+          "kind": "level",
+          "reference": "第1肋间隙"
+        },
+        {
+          "kind": "axis",
+          "reference": "前正中线"
+        }
+      ],
+      "clause": "5.14.20",
+      "pdfPage": 45
+    },
+    "CV21": {
+      "region": "前胸部",
+      "relations": [
+        {
+          "kind": "distance",
+          "reference": "胸骨上窝",
+          "direction": "下",
+          "cun": 1.0,
+          "detail": "",
+          "approximate": false
+        },
+        {
+          "kind": "axis",
+          "reference": "前正中线"
+        }
+      ],
+      "clause": "5.14.21",
+      "pdfPage": 45
+    },
+    "CV22": {
+      "region": "颈前部",
+      "relations": [
+        {
+          "kind": "anatomical",
+          "detail": "胸骨上窝中央"
+        },
+        {
+          "kind": "axis",
+          "reference": "前正中线"
+        }
+      ],
+      "clause": "5.14.22",
+      "pdfPage": 45
+    },
+    "CV23": {
+      "region": "颈前部",
+      "relations": [
+        {
+          "kind": "anatomical",
+          "detail": "甲状软骨上缘(约相当于喉结处)上方"
+        },
+        {
+          "kind": "anatomical",
+          "detail": "舌骨上缘凹陷中"
+        },
+        {
+          "kind": "axis",
+          "reference": "前正中线"
+        }
+      ],
+      "clause": "5.14.23",
+      "pdfPage": 45
+    },
+    "CV24": {
+      "region": "面部",
+      "relations": [
+        {
+          "kind": "anatomical",
+          "detail": "颏唇沟的正中凹陷处"
+        }
+      ],
+      "clause": "5.14.24",
+      "pdfPage": 45
+    }
+  }
+}

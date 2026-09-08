@@ -1,0 +1,698 @@
+{
+  "standard": "GB/T 40997-2021",
+  "sha256": "aa7368f760ef347031e356860000a086d68e51996575cb2dad977691f1b54bf9",
+  "documentUrl": "https://www.ntcamsac.ac.cn/upload/std_info/202306192147233032.pdf",
+  "statusUrl": "https://std.samr.gov.cn/gb/search/gbDetailed?id=D1E86BE73ADC430EE05397BE0A0A206B",
+  "scope": "51 standard entries; basic location facts only. Eight uncoded entries use internal app keys. Indications and clinical procedures are not inferred from this location standard.",
+  "entries": [
+    {
+      "id": "EX-HN1",
+      "name": "四神聪",
+      "standardCodes": [
+        "EX-HN1"
+      ],
+      "clause": "7.1.1",
+      "pdfPage": 6,
+      "region": "头部",
+      "relations": [
+        "百会(GV20)前后左右各旁开1寸",
+        "共4穴"
+      ]
+    },
+    {
+      "id": "EX-HN2",
+      "name": "当阳",
+      "standardCodes": [
+        "EX-HN2"
+      ],
+      "clause": "7.1.2",
+      "pdfPage": 6,
+      "region": "头部",
+      "relations": [
+        "瞳孔直上",
+        "前发际上1寸"
+      ]
+    },
+    {
+      "id": "EX-HN4",
+      "name": "鱼腰",
+      "standardCodes": [
+        "EX-HN4"
+      ],
+      "clause": "7.1.3",
+      "pdfPage": 6,
+      "region": "头部",
+      "relations": [
+        "瞳孔直上",
+        "眉毛中"
+      ]
+    },
+    {
+      "id": "EX-HN5",
+      "name": "太阳",
+      "standardCodes": [
+        "EX-HN5"
+      ],
+      "clause": "7.1.4",
+      "pdfPage": 6,
+      "region": "头部",
+      "relations": [
+        "眉梢与目外眦之间",
+        "向后约一横指(中指)的凹陷中"
+      ]
+    },
+    {
+      "id": "EX-HN6",
+      "name": "耳尖",
+      "standardCodes": [
+        "EX-HN6"
+      ],
+      "clause": "7.1.5",
+      "pdfPage": 6,
+      "region": "耳区",
+      "relations": [
+        "在外耳轮的最高点"
+      ]
+    },
+    {
+      "id": "EX-HN7",
+      "name": "球后",
+      "standardCodes": [
+        "EX-HN7"
+      ],
+      "clause": "7.1.6",
+      "pdfPage": 7,
+      "region": "面部",
+      "relations": [
+        "眼球与眶下缘之间",
+        "眶下缘外1/4与内3/4交界处"
+      ]
+    },
+    {
+      "id": "EX-HN8",
+      "name": "上迎香",
+      "standardCodes": [
+        "EX-HN8"
+      ],
+      "clause": "7.1.7",
+      "pdfPage": 7,
+      "region": "面部",
+      "relations": [
+        "鼻翼软骨与鼻甲的交界处",
+        "近鼻翼沟上端处"
+      ]
+    },
+    {
+      "id": "EX-HN9",
+      "name": "内迎香",
+      "standardCodes": [
+        "EX-HN9"
+      ],
+      "clause": "7.1.8",
+      "pdfPage": 7,
+      "region": "鼻孔内",
+      "relations": [
+        "鼻翼软骨与鼻甲交界的黏膜处"
+      ]
+    },
+    {
+      "id": "EX-HN10",
+      "name": "聚泉",
+      "standardCodes": [
+        "EX-HN10"
+      ],
+      "clause": "7.1.9",
+      "pdfPage": 7,
+      "region": "口腔内",
+      "relations": [
+        "舌背正中缝的中点处"
+      ]
+    },
+    {
+      "id": "EX-HN11",
+      "name": "海泉",
+      "standardCodes": [
+        "EX-HN11"
+      ],
+      "clause": "7.1.10",
+      "pdfPage": 7,
+      "region": "口腔内",
+      "relations": [
+        "舌下系带中点处"
+      ]
+    },
+    {
+      "id": "EX-HN12",
+      "name": "金津玉液",
+      "standardCodes": [
+        "EX-HN12",
+        "EX-HN13"
+      ],
+      "clause": "7.1.11",
+      "pdfPage": 7,
+      "region": "口腔内",
+      "relations": [
+        "舌下系带两侧的静脉上",
+        "左曰金津",
+        "右曰玉液"
+      ]
+    },
+    {
+      "id": "EX-HN14",
+      "name": "翳明",
+      "standardCodes": [
+        "EX-HN14"
+      ],
+      "clause": "7.1.12",
+      "pdfPage": 7,
+      "region": "项部",
+      "relations": [
+        "翳风(TE17)后1寸"
+      ]
+    },
+    {
+      "id": "N-HN54",
+      "name": "安眠",
+      "standardCodes": [],
+      "clause": "7.1.13",
+      "pdfPage": 7,
+      "region": "项部",
+      "relations": [
+        "当翳风(TE17)和风池(GB20)连线的中点"
+      ],
+      "editorialNote": "原 PDF 第 7 页排印为“连7线”；定位事实按翳风与风池连线中点整理，原文保留供核对。"
+    },
+    {
+      "id": "N-HN20",
+      "name": "牵正",
+      "standardCodes": [],
+      "clause": "7.1.14",
+      "pdfPage": 7,
+      "region": "面颊部",
+      "relations": [
+        "耳垂前方0.5~1寸",
+        "与耳垂中点相平处"
+      ]
+    },
+    {
+      "id": "EXTRA-XINSHE",
+      "name": "新设",
+      "standardCodes": [],
+      "clause": "7.1.15",
+      "pdfPage": 7,
+      "region": "项部",
+      "relations": [
+        "当第4颈椎横突端",
+        "斜方肌外缘"
+      ]
+    },
+    {
+      "id": "EX-HN15",
+      "name": "颈百劳",
+      "standardCodes": [
+        "EX-HN15"
+      ],
+      "clause": "7.1.16",
+      "pdfPage": 8,
+      "region": "项部",
+      "relations": [
+        "第7颈椎棘突直上2寸",
+        "后正中线旁开1寸"
+      ]
+    },
+    {
+      "id": "EXTRA-XUEYADIAN",
+      "name": "血压点",
+      "standardCodes": [],
+      "clause": "7.1.17",
+      "pdfPage": 8,
+      "region": "项部",
+      "relations": [
+        "第6、7颈椎棘突间旁开2寸"
+      ]
+    },
+    {
+      "id": "EXTRA-TITUO",
+      "name": "提托",
+      "standardCodes": [],
+      "clause": "7.2.1",
+      "pdfPage": 8,
+      "region": "下腹部",
+      "relations": [
+        "脐中下3寸",
+        "前正中线旁开4寸"
+      ]
+    },
+    {
+      "id": "EX-CA1",
+      "name": "子宫",
+      "standardCodes": [
+        "EX-CA1"
+      ],
+      "clause": "7.2.2",
+      "pdfPage": 8,
+      "region": "下腹部",
+      "relations": [
+        "脐中下4寸",
+        "前正中线旁开3寸"
+      ]
+    },
+    {
+      "id": "EX-B1",
+      "name": "定喘",
+      "standardCodes": [
+        "EX-B1"
+      ],
+      "clause": "7.3.1",
+      "pdfPage": 8,
+      "region": "脊柱区",
+      "relations": [
+        "横平第7颈椎棘突下",
+        "后正中线旁开0.5寸"
+      ]
+    },
+    {
+      "id": "EX-B2",
+      "name": "夹脊",
+      "standardCodes": [
+        "EX-B2"
+      ],
+      "clause": "7.3.2",
+      "pdfPage": 9,
+      "region": "脊柱区",
+      "relations": [
+        "第1胸椎至第5腰椎棘突下两侧",
+        "后正中线旁开0.5寸",
+        "一侧17穴"
+      ]
+    },
+    {
+      "id": "EX-B3",
+      "name": "胃脘下俞",
+      "standardCodes": [
+        "EX-B3"
+      ],
+      "clause": "7.3.3",
+      "pdfPage": 9,
+      "region": "脊柱区",
+      "relations": [
+        "横平第8胸椎棘突下",
+        "后正中线旁开1.5寸"
+      ]
+    },
+    {
+      "id": "EXTRA-JIEJI",
+      "name": "接脊",
+      "standardCodes": [],
+      "clause": "7.3.4",
+      "pdfPage": 9,
+      "region": "背部",
+      "relations": [
+        "第12胸椎棘突下凹陷中"
+      ]
+    },
+    {
+      "id": "EX-B4",
+      "name": "痞根",
+      "standardCodes": [
+        "EX-B4"
+      ],
+      "clause": "7.3.5",
+      "pdfPage": 9,
+      "region": "腰区",
+      "relations": [
+        "横平第1腰椎棘突下",
+        "后正中线旁开3.5寸"
+      ]
+    },
+    {
+      "id": "EX-B6",
+      "name": "腰宜",
+      "standardCodes": [
+        "EX-B6"
+      ],
+      "clause": "7.3.6",
+      "pdfPage": 9,
+      "region": "腰区",
+      "relations": [
+        "横平第4腰椎棘突下",
+        "后正中线旁开3寸"
+      ]
+    },
+    {
+      "id": "EX-B7",
+      "name": "腰眼",
+      "standardCodes": [
+        "EX-B7"
+      ],
+      "clause": "7.3.7",
+      "pdfPage": 9,
+      "region": "腰区",
+      "relations": [
+        "横平第4腰椎棘突下",
+        "后正中线旁开约3.5寸凹陷中"
+      ]
+    },
+    {
+      "id": "EX-B8",
+      "name": "十七椎",
+      "standardCodes": [
+        "EX-B8"
+      ],
+      "clause": "7.3.8",
+      "pdfPage": 9,
+      "region": "腰区",
+      "relations": [
+        "第5腰椎棘突下凹陷中"
+      ]
+    },
+    {
+      "id": "M-UE48",
+      "name": "肩前",
+      "standardCodes": [],
+      "clause": "7.4.1",
+      "pdfPage": 9,
+      "region": "肩部",
+      "relations": [
+        "当腋前皱襞尽端直上1.5寸处"
+      ]
+    },
+    {
+      "id": "EX-UE1",
+      "name": "肘尖",
+      "standardCodes": [
+        "EX-UE1"
+      ],
+      "clause": "7.5.1",
+      "pdfPage": 10,
+      "region": "肘后区",
+      "relations": [
+        "尺骨鹰嘴的尖端"
+      ]
+    },
+    {
+      "id": "EX-UE2",
+      "name": "二白",
+      "standardCodes": [
+        "EX-UE2"
+      ],
+      "clause": "7.5.2",
+      "pdfPage": 10,
+      "region": "前臂前区",
+      "relations": [
+        "腕掌侧远端横纹上4寸",
+        "桡侧腕屈肌腱的两侧",
+        "一肢2穴"
+      ]
+    },
+    {
+      "id": "EX-UE3",
+      "name": "中泉",
+      "standardCodes": [
+        "EX-UE3"
+      ],
+      "clause": "7.5.3",
+      "pdfPage": 10,
+      "region": "前臂后区",
+      "relations": [
+        "腕背侧远端横纹上",
+        "指总伸肌腱桡侧的凹陷中"
+      ]
+    },
+    {
+      "id": "EX-UE4",
+      "name": "中魁",
+      "standardCodes": [
+        "EX-UE4"
+      ],
+      "clause": "7.5.4",
+      "pdfPage": 10,
+      "region": "手指",
+      "relations": [
+        "中指背面",
+        "近侧指间关节的中点处"
+      ]
+    },
+    {
+      "id": "EX-UE5",
+      "name": "大骨空",
+      "standardCodes": [
+        "EX-UE5"
+      ],
+      "clause": "7.5.5",
+      "pdfPage": 10,
+      "region": "手指",
+      "relations": [
+        "拇指背面",
+        "掌指关节的中点处"
+      ]
+    },
+    {
+      "id": "EX-UE6",
+      "name": "小骨空",
+      "standardCodes": [
+        "EX-UE6"
+      ],
+      "clause": "7.5.6",
+      "pdfPage": 10,
+      "region": "手指",
+      "relations": [
+        "小指背面",
+        "近侧指间关节的中点处"
+      ]
+    },
+    {
+      "id": "EX-UE7",
+      "name": "腰痛点",
+      "standardCodes": [
+        "EX-UE7"
+      ],
+      "clause": "7.5.7",
+      "pdfPage": 10,
+      "region": "手背",
+      "relations": [
+        "第2、3掌骨间及第4、5掌骨间",
+        "腕背侧远端横纹与掌指关节的中点处",
+        "一手2穴"
+      ]
+    },
+    {
+      "id": "EX-UE8",
+      "name": "外劳宫",
+      "standardCodes": [
+        "EX-UE8"
+      ],
+      "clause": "7.5.8",
+      "pdfPage": 10,
+      "region": "手背",
+      "relations": [
+        "第2、3掌骨间",
+        "掌指关节后0.5寸(指寸)凹陷中"
+      ]
+    },
+    {
+      "id": "EX-UE9",
+      "name": "八邪",
+      "standardCodes": [
+        "EX-UE9"
+      ],
+      "clause": "7.5.9",
+      "pdfPage": 11,
+      "region": "手背",
+      "relations": [
+        "第1~5指间",
+        "指蹼缘后方赤白肉际处",
+        "左右共8穴"
+      ]
+    },
+    {
+      "id": "EX-UE10",
+      "name": "四缝",
+      "standardCodes": [
+        "EX-UE10"
+      ],
+      "clause": "7.5.10",
+      "pdfPage": 11,
+      "region": "手指",
+      "relations": [
+        "第2~5指掌面的近侧指间关节横纹的中央",
+        "一手4穴"
+      ]
+    },
+    {
+      "id": "EX-UE11",
+      "name": "十宣",
+      "standardCodes": [
+        "EX-UE11"
+      ],
+      "clause": "7.5.11",
+      "pdfPage": 11,
+      "region": "手指",
+      "relations": [
+        "十指尖端",
+        "距指甲游离缘0.1寸(指寸)",
+        "左右共10穴"
+      ]
+    },
+    {
+      "id": "EX-LE1",
+      "name": "髋骨",
+      "standardCodes": [
+        "EX-LE1"
+      ],
+      "clause": "7.6.1",
+      "pdfPage": 11,
+      "region": "股前区",
+      "relations": [
+        "梁丘(ST34)两旁各1.5寸",
+        "一肢2穴"
+      ]
+    },
+    {
+      "id": "EX-LE2",
+      "name": "鹤顶",
+      "standardCodes": [
+        "EX-LE2"
+      ],
+      "clause": "7.6.2",
+      "pdfPage": 11,
+      "region": "膝前区",
+      "relations": [
+        "髌底中点的上方凹陷中"
+      ]
+    },
+    {
+      "id": "EX-LE3",
+      "name": "百虫窝",
+      "standardCodes": [
+        "EX-LE3"
+      ],
+      "clause": "7.6.3",
+      "pdfPage": 11,
+      "region": "股前区",
+      "relations": [
+        "髌底内侧端上3寸"
+      ]
+    },
+    {
+      "id": "EX-LE4",
+      "name": "内膝眼",
+      "standardCodes": [
+        "EX-LE4"
+      ],
+      "clause": "7.6.4",
+      "pdfPage": 11,
+      "region": "膝部",
+      "relations": [
+        "髌韧带内侧凹陷处的中央"
+      ]
+    },
+    {
+      "id": "EX-LE6",
+      "name": "胆囊",
+      "standardCodes": [
+        "EX-LE6"
+      ],
+      "clause": "7.6.5",
+      "pdfPage": 11,
+      "region": "小腿外侧",
+      "relations": [
+        "腓骨小头直下2寸"
+      ]
+    },
+    {
+      "id": "EX-LE7",
+      "name": "阑尾",
+      "standardCodes": [
+        "EX-LE7"
+      ],
+      "clause": "7.6.6",
+      "pdfPage": 11,
+      "region": "小腿外侧",
+      "relations": [
+        "髌韧带外侧凹陷下5寸",
+        "胫骨前嵴外一横指(中指)"
+      ]
+    },
+    {
+      "id": "EX-LE8",
+      "name": "内踝尖",
+      "standardCodes": [
+        "EX-LE8"
+      ],
+      "clause": "7.6.7",
+      "pdfPage": 11,
+      "region": "踝区",
+      "relations": [
+        "内踝的最凸起处"
+      ]
+    },
+    {
+      "id": "EX-LE9",
+      "name": "外踝尖",
+      "standardCodes": [
+        "EX-LE9"
+      ],
+      "clause": "7.6.8",
+      "pdfPage": 11,
+      "region": "踝区",
+      "relations": [
+        "外踝的最凸起处"
+      ]
+    },
+    {
+      "id": "EX-LE10",
+      "name": "八风",
+      "standardCodes": [
+        "EX-LE10"
+      ],
+      "clause": "7.6.9",
+      "pdfPage": 11,
+      "region": "足背",
+      "relations": [
+        "第1~5趾间",
+        "趾蹼缘后方赤白肉际处",
+        "左右共8穴"
+      ]
+    },
+    {
+      "id": "EXTRA-LINEITING",
+      "name": "里内庭",
+      "standardCodes": [],
+      "clause": "7.6.10",
+      "pdfPage": 12,
+      "region": "足底",
+      "relations": [
+        "第2、3跖趾关节前方凹陷中"
+      ]
+    },
+    {
+      "id": "EX-LE11",
+      "name": "独阴",
+      "standardCodes": [
+        "EX-LE11"
+      ],
+      "clause": "7.6.11",
+      "pdfPage": 12,
+      "region": "足底",
+      "relations": [
+        "第2趾的跖侧远端趾间关节的横纹中点"
+      ]
+    },
+    {
+      "id": "EX-LE12",
+      "name": "气端",
+      "standardCodes": [
+        "EX-LE12"
+      ],
+      "clause": "7.6.12",
+      "pdfPage": 12,
+      "region": "足趾",
+      "relations": [
+        "十趾端的中央",
+        "距趾甲游离缘0.1寸(指寸)",
+        "左右共10穴"
+      ]
+    }
+  ]
+}

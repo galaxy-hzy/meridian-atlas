@@ -1,0 +1,100 @@
+{
+  "standard": "GB/T 30233-2013",
+  "title": "腧穴主治",
+  "documentUrl": "https://www.ntcamsac.ac.cn/upload/std_info/202306192143463502.pdf",
+  "sha256": "6966942f4ac6caffdf80071754c664736e9cd156397f0505449b2dd74cf0beea",
+  "points": {
+    "EX-HN1": {
+      "clause": "5.1.1",
+      "pdfPage": 33,
+      "printedPage": 27,
+      "summary": "头痛、眩晕；失眠、健忘；癫痫。",
+      "preserveExisting": true
+    },
+    "EX-B1": {
+      "clause": "5.3.1",
+      "pdfPage": 34,
+      "printedPage": 28,
+      "summary": "气喘、咳嗽。",
+      "preserveExisting": true
+    },
+    "LR12": {
+      "clause": "4.12.12",
+      "pdfPage": 29,
+      "printedPage": 23,
+      "summary": "疝气、前阴痛、少腹痛。"
+    },
+    "GV7": {
+      "clause": "4.13.7",
+      "pdfPage": 30,
+      "printedPage": 24,
+      "summary": "腰背痛。"
+    },
+    "EX-HN15": {
+      "clause": "5.1.7",
+      "pdfPage": 34,
+      "printedPage": 28,
+      "summary": "颈项强痛、瘰疠。"
+    },
+    "EX-B2": {
+      "clause": "5.3.2",
+      "pdfPage": 34,
+      "printedPage": 28,
+      "summary": "上胸段对应心肺及上肢病症；下胸段对应肝、胆、脾、胃肠病症；腰段对应腰腹及下肢病症。"
+    },
+    "EX-B3": {
+      "clause": "5.3.3",
+      "pdfPage": 34,
+      "printedPage": 28,
+      "summary": "消渴、咽干、胃脘痛。"
+    },
+    "EX-B4": {
+      "clause": "5.3.4",
+      "pdfPage": 34,
+      "printedPage": 28,
+      "summary": "痞块。"
+    },
+    "EX-B7": {
+      "clause": "5.3.5",
+      "pdfPage": 34,
+      "printedPage": 28,
+      "summary": "腰痛。"
+    },
+    "EX-B8": {
+      "clause": "5.3.6",
+      "pdfPage": 34,
+      "printedPage": 28,
+      "summary": "腰骶痛、下肢瘫痪、月经不调。"
+    },
+    "EX-UE1": {
+      "clause": "5.4.1",
+      "pdfPage": 35,
+      "printedPage": 29,
+      "summary": "瘰疠、痈疽。"
+    },
+    "EX-UE7": {
+      "clause": "5.4.4",
+      "pdfPage": 35,
+      "printedPage": 29,
+      "summary": "急性腰扭伤。"
+    },
+    "EX-LE2": {
+      "clause": "5.5.1",
+      "pdfPage": 35,
+      "printedPage": 29,
+      "summary": "膝肿痛、足胫无力。"
+    },
+    "EX-LE6": {
+      "clause": "5.5.2",
+      "pdfPage": 35,
+      "printedPage": 29,
+      "summary": "急慢性胆囊炎、胆石症、胆道蛔虫症。"
+    },
+    "EX-LE7": {
+      "clause": "5.5.3",
+      "pdfPage": 35,
+      "printedPage": 29,
+      "summary": "急性或亚急性阑尾炎、下肢瘫痪。"
+    }
+  }
+}

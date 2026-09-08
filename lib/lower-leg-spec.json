@@ -1,0 +1,194 @@
+{
+  "assetSha256": "1be7f0f1fcb0e79de628fb03ec0d7f6a414813e95798ebfe0140d66c1fb4a579",
+  "standardSha256": "777643c116fb3cd543a6a632a3ad36c4bfbedd8880aced0c6979a877694d7692",
+  "source": "GB/T 12346-2021 4.2.2 表1，PDF第12页；逐穴条文及注释见第20、21、30、31、32、39、40页",
+  "landmarks": {
+    "kneeY": 0.49670949162309636,
+    "kneeCenter": [
+      0.17558947469520791,
+      0.49670949162309636,
+      0.03556432297450611
+    ],
+    "ankleCenter": [
+      0.2438918536037793,
+      0.07992949714566991,
+      -0.00101057092605154
+    ],
+    "medialTip": "EX-LE8",
+    "lateralTip": "EX-LE9",
+    "note": "膝中水平借用固定模型膝关节中心高度，踝尖沿用现有骨性标志估计；这不是影像或触诊校准。高度规则在此学习体位的竖直方向实现。"
+  },
+  "units": {
+    "medial": 15,
+    "lateral": 16
+  },
+  "rules": {
+    "ST35": {
+      "kind": "knee",
+      "view": "front"
+    },
+    "BL40": {
+      "kind": "knee",
+      "view": "back"
+    },
+    "KI10": {
+      "kind": "knee",
+      "angle": 210
+    },
+    "LR8": {
+      "kind": "knee",
+      "angle": 185
+    },
+    "SP9": {
+      "kind": "medial",
+      "cun": 13,
+      "angle": 180
+    },
+    "SP6": {
+      "kind": "medial",
+      "cun": 3,
+      "angle": 180
+    },
+    "SP7": {
+      "kind": "medial",
+      "cun": 6,
+      "angle": 180
+    },
+    "SP8": {
+      "kind": "medial",
+      "cun": 10,
+      "angle": 180
+    },
+    "KI3": {
+      "kind": "medial",
+      "cun": 0,
+      "angle": 215
+    },
+    "KI5": {
+      "kind": "medial",
+      "cun": -1,
+      "angle": 215
+    },
+    "KI6": {
+      "kind": "medial",
+      "cun": -1,
+      "angle": 180
+    },
+    "KI8": {
+      "kind": "medial",
+      "cun": 2,
+      "angle": 180
+    },
+    "KI7": {
+      "kind": "behind",
+      "reference": "KI8",
+      "cun": 0.5
+    },
+    "KI9": {
+      "kind": "medial-line",
+      "cun": 5,
+      "line": [
+        "KI3",
+        "KI10"
+      ]
+    },
+    "LR5": {
+      "kind": "medial",
+      "cun": 5,
+      "angle": 145
+    },
+    "LR6": {
+      "kind": "medial",
+      "cun": 7,
+      "angle": 145
+    },
+    "LR7": {
+      "kind": "behind",
+      "reference": "SP9",
+      "cun": 1
+    },
+    "BL60": {
+      "kind": "lateral",
+      "cun": 0,
+      "angle": -35
+    },
+    "BL55": {
+      "kind": "below-knee",
+      "cun": 2,
+      "angle": -90
+    },
+    "BL56": {
+      "kind": "below-knee",
+      "cun": 5,
+      "angle": -90
+    },
+    "BL57": {
+      "kind": "below-knee",
+      "cun": 8,
+      "angle": -90,
+      "derived": "由合阳下膝2寸、承筋下膝5寸及承筋在合阳承山中点关系推导模型层级；承山的肌腱交角仍待辨认。"
+    },
+    "BL58": {
+      "kind": "lateral",
+      "cun": 7,
+      "angle": -35,
+      "approximate": true
+    },
+    "BL59": {
+      "kind": "lateral",
+      "cun": 3,
+      "angle": -35
+    },
+    "ST36": {
+      "kind": "front-line",
+      "cun": 3
+    },
+    "ST37": {
+      "kind": "front-line",
+      "cun": 6
+    },
+    "ST38": {
+      "kind": "front-line",
+      "cun": 8
+    },
+    "ST39": {
+      "kind": "front-line",
+      "cun": 9
+    },
+    "ST40": {
+      "kind": "lateral",
+      "cun": 8,
+      "angle": 48
+    },
+    "GB35": {
+      "kind": "lateral",
+      "cun": 7,
+      "angle": -10
+    },
+    "GB36": {
+      "kind": "lateral",
+      "cun": 7,
+      "angle": 10
+    },
+    "GB37": {
+      "kind": "lateral",
+      "cun": 5,
+      "angle": 10
+    },
+    "GB38": {
+      "kind": "lateral",
+      "cun": 4,
+      "angle": 10
+    },
+    "GB39": {
+      "kind": "lateral",
+      "cun": 3,
+      "angle": 10
+    },
+    "EX-LE7": {
+      "kind": "front-line",
+      "cun": 5
+    }
+  },
+  "note": "只约束可核对的比例层级、同高和前后关系。角度为在无骨肌分层模型上的表面方位估计，不能等同于腓骨边缘、肌腱间隙或临床定位。解溪保留原踝前标记，前线横向位置依犊鼻—解溪投影确定。"
+}

@@ -1,0 +1,3251 @@
+{
+  "LU1": {
+    "indications": "咳嗽、哮喘、胸痛、胸满。",
+    "region": "胸前部",
+    "referencePage": 26,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "LU 1",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "LU2": {
+    "indications": "咳嗽、哮喘、胸痛、胸满。",
+    "region": "胸前部",
+    "referencePage": 26,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "LU 2",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "LU3": {
+    "indications": "哮喘、鼻衄、上臂内侧痛。",
+    "region": "上臂",
+    "referencePage": 27,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "LU 3",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "LU4": {
+    "indications": "咳嗽、胸满、上臂内侧痛。",
+    "region": "上臂",
+    "referencePage": 27,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "LU 4",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "LU5": {
+    "indications": "咳嗽、咯血、发热、哮喘、咽喉痛、胸满。",
+    "region": "肘部",
+    "referencePage": 28,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "LU 5",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "LU6": {
+    "indications": "咳嗽、胸痛、哮喘、咯血、咽喉痛、肘臂挛痛。",
+    "region": "前臂",
+    "referencePage": 28,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "LU 6",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "LU7": {
+    "indications": "头痛、偏头痛、项强、咳嗽、哮喘、咽喉痛。",
+    "region": "前臂",
+    "referencePage": 29,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "LU 7",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "LU8": {
+    "indications": "咳嗽、哮喘、发热、胸痛、咽喉痛、腕痛。",
+    "region": "前臂",
+    "referencePage": 29,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "LU 8",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "LU9": {
+    "indications": "咳嗽、哮喘、咯血、咽喉痛、心悸、胸痛。",
+    "region": "腕部",
+    "referencePage": 30,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "LU 9",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "LU10": {
+    "indications": "咳嗽、咯血、咽喉痛、失音、发热、掌心热。",
+    "region": "手掌",
+    "referencePage": 30,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "LU 10",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "LU11": {
+    "indications": "咽喉痛、咳嗽、哮喘、鼻衄、发热、昏厥。",
+    "region": "拇指",
+    "referencePage": 31,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "LU 11",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "LI1": {
+    "indications": "牙痛、咽喉痛、麻木、热病、昏厥。",
+    "region": "手指",
+    "referencePage": 34,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "LI 1",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "LI2": {
+    "indications": "视物模糊、鼻衄、牙痛、咽喉痛、热病。",
+    "region": "手指",
+    "referencePage": 34,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "LI 2",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "LI3": {
+    "indications": "牙痛、眼痛、咽喉痛。",
+    "region": "手部",
+    "referencePage": 35,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "LI 3",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "LI4": {
+    "indications": "头痛、颈痛、目肿痛、眼痛、鼻衄、鼻塞。",
+    "region": "手部",
+    "referencePage": 35,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "LI 4",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "LI5": {
+    "indications": "头痛、目肿痛、牙痛、咽喉痛、腕痛。",
+    "region": "腕部",
+    "referencePage": 36,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "LI 5",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "LI6": {
+    "indications": "目赤、耳鸣、耳聋、鼻衄、咽喉痛、水肿。",
+    "region": "前臂",
+    "referencePage": 36,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "LI 6",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "LI7": {
+    "indications": "头痛、咽喉痛、肠鸣、腹痛。",
+    "region": "前臂",
+    "referencePage": 37,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "LI 7",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "LI8": {
+    "indications": "腹痛、肠鸣、肘痛、活动不利。",
+    "region": "前臂",
+    "referencePage": 37,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "LI 8",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "LI9": {
+    "indications": "活动不利、麻木、肠鸣、腹痛。",
+    "region": "前臂",
+    "referencePage": 38,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "LI 9",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "LI10": {
+    "indications": "腹痛、泄泻、牙痛、颊肿、活动不利、肩痛。",
+    "region": "前臂",
+    "referencePage": 38,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "LI 10",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "LI11": {
+    "indications": "咽喉痛、牙痛、眼痛、瘰疬、荨麻疹、活动不利。",
+    "region": "肘部",
+    "referencePage": 39,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "LI 11",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "LI12": {
+    "indications": "麻木。",
+    "region": "肘部",
+    "referencePage": 39,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "LI 12",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "LI13": {
+    "indications": "瘰疬。",
+    "region": "上臂",
+    "referencePage": 40,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "LI 13",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "LI14": {
+    "indications": "肩痛、瘰疬。",
+    "region": "上臂",
+    "referencePage": 40,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "LI 14",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "LI15": {
+    "indications": "肩痛、活动不利、瘰疬。",
+    "region": "肩部",
+    "referencePage": 41,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "LI 15",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "LI16": {
+    "indications": "活动不利、肩痛。",
+    "region": "肩部",
+    "referencePage": 41,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "LI 16",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "LI17": {
+    "indications": "暴喑、失音、咽喉痛、瘰疬、瘿气。",
+    "region": "颈部",
+    "referencePage": 42,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "LI 17",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "LI18": {
+    "indications": "咳嗽、哮喘、咽喉痛、暴喑、失音、瘰疬。",
+    "region": "颈部",
+    "referencePage": 42,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "LI 18",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "LI19": {
+    "indications": "鼻塞、鼻衄、口歪。",
+    "region": "面部",
+    "referencePage": 43,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "LI 19",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "LI20": {
+    "indications": "鼻塞、鼻衄、流涕、口歪。",
+    "region": "面部",
+    "referencePage": 43,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "LI 20",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "ST1": {
+    "indications": "目肿痛、眼痛、流泪、眼睑瞤动、面瘫。",
+    "region": "面部",
+    "referencePage": 46,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "ST 1",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "ST2": {
+    "indications": "面瘫、眼睑瞤动。",
+    "region": "面部",
+    "referencePage": 46,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "ST 2",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "ST3": {
+    "indications": "面瘫、眼睑瞤动、鼻衄、牙痛。",
+    "region": "面部",
+    "referencePage": 47,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "ST 3",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "ST4": {
+    "indications": "口歪、眼睑瞤动。",
+    "region": "面部",
+    "referencePage": 47,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "ST 4",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "ST5": {
+    "indications": "面瘫、牙关紧闭、颊肿、面痛、牙痛。",
+    "region": "面部",
+    "referencePage": 48,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "ST 5",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "ST6": {
+    "indications": "面瘫、牙痛、颊肿、牙关紧闭。",
+    "region": "面部",
+    "referencePage": 48,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "ST 6",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "ST7": {
+    "indications": "耳聋、耳鸣、牙痛、面瘫、活动不利。",
+    "region": "面部",
+    "referencePage": 49,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "ST 7",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "ST8": {
+    "indications": "头痛、视物模糊、眼痛、流泪。",
+    "region": "头部",
+    "referencePage": 49,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "ST 8",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "ST9": {
+    "indications": "咽喉痛、哮喘、瘿气、头晕。",
+    "region": "颈部",
+    "referencePage": 50,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "ST 9",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "ST10": {
+    "indications": "咽喉痛、哮喘、咳嗽。",
+    "region": "颈部",
+    "referencePage": 50,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "ST 10",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "ST11": {
+    "indications": "咽喉痛、哮喘、呃逆、瘿气。",
+    "region": "颈部",
+    "referencePage": 51,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "ST 11",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "ST12": {
+    "indications": "咳嗽、哮喘、咽喉痛。",
+    "region": "颈部",
+    "referencePage": 51,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "ST 12",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "ST13": {
+    "indications": "胸满、哮喘、咳嗽、呃逆、胸痛。",
+    "region": "胸前部",
+    "referencePage": 52,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "ST 13",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "ST14": {
+    "indications": "胸满、胸痛、咳嗽。",
+    "region": "胸前部",
+    "referencePage": 52,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "ST 14",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "ST15": {
+    "indications": "胸痛、咳嗽、哮喘、乳痈。",
+    "region": "胸前部",
+    "referencePage": 53,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "ST 15",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "ST16": {
+    "indications": "胸痛、咳嗽、哮喘、乳痈。",
+    "region": "胸前部",
+    "referencePage": 53,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "ST 16",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "ST17": {
+    "indications": "乳中用作定位标志；现代针灸标准通常禁针禁灸，不作为操作穴。",
+    "region": "胸前部",
+    "referencePage": 54,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "ST 17",
+    "curation": "关键词摘编，人工补录条目已单独标识",
+    "manual": true
+  },
+  "ST18": {
+    "indications": "胸痛、咳嗽、哮喘、乳痈、乳少。",
+    "region": "胸前部",
+    "referencePage": 54,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "ST 18",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "ST19": {
+    "indications": "腹胀、呕吐、胃痛、食欲不振。",
+    "region": "腹部",
+    "referencePage": 55,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "ST 19",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "ST20": {
+    "indications": "胃痛、腹胀、呕吐、食欲不振。",
+    "region": "腹部",
+    "referencePage": 55,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "ST 20",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "ST21": {
+    "indications": "胃痛、呕吐、食欲不振、腹胀、泄泻。",
+    "region": "腹部",
+    "referencePage": 56,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "ST 21",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "ST22": {
+    "indications": "腹胀、食欲不振、肠鸣、泄泻、水肿。",
+    "region": "腹部",
+    "referencePage": 56,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "ST 22",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "ST23": {
+    "indications": "胃痛、烦躁、癫狂、消化不良。",
+    "region": "腹部",
+    "referencePage": 57,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "ST 23",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "ST24": {
+    "indications": "胃痛、呕吐、癫狂。",
+    "region": "腹部",
+    "referencePage": 57,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "ST 24",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "ST25": {
+    "indications": "腹痛、肠鸣、便秘、泄泻、痢疾、月经不调。",
+    "region": "腹部",
+    "referencePage": 58,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "ST 25",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "ST26": {
+    "indications": "腹痛、疝气、痛经。",
+    "region": "腹部",
+    "referencePage": 58,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "ST 26",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "ST27": {
+    "indications": "腹胀、小便不利、疝气。",
+    "region": "腹部",
+    "referencePage": 59,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "ST 27",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "ST28": {
+    "indications": "腹胀、尿潴留、水肿、疝气、痛经。",
+    "region": "腹部",
+    "referencePage": 59,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "ST 28",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "ST29": {
+    "indications": "腹痛、疝气、痛经、月经不调、闭经、带下病。",
+    "region": "腹部",
+    "referencePage": 60,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "ST 29",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "ST30": {
+    "indications": "腹痛、肠鸣、疝气、阳痿、痛经、月经不调。",
+    "region": "体表相关区域",
+    "referencePage": 60,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "ST 30",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "ST31": {
+    "indications": "肌肉萎缩、活动不利、麻木。",
+    "region": "大腿",
+    "referencePage": 61,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "ST 31",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "ST32": {
+    "indications": "腰痛、活动不利、脚气。",
+    "region": "大腿",
+    "referencePage": 62,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "ST 32",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "ST33": {
+    "indications": "麻木、活动不利。",
+    "region": "大腿",
+    "referencePage": 62,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "ST 33",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "ST34": {
+    "indications": "麻木、胃痛、乳痈、活动不利。",
+    "region": "大腿",
+    "referencePage": 63,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "ST 34",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "ST35": {
+    "indications": "麻木、活动不利、脚气。",
+    "region": "膝部",
+    "referencePage": 63,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "ST 35",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "ST36": {
+    "indications": "胃痛、呕吐、呃逆、腹胀、肠鸣、泄泻。",
+    "region": "小腿",
+    "referencePage": 64,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "ST 36",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "ST37": {
+    "indications": "腹痛、肠鸣、泄泻、痢疾、便秘、脚气。",
+    "region": "小腿",
+    "referencePage": 64,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "ST 37",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "ST38": {
+    "indications": "麻木、活动不利、腹痛。",
+    "region": "小腿",
+    "referencePage": 65,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "ST 38",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "ST39": {
+    "indications": "小腹痛、腹痛、背痛、乳痈、麻木。",
+    "region": "小腿",
+    "referencePage": 65,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "ST 39",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "ST40": {
+    "indications": "头痛、头晕、眩晕、咳嗽、哮喘、胸痛。",
+    "region": "小腿",
+    "referencePage": 66,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "ST 40",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "ST41": {
+    "indications": "踝部症状、肌肉萎缩、活动不利、癫痫、头痛、头晕。",
+    "region": "踝部",
+    "referencePage": 66,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "ST 41",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "ST42": {
+    "indications": "面瘫、肌肉萎缩、活动不利。",
+    "region": "足部",
+    "referencePage": 67,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "ST 42",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "ST43": {
+    "indications": "水肿、腹痛、肠鸣。",
+    "region": "足部",
+    "referencePage": 67,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "ST 43",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "ST44": {
+    "indications": "牙痛、口歪、咽喉痛、鼻衄、胃痛、反酸。",
+    "region": "足部",
+    "referencePage": 68,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "ST 44",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "ST45": {
+    "indications": "面肿、口歪、鼻衄、牙痛、咽喉痛、腹胀。",
+    "region": "足趾",
+    "referencePage": 68,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "ST 45",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "SP1": {
+    "indications": "腹胀、崩漏、神志病、抽搐。",
+    "region": "足趾",
+    "referencePage": 70,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "SP 1",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "SP2": {
+    "indications": "腹胀、胃痛、便秘、热病。",
+    "region": "足趾",
+    "referencePage": 70,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "SP 2",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "SP3": {
+    "indications": "胃痛、腹胀、便秘、痢疾、呕吐、泄泻。",
+    "region": "足部",
+    "referencePage": 71,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "SP 3",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "SP4": {
+    "indications": "胃痛、呕吐、腹痛、泄泻、痢疾、肠鸣。",
+    "region": "足部",
+    "referencePage": 71,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "SP 4",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "SP5": {
+    "indications": "腹胀、便秘、泄泻、肠鸣、踝部症状、痔疮。",
+    "region": "足部",
+    "referencePage": 72,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "SP 5",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "SP6": {
+    "indications": "腹痛、肠鸣、腹胀、泄泻、痛经、月经不调。",
+    "region": "小腿",
+    "referencePage": 72,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "SP 6",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "SP7": {
+    "indications": "腹胀、肠鸣、麻木。",
+    "region": "小腿",
+    "referencePage": 73,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "SP 7",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "SP8": {
+    "indications": "腹痛、泄泻、水肿、小便不利、遗精、月经不调。",
+    "region": "小腿",
+    "referencePage": 73,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "SP 8",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "SP9": {
+    "indications": "腹痛、泄泻、痢疾、水肿、黄疸、小便不利。",
+    "region": "小腿",
+    "referencePage": 74,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "SP 9",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "SP10": {
+    "indications": "月经不调、痛经、崩漏、闭经、荨麻疹、湿疹。",
+    "region": "大腿",
+    "referencePage": 74,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "SP 10",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "SP11": {
+    "indications": "小便不利、遗尿、肌肉萎缩、活动不利。",
+    "region": "大腿",
+    "referencePage": 75,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "SP 11",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "SP12": {
+    "indications": "腹痛、疝气、小便不利。",
+    "region": "体表相关区域",
+    "referencePage": 75,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "SP 12",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "SP13": {
+    "indications": "小腹痛、腹痛、疝气。",
+    "region": "腹部",
+    "referencePage": 76,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "SP 13",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "SP14": {
+    "indications": "腹胀、疝气、泄泻、便秘。",
+    "region": "腹部",
+    "referencePage": 76,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "SP 14",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "SP15": {
+    "indications": "腹痛、泄泻、痢疾、便秘。",
+    "region": "腹部",
+    "referencePage": 77,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "SP 15",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "SP16": {
+    "indications": "腹痛、消化不良、便秘、痢疾。",
+    "region": "腹部",
+    "referencePage": 77,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "SP 16",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "SP17": {
+    "indications": "胸痛。",
+    "region": "胸前部",
+    "referencePage": 78,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "SP 17",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "SP18": {
+    "indications": "胸痛、咳嗽、呃逆、乳痈、乳少。",
+    "region": "胸前部",
+    "referencePage": 78,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "SP 18",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "SP19": {
+    "indications": "胸痛。",
+    "region": "胸前部",
+    "referencePage": 79,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "SP 19",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "SP20": {
+    "indications": "胸满、咳嗽、呃逆。",
+    "region": "胸前部",
+    "referencePage": 79,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "SP 20",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "SP21": {
+    "indications": "胸痛、哮喘。",
+    "region": "胸侧部",
+    "referencePage": 80,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "SP 21",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "HT1": {
+    "indications": "瘰疬、干燥相关症状。",
+    "region": "腋部",
+    "referencePage": 82,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "HT 1",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "HT2": {
+    "indications": "心痛、胁痛、肩臂痛。",
+    "region": "上臂",
+    "referencePage": 82,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "HT 2",
+    "curation": "关键词摘编，人工补录条目已单独标识",
+    "manual": true
+  },
+  "HT3": {
+    "indications": "心痛、麻木、瘰疬。",
+    "region": "肘部",
+    "referencePage": 83,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "HT 3",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "HT4": {
+    "indications": "心痛、肘臂挛痛、暴喑、失音。",
+    "region": "前臂",
+    "referencePage": 83,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "HT 4",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "HT5": {
+    "indications": "心悸、头晕、视物模糊、咽喉痛、暴喑、失音。",
+    "region": "前臂",
+    "referencePage": 84,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "HT 5",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "HT6": {
+    "indications": "心痛、盗汗、咯血、鼻衄、暴喑、失音。",
+    "region": "前臂",
+    "referencePage": 84,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "HT 6",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "HT7": {
+    "indications": "心痛、烦躁、心悸、失眠、癫狂、癫痫。",
+    "region": "腕部",
+    "referencePage": 85,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "HT 7",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "HT8": {
+    "indications": "心悸、胸痛、掌心热、遗尿、小便不利、瘙痒。",
+    "region": "手掌",
+    "referencePage": 85,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "HT 8",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "HT9": {
+    "indications": "心悸、心痛、胸痛、癫狂、热病、昏厥。",
+    "region": "手指",
+    "referencePage": 86,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "HT 9",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "SI1": {
+    "indications": "头痛、热病、昏厥、乳少、咽喉痛、目赤。",
+    "region": "手指",
+    "referencePage": 88,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "SI 1",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "SI2": {
+    "indications": "麻木、热病、耳鸣、头痛。",
+    "region": "手指",
+    "referencePage": 88,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "SI 2",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "SI3": {
+    "indications": "耳鸣、耳聋、咽喉痛、癫狂、疟疾、盗汗。",
+    "region": "手指",
+    "referencePage": 89,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "SI 3",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "SI4": {
+    "indications": "热病、头痛、腕痛、黄疸。",
+    "region": "腕部",
+    "referencePage": 89,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "SI 4",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "SI5": {
+    "indications": "热病。",
+    "region": "腕部",
+    "referencePage": 90,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "SI 5",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "SI6": {
+    "indications": "视物模糊、肩痛。",
+    "region": "前臂",
+    "referencePage": 90,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "SI 6",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "SI7": {
+    "indications": "项强、头痛、头晕、肘痛、热病、癫狂。",
+    "region": "前臂",
+    "referencePage": 91,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "SI 7",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "SI8": {
+    "indications": "头痛、颊肿、癫痫。",
+    "region": "肘部",
+    "referencePage": 91,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "SI 8",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "SI9": {
+    "indications": "活动不利。",
+    "region": "肩部",
+    "referencePage": 92,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "SI 9",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "SI10": {
+    "indications": "肩部肿痛、肩臂酸痛无力。",
+    "region": "肩部",
+    "referencePage": 92,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "SI 10",
+    "curation": "关键词摘编，人工补录条目已单独标识",
+    "manual": true
+  },
+  "SI11": {
+    "indications": "哮喘。",
+    "region": "体表相关区域",
+    "referencePage": 93,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "SI 11",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "SI12": {
+    "indications": "麻木、活动不利。",
+    "region": "体表相关区域",
+    "referencePage": 93,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "SI 12",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "SI13": {
+    "indications": "拘急强直。",
+    "region": "体表相关区域",
+    "referencePage": 94,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "SI 13",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "SI14": {
+    "indications": "肩背酸痛、颈项拘急疼痛。",
+    "region": "背部",
+    "referencePage": 94,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "SI 14",
+    "curation": "关键词摘编，人工补录条目已单独标识",
+    "manual": true
+  },
+  "SI15": {
+    "indications": "咳嗽、气喘、肩背痛。",
+    "region": "背部",
+    "referencePage": 95,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "SI 15",
+    "curation": "关键词摘编，人工补录条目已单独标识",
+    "manual": true
+  },
+  "SI16": {
+    "indications": "咽喉痛、暴喑、失音、耳聋、耳鸣、拘急强直。",
+    "region": "颈部",
+    "referencePage": 95,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "SI 16",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "SI17": {
+    "indications": "耳聋、耳鸣、咽喉痛、颊肿、瘿气。",
+    "region": "颈部",
+    "referencePage": 96,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "SI 17",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "SI18": {
+    "indications": "面瘫、眼睑瞤动、牙痛、颊肿。",
+    "region": "面部",
+    "referencePage": 96,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "SI 18",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "SI19": {
+    "indications": "耳聋、耳鸣、活动不利、牙痛。",
+    "region": "面部",
+    "referencePage": 97,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "SI 19",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "BL1": {
+    "indications": "目肿痛、眼痛、流泪、视物模糊。",
+    "region": "面部",
+    "referencePage": 100,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "BL 1",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "BL2": {
+    "indications": "头痛、流泪、目肿痛、眼痛、眼睑瞤动。",
+    "region": "头部",
+    "referencePage": 100,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "BL 2",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "BL3": {
+    "indications": "头痛、癫痫、鼻塞。",
+    "region": "头部",
+    "referencePage": 101,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "BL 3",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "BL4": {
+    "indications": "头痛、鼻塞、鼻衄。",
+    "region": "头部",
+    "referencePage": 101,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "BL 4",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "BL5": {
+    "indications": "头痛、视物模糊、癫痫、抽搐。",
+    "region": "头部",
+    "referencePage": 102,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "BL 5",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "BL6": {
+    "indications": "头痛、视物模糊、鼻塞。",
+    "region": "头部",
+    "referencePage": 102,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "BL 6",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "BL7": {
+    "indications": "头痛、鼻塞、鼻衄、流涕。",
+    "region": "头部",
+    "referencePage": 103,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "BL 7",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "BL8": {
+    "indications": "头晕、视物模糊、耳鸣、癫狂。",
+    "region": "头部",
+    "referencePage": 103,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "BL 8",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "BL9": {
+    "indications": "头痛、头晕、眼痛、鼻塞。",
+    "region": "头部",
+    "referencePage": 104,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "BL 9",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "BL10": {
+    "indications": "头痛、鼻塞、咽喉痛、项强、肩痛。",
+    "region": "颈部",
+    "referencePage": 104,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "BL 10",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "BL11": {
+    "indications": "头痛、颈痛、咳嗽、发热、项强。",
+    "region": "背部",
+    "referencePage": 105,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "BL 11",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "BL12": {
+    "indications": "咳嗽、发热、头痛、项强、背痛。",
+    "region": "背部",
+    "referencePage": 105,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "BL 12",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "BL13": {
+    "indications": "咳嗽、哮喘、胸痛、唾血、发热、盗汗。",
+    "region": "背部",
+    "referencePage": 106,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "BL 13",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "BL14": {
+    "indications": "咳嗽、心痛、心悸、呕吐。",
+    "region": "背部",
+    "referencePage": 106,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "BL 14",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "BL15": {
+    "indications": "心痛、心悸、咳嗽、唾血、遗精、盗汗。",
+    "region": "背部",
+    "referencePage": 107,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "BL 15",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "BL16": {
+    "indications": "心痛、胸腹痛、寒热。",
+    "region": "背部",
+    "referencePage": 107,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "BL 16",
+    "curation": "关键词摘编，人工补录条目已单独标识",
+    "manual": true
+  },
+  "BL17": {
+    "indications": "呕吐、呃逆、吞咽困难、哮喘、咳嗽、唾血。",
+    "region": "背部",
+    "referencePage": 108,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "BL 17",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "BL18": {
+    "indications": "黄疸、胁痛、目赤、视物模糊、神志病、癫痫。",
+    "region": "背部",
+    "referencePage": 108,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "BL 18",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "BL19": {
+    "indications": "黄疸、胸痛、发热。",
+    "region": "背部",
+    "referencePage": 109,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "BL 19",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "BL20": {
+    "indications": "腹胀、黄疸、呕吐、泄泻、痢疾、水肿。",
+    "region": "背部",
+    "referencePage": 109,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "BL 20",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "BL21": {
+    "indications": "胸痛、食欲不振、腹胀、肠鸣、泄泻、恶心。",
+    "region": "背部",
+    "referencePage": 110,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "BL 21",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "BL22": {
+    "indications": "肠鸣、腹胀、消化不良、呕吐、泄泻、痢疾。",
+    "region": "腰部",
+    "referencePage": 110,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "BL 22",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "BL23": {
+    "indications": "遗精、阳痿、遗尿、月经不调、带下病、腰痛。",
+    "region": "腰部",
+    "referencePage": 111,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "BL 23",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "BL24": {
+    "indications": "腰痛、月经不调、痛经、哮喘。",
+    "region": "腰部",
+    "referencePage": 111,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "BL 24",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "BL25": {
+    "indications": "腰痛、肠鸣、腹胀、泄泻、便秘、肌肉萎缩。",
+    "region": "腰部",
+    "referencePage": 112,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "BL 25",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "BL26": {
+    "indications": "腰骶痛、腹胀、泄泻。",
+    "region": "腰部",
+    "referencePage": 112,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "BL 26",
+    "curation": "关键词摘编，人工补录条目已单独标识",
+    "manual": true
+  },
+  "BL27": {
+    "indications": "小腹胀痛、遗精、遗尿、腰骶痛。",
+    "region": "骶部",
+    "referencePage": 113,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "BL 27",
+    "curation": "关键词摘编，人工补录条目已单独标识",
+    "manual": true
+  },
+  "BL28": {
+    "indications": "小便不利、遗尿、腰骶痛。",
+    "region": "骶部",
+    "referencePage": 113,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "BL 28",
+    "curation": "关键词摘编，人工补录条目已单独标识",
+    "manual": true
+  },
+  "BL29": {
+    "indications": "痢疾、疝气、拘急强直。",
+    "region": "骶部",
+    "referencePage": 114,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "BL 29",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "BL30": {
+    "indications": "遗尿、疝气、带下病、月经不调、小便不利、便秘。",
+    "region": "骶部",
+    "referencePage": 114,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "BL 30",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "BL31": {
+    "indications": "腰痛、小便不利、便秘、月经不调、带下病、子宫脱垂。",
+    "region": "骶部",
+    "referencePage": 115,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "BL 31",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "BL32": {
+    "indications": "腰痛、疝气、月经不调、带下病、痛经、遗精。",
+    "region": "骶部",
+    "referencePage": 115,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "BL 32",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "BL33": {
+    "indications": "腰痛、便秘、泄泻、小便不利、月经不调、带下病。",
+    "region": "骶部",
+    "referencePage": 116,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "BL 33",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "BL34": {
+    "indications": "腰痛、小腹痛、腹痛、小便不利、便秘、带下病。",
+    "region": "骶部",
+    "referencePage": 116,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "BL 34",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "BL35": {
+    "indications": "痢疾、泄泻、痔疮、阳痿、带下病。",
+    "region": "臀部",
+    "referencePage": 117,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "BL 35",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "BL36": {
+    "indications": "便秘、肌肉萎缩、麻木、活动不利。",
+    "region": "臀部",
+    "referencePage": 117,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "BL 36",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "BL37": {
+    "indications": "肌肉萎缩、麻木、活动不利、半身不遂。",
+    "region": "大腿",
+    "referencePage": 118,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "BL 37",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "BL38": {
+    "indications": "麻木。",
+    "region": "膝部",
+    "referencePage": 118,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "BL 38",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "BL39": {
+    "indications": "拘急强直、水肿、小便不利。",
+    "region": "膝部",
+    "referencePage": 119,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "BL 39",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "BL40": {
+    "indications": "腰痛、活动不利、髋部症状、肌肉萎缩、麻木、半身不遂。",
+    "region": "膝部",
+    "referencePage": 119,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "BL 40",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "BL41": {
+    "indications": "拘急强直、肩痛、麻木。",
+    "region": "背部",
+    "referencePage": 120,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "BL 41",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "BL42": {
+    "indications": "咯血、咳嗽、哮喘、项强、肩痛。",
+    "region": "背部",
+    "referencePage": 120,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "BL 42",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "BL43": {
+    "indications": "咳嗽、哮喘、唾血、盗汗、遗精。",
+    "region": "背部",
+    "referencePage": 121,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "BL 43",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "BL44": {
+    "indications": "哮喘、心痛、心悸、咳嗽、拘急强直。",
+    "region": "背部",
+    "referencePage": 121,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "BL 44",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "BL45": {
+    "indications": "咳嗽、哮喘、肩痛。",
+    "region": "背部",
+    "referencePage": 122,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "BL 45",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "BL46": {
+    "indications": "吞咽困难、呃逆、呕吐、拘急强直。",
+    "region": "背部",
+    "referencePage": 122,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "BL 46",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "BL47": {
+    "indications": "胸痛、呕吐、泄泻。",
+    "region": "背部",
+    "referencePage": 123,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "BL 47",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "BL48": {
+    "indications": "肠鸣、腹痛、泄泻、胁痛、黄疸。",
+    "region": "背部",
+    "referencePage": 123,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "BL 48",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "BL49": {
+    "indications": "腹胀、肠鸣、呕吐、泄泻、吞咽困难。",
+    "region": "背部",
+    "referencePage": 124,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "BL 49",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "BL50": {
+    "indications": "腹胀、消化不良。",
+    "region": "背部",
+    "referencePage": 124,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "BL 50",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "BL51": {
+    "indications": "腹痛、便秘。",
+    "region": "腰部",
+    "referencePage": 125,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "BL 51",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "BL52": {
+    "indications": "遗精、阳痿、遗尿、小便不利、月经不调、水肿。",
+    "region": "腰部",
+    "referencePage": 125,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "BL 52",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "BL53": {
+    "indications": "肠鸣、腹胀。",
+    "region": "臀部",
+    "referencePage": 126,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "BL 53",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "BL54": {
+    "indications": "肌肉萎缩、活动不利、小便不利、痔疮、便秘。",
+    "region": "臀部",
+    "referencePage": 126,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "BL 54",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "BL55": {
+    "indications": "腰痛。",
+    "region": "小腿",
+    "referencePage": 127,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "BL 55",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "BL56": {
+    "indications": "痔疮。",
+    "region": "小腿",
+    "referencePage": 127,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "BL 56",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "BL57": {
+    "indications": "腰痛、痔疮、便秘、脚气。",
+    "region": "小腿",
+    "referencePage": 128,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "BL 57",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "BL58": {
+    "indications": "头痛、视物模糊、鼻塞、鼻衄、痔疮。",
+    "region": "小腿",
+    "referencePage": 128,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "BL 58",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "BL59": {
+    "indications": "头痛、腰痛。",
+    "region": "小腿",
+    "referencePage": 129,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "BL 59",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "BL60": {
+    "indications": "头痛、视物模糊、项强、鼻衄、肩痛、癫痫。",
+    "region": "踝部",
+    "referencePage": 129,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "BL 60",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "BL61": {
+    "indications": "肌肉萎缩、足跟痛。",
+    "region": "足部",
+    "referencePage": 130,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "BL 61",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "BL62": {
+    "indications": "癫痫、癫狂、头痛、头晕、失眠、背痛。",
+    "region": "足部",
+    "referencePage": 130,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "BL 62",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "BL63": {
+    "indications": "癫狂、癫痫、小儿惊风、抽搐、背痛、活动不利。",
+    "region": "足部",
+    "referencePage": 131,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "BL 63",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "BL64": {
+    "indications": "头痛、项强、癫痫。",
+    "region": "足部",
+    "referencePage": 131,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "BL 64",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "BL65": {
+    "indications": "癫狂、头痛、项强、视物模糊、背痛。",
+    "region": "足部",
+    "referencePage": 132,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "BL 65",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "BL66": {
+    "indications": "头痛、项强、视物模糊、鼻衄、癫狂。",
+    "region": "足趾",
+    "referencePage": 132,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "BL 66",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "BL67": {
+    "indications": "头痛、鼻塞、鼻衄、眼痛。",
+    "region": "足趾",
+    "referencePage": 133,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "BL 67",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "KI1": {
+    "indications": "头痛、视物模糊、头晕、咽喉痛、干燥相关症状、失音。",
+    "region": "足底",
+    "referencePage": 136,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "KI 1",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "KI2": {
+    "indications": "瘙痒、子宫脱垂、月经不调、遗精、咯血、口渴。",
+    "region": "足部",
+    "referencePage": 136,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "KI 2",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "KI3": {
+    "indications": "咽喉痛、牙痛、耳聋、耳鸣、头晕、唾血。",
+    "region": "踝部",
+    "referencePage": 137,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "KI 3",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "KI4": {
+    "indications": "唾血、哮喘、拘急强直、小便不利、便秘、足跟痛。",
+    "region": "足部",
+    "referencePage": 137,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "KI 4",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "KI5": {
+    "indications": "闭经、月经不调、痛经、子宫脱垂、小便不利、视物模糊。",
+    "region": "足部",
+    "referencePage": 138,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "KI 5",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "KI6": {
+    "indications": "月经不调、带下病、子宫脱垂、瘙痒、尿潴留、便秘。",
+    "region": "足部",
+    "referencePage": 138,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "KI 6",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "KI7": {
+    "indications": "水肿、腹胀、泄泻、肠鸣、肌肉萎缩、盗汗。",
+    "region": "小腿",
+    "referencePage": 139,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "KI 7",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "KI8": {
+    "indications": "月经不调、痛经、崩漏、子宫脱垂、泄泻、便秘。",
+    "region": "小腿",
+    "referencePage": 139,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "KI 8",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "KI9": {
+    "indications": "神志病、疝气。",
+    "region": "小腿",
+    "referencePage": 140,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "KI 9",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "KI10": {
+    "indications": "阳痿、疝气、崩漏、小便不利、膝痛、神志病。",
+    "region": "膝部",
+    "referencePage": 140,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "KI 10",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "KI11": {
+    "indications": "小便不利、遗尿、遗精、阳痿。",
+    "region": "腹部",
+    "referencePage": 141,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "KI 11",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "KI12": {
+    "indications": "遗精、阳痿、带下病、外阴痛、子宫脱垂。",
+    "region": "腹部",
+    "referencePage": 141,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "KI 12",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "KI13": {
+    "indications": "月经不调、痛经、小便不利、腹痛、泄泻。",
+    "region": "腹部",
+    "referencePage": 142,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "KI 13",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "KI14": {
+    "indications": "腹痛、泄泻、遗精、月经不调、痛经。",
+    "region": "腹部",
+    "referencePage": 142,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "KI 14",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "KI15": {
+    "indications": "月经不调、腹痛、便秘。",
+    "region": "腹部",
+    "referencePage": 143,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "KI 15",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "KI16": {
+    "indications": "腹痛、呕吐、便秘、泄泻。",
+    "region": "腹部",
+    "referencePage": 143,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "KI 16",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "KI17": {
+    "indications": "腹痛、泄泻、便秘。",
+    "region": "腹部",
+    "referencePage": 144,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "KI 17",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "KI18": {
+    "indications": "呕吐、腹痛、便秘。",
+    "region": "腹部",
+    "referencePage": 144,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "KI 18",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "KI19": {
+    "indications": "肠鸣、腹痛、便秘、呕吐。",
+    "region": "腹部",
+    "referencePage": 145,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "KI 19",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "KI20": {
+    "indications": "腹痛、呕吐、消化不良。",
+    "region": "腹部",
+    "referencePage": 145,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "KI 20",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "KI21": {
+    "indications": "腹痛、消化不良、呕吐、泄泻、恶心。",
+    "region": "腹部",
+    "referencePage": 146,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "KI 21",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "KI22": {
+    "indications": "咳嗽、哮喘、胸满、呕吐、食欲不振。",
+    "region": "胸前部",
+    "referencePage": 146,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "KI 22",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "KI23": {
+    "indications": "咳嗽、哮喘、胸满、乳痈。",
+    "region": "胸前部",
+    "referencePage": 147,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "KI 23",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "KI24": {
+    "indications": "咳嗽、哮喘、胸满、乳痈。",
+    "region": "胸前部",
+    "referencePage": 147,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "KI 24",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "KI25": {
+    "indications": "咳嗽、哮喘、胸痛。",
+    "region": "胸前部",
+    "referencePage": 148,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "KI 25",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "KI26": {
+    "indications": "咳嗽、哮喘、胸满。",
+    "region": "胸前部",
+    "referencePage": 148,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "KI 26",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "KI27": {
+    "indications": "咳嗽、哮喘、胸痛。",
+    "region": "胸前部",
+    "referencePage": 149,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "KI 27",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "PC1": {
+    "indications": "胁痛。",
+    "region": "胸前部",
+    "referencePage": 152,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "PC 1",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "PC2": {
+    "indications": "心痛、咳嗽、胸痛。",
+    "region": "上臂",
+    "referencePage": 152,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "PC 2",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "PC3": {
+    "indications": "心痛、心悸、热病、烦躁、胃痛、呕吐。",
+    "region": "肘部",
+    "referencePage": 153,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "PC 3",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "PC4": {
+    "indications": "心痛、心悸、鼻衄、咯血、胸痛、癫痫。",
+    "region": "前臂",
+    "referencePage": 153,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "PC 4",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "PC5": {
+    "indications": "心痛、心悸、胃痛、呕吐、热病、烦躁。",
+    "region": "前臂",
+    "referencePage": 154,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "PC 5",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "PC6": {
+    "indications": "心痛、心悸、胁痛、胃痛、恶心、呕吐。",
+    "region": "前臂",
+    "referencePage": 154,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "PC 6",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "PC7": {
+    "indications": "心痛、心悸、胃痛、呕吐、神志病、癫痫。",
+    "region": "腕部",
+    "referencePage": 155,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "PC 7",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "PC8": {
+    "indications": "心痛、神志病、癫痫、呕吐、恶心。",
+    "region": "手掌",
+    "referencePage": 155,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "PC 8",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "PC9": {
+    "indications": "心痛、心悸、昏厥、失语、拘急强直、热病。",
+    "region": "手指",
+    "referencePage": 156,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "PC 9",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "TE1": {
+    "indications": "头痛、目赤、咽喉痛、拘急强直、热病、烦躁。",
+    "region": "手指",
+    "referencePage": 158,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "TE 1",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "TE2": {
+    "indications": "头痛、目赤、耳聋、咽喉痛、疟疾、臂痛。",
+    "region": "手部",
+    "referencePage": 158,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "TE 2",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "TE3": {
+    "indications": "头痛、目赤、耳聋、耳鸣、咽喉痛、热病。",
+    "region": "手部",
+    "referencePage": 159,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "TE 3",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "TE4": {
+    "indications": "臂痛、疟疾、耳聋、口渴。",
+    "region": "腕部",
+    "referencePage": 159,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "TE 4",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "TE5": {
+    "indications": "热病、头痛、耳聋、耳鸣、胁痛、活动不利。",
+    "region": "前臂",
+    "referencePage": 160,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "TE 5",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "TE6": {
+    "indications": "耳鸣、耳聋、胁痛、呕吐、便秘、热病。",
+    "region": "前臂",
+    "referencePage": 160,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "TE 6",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "TE7": {
+    "indications": "耳聋、癫痫。",
+    "region": "前臂",
+    "referencePage": 161,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "TE 7",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "TE8": {
+    "indications": "耳聋、声音嘶哑、胸痛、牙痛。",
+    "region": "前臂",
+    "referencePage": 161,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "TE 8",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "TE9": {
+    "indications": "耳聋、牙痛、偏头痛、声音嘶哑。",
+    "region": "前臂",
+    "referencePage": 162,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "TE 9",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "TE10": {
+    "indications": "偏头痛、颈痛、癫痫、瘰疬、瘿气。",
+    "region": "肘部",
+    "referencePage": 162,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "TE 10",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "TE11": {
+    "indications": "头痛、目痛、肩臂痛。",
+    "region": "上臂",
+    "referencePage": 163,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "TE 11",
+    "curation": "关键词摘编，人工补录条目已单独标识",
+    "manual": true
+  },
+  "TE12": {
+    "indications": "头痛、项强、活动不利。",
+    "region": "上臂",
+    "referencePage": 163,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "TE 12",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "TE13": {
+    "indications": "瘿气、肩痛。",
+    "region": "上臂",
+    "referencePage": 164,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "TE 13",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "TE14": {
+    "indications": "活动不利。",
+    "region": "肩部",
+    "referencePage": 164,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "TE 14",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "TE15": {
+    "indications": "肩痛、拘急强直。",
+    "region": "体表相关区域",
+    "referencePage": 165,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "TE 15",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "TE16": {
+    "indications": "头痛、项强、面肿、视物模糊、耳聋。",
+    "region": "颈部",
+    "referencePage": 165,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "TE 16",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "TE17": {
+    "indications": "耳鸣、耳聋、面瘫、牙痛、颊肿、瘰疬。",
+    "region": "颈部",
+    "referencePage": 166,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "TE 17",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "TE18": {
+    "indications": "头痛、耳鸣、耳聋、小儿惊风、抽搐。",
+    "region": "头部",
+    "referencePage": 166,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "TE 18",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "TE19": {
+    "indications": "头痛、耳鸣、耳聋、小儿惊风、抽搐。",
+    "region": "头部",
+    "referencePage": 167,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "TE 19",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "TE20": {
+    "indications": "耳鸣、目肿痛、牙痛。",
+    "region": "头部",
+    "referencePage": 167,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "TE 20",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "TE21": {
+    "indications": "耳鸣、耳聋、牙痛、拘急强直。",
+    "region": "面部",
+    "referencePage": 168,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "TE 21",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "TE22": {
+    "indications": "偏头痛、耳鸣。",
+    "region": "头部",
+    "referencePage": 168,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "TE 22",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "TE23": {
+    "indications": "头痛、眼痛、视物模糊、眼睑瞤动、牙痛、面瘫。",
+    "region": "头部",
+    "referencePage": 169,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "TE 23",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "GB1": {
+    "indications": "头痛、眼痛、流泪。",
+    "region": "头部",
+    "referencePage": 172,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "GB 1",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "GB2": {
+    "indications": "耳聋、耳鸣、牙痛、活动不利。",
+    "region": "面部",
+    "referencePage": 172,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "GB 2",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "GB3": {
+    "indications": "头痛、耳聋、耳鸣、牙痛。",
+    "region": "头部",
+    "referencePage": 173,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "GB 3",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "GB4": {
+    "indications": "偏头痛、眩晕、耳鸣、牙痛、抽搐、癫痫。",
+    "region": "头部",
+    "referencePage": 173,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "GB 4",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "GB5": {
+    "indications": "偏头痛、面肿。",
+    "region": "头部",
+    "referencePage": 174,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "GB 5",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "GB6": {
+    "indications": "偏头痛、耳鸣。",
+    "region": "头部",
+    "referencePage": 174,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "GB 6",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "GB7": {
+    "indications": "头痛、颊肿、牙关紧闭、小儿惊风、抽搐。",
+    "region": "头部",
+    "referencePage": 175,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "GB 7",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "GB8": {
+    "indications": "偏头痛、眩晕、呕吐、小儿惊风、抽搐。",
+    "region": "头部",
+    "referencePage": 175,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "GB 8",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "GB9": {
+    "indications": "头痛、癫痫、抽搐。",
+    "region": "头部",
+    "referencePage": 176,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "GB 9",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "GB10": {
+    "indications": "头痛、耳鸣、耳聋。",
+    "region": "头部",
+    "referencePage": 176,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "GB 10",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "GB11": {
+    "indications": "耳鸣、耳聋。",
+    "region": "头部",
+    "referencePage": 177,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "GB 11",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "GB12": {
+    "indications": "头痛、失眠、颊肿、牙痛。",
+    "region": "颈部",
+    "referencePage": 177,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "GB 12",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "GB13": {
+    "indications": "头痛、失眠、眩晕、癫痫。",
+    "region": "头部",
+    "referencePage": 178,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "GB 13",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "GB14": {
+    "indications": "头痛、眩晕、眼睑瞤动、流泪。",
+    "region": "头部",
+    "referencePage": 178,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "GB 14",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "GB15": {
+    "indications": "头痛、眩晕、流泪、流涕、鼻塞。",
+    "region": "头部",
+    "referencePage": 179,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "GB 15",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "GB16": {
+    "indications": "头痛、眩晕、鼻塞。",
+    "region": "头部",
+    "referencePage": 179,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "GB 16",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "GB17": {
+    "indications": "偏头痛、眩晕。",
+    "region": "头部",
+    "referencePage": 180,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "GB 17",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "GB18": {
+    "indications": "头痛、眩晕、鼻塞。",
+    "region": "头部",
+    "referencePage": 180,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "GB 18",
+    "curation": "关键词摘编，人工补录条目已单独标识",
+    "manual": true
+  },
+  "GB19": {
+    "indications": "头痛、拘急强直、眩晕、耳鸣、癫痫。",
+    "region": "头部",
+    "referencePage": 181,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "GB 19",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "GB20": {
+    "indications": "头痛、眩晕、失眠、拘急强直、视物模糊、耳鸣。",
+    "region": "颈部",
+    "referencePage": 181,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "GB 20",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "GB21": {
+    "indications": "肩痛、活动不利、乳少、乳痈、瘰疬、中风。",
+    "region": "颈部",
+    "referencePage": 182,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "GB 21",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "GB22": {
+    "indications": "胸满、胁痛、活动不利。",
+    "region": "胸侧部",
+    "referencePage": 182,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "GB 22",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "GB23": {
+    "indications": "胸满、胁痛、哮喘。",
+    "region": "胸侧部",
+    "referencePage": 183,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "GB 23",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "GB24": {
+    "indications": "胁痛、呕吐、反酸、呃逆、黄疸、乳痈。",
+    "region": "胸前部",
+    "referencePage": 183,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "GB 24",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "GB25": {
+    "indications": "腹胀、肠鸣、泄泻、腰痛。",
+    "region": "腹部",
+    "referencePage": 184,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "GB 25",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "GB26": {
+    "indications": "月经不调、闭经、带下病、腹痛、疝气、腰痛。",
+    "region": "腹部",
+    "referencePage": 184,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "GB 26",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "GB27": {
+    "indications": "带下病、小腹痛、腹痛、疝气、便秘。",
+    "region": "腹部",
+    "referencePage": 185,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "GB 27",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "GB28": {
+    "indications": "带下病、小腹痛、腹痛、疝气、子宫脱垂。",
+    "region": "腹部",
+    "referencePage": 185,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "GB 28",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "GB29": {
+    "indications": "麻木、肌肉萎缩。",
+    "region": "臀部",
+    "referencePage": 186,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "GB 29",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "GB30": {
+    "indications": "肌肉萎缩、半身不遂。",
+    "region": "臀部",
+    "referencePage": 186,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "GB 30",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "GB31": {
+    "indications": "脚气、瘙痒。",
+    "region": "大腿",
+    "referencePage": 187,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "GB 31",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "GB32": {
+    "indications": "麻木、半身不遂。",
+    "region": "大腿",
+    "referencePage": 187,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "GB 32",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "GB33": {
+    "indications": "麻木。",
+    "region": "膝部",
+    "referencePage": 188,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "GB 33",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "GB34": {
+    "indications": "胁痛、黄疸、膝痛、下肢痿痹。",
+    "region": "小腿",
+    "referencePage": 188,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "GB 34",
+    "curation": "关键词摘编，人工补录条目已单独标识",
+    "manual": true
+  },
+  "GB35": {
+    "indications": "胸满、肌肉萎缩。",
+    "region": "小腿",
+    "referencePage": 189,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "GB 35",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "GB36": {
+    "indications": "颈痛。",
+    "region": "小腿",
+    "referencePage": 189,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "GB 36",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "GB37": {
+    "indications": "膝痛、肌肉萎缩、活动不利、视物模糊、眼痛。",
+    "region": "小腿",
+    "referencePage": 190,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "GB 37",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "GB38": {
+    "indications": "偏头痛、瘰疬、胸痛、疟疾。",
+    "region": "小腿",
+    "referencePage": 190,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "GB 38",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "GB39": {
+    "indications": "中风、半身不遂、腹胀、胁痛、肌肉萎缩、脚气。",
+    "region": "小腿",
+    "referencePage": 191,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "GB 39",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "GB40": {
+    "indications": "颈痛、胁痛、呕吐、反酸、肌肉萎缩、疟疾。",
+    "region": "踝部",
+    "referencePage": 191,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "GB 40",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "GB41": {
+    "indications": "头痛、眩晕、瘰疬、胁痛、月经不调。",
+    "region": "足部",
+    "referencePage": 192,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "GB 41",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "GB42": {
+    "indications": "耳鸣。",
+    "region": "足部",
+    "referencePage": 192,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "GB 42",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "GB43": {
+    "indications": "头痛、头晕、眩晕、耳鸣、耳聋、颊肿。",
+    "region": "足部",
+    "referencePage": 193,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "GB 43",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "GB44": {
+    "indications": "偏头痛、耳聋、耳鸣、眼痛、热病。",
+    "region": "足趾",
+    "referencePage": 193,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "GB 44",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "LR1": {
+    "indications": "疝气、遗尿、崩漏、子宫脱垂、癫痫。",
+    "region": "足趾",
+    "referencePage": 196,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "LR 1",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "LR2": {
+    "indications": "胁痛、腹胀、头痛、头晕、眩晕、目肿痛。",
+    "region": "足部",
+    "referencePage": 196,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "LR 2",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "LR3": {
+    "indications": "头痛、头晕、眩晕、失眠、目肿痛、眼痛。",
+    "region": "足部",
+    "referencePage": 197,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "LR 3",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "LR4": {
+    "indications": "疝气、外阴痛、遗精、尿潴留、胁痛。",
+    "region": "踝部",
+    "referencePage": 197,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "LR 4",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "LR5": {
+    "indications": "尿潴留、遗尿、疝气、月经不调、带下病、瘙痒。",
+    "region": "小腿",
+    "referencePage": 198,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "LR 5",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "LR6": {
+    "indications": "腹痛、泄泻、疝气、崩漏。",
+    "region": "小腿",
+    "referencePage": 198,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "LR 6",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "LR7": {
+    "indications": "膝部肿痛、下肢内侧疼痛。",
+    "region": "小腿",
+    "referencePage": 199,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "LR 7",
+    "curation": "关键词摘编，人工补录条目已单独标识",
+    "manual": true
+  },
+  "LR8": {
+    "indications": "子宫脱垂、小腹痛、腹痛、尿潴留、遗精、外阴痛。",
+    "region": "膝部",
+    "referencePage": 199,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "LR 8",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "LR9": {
+    "indications": "小腹痛、腹痛、遗尿、尿潴留、月经不调。",
+    "region": "大腿",
+    "referencePage": 200,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "LR 9",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "LR10": {
+    "indications": "腹胀、尿潴留。",
+    "region": "大腿",
+    "referencePage": 200,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "LR 10",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "LR11": {
+    "indications": "月经不调、带下病、小腹痛、腹痛。",
+    "region": "大腿",
+    "referencePage": 201,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "LR 11",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "LR12": {
+    "indications": "小腹痛、腹痛、疝气、外阴痛。",
+    "region": "体表相关区域",
+    "referencePage": 201,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "LR 12",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "LR13": {
+    "indications": "腹胀、肠鸣、胁痛、呕吐、泄泻、消化不良。",
+    "region": "腹部",
+    "referencePage": 202,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "LR 13",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "LR14": {
+    "indications": "腹胀、呃逆、反酸、乳痈、情志抑郁、热病。",
+    "region": "胸前部",
+    "referencePage": 202,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "LR 14",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "GV1": {
+    "indications": "泄泻、痔疮、脱肛、便秘、癫痫。",
+    "region": "会阴部",
+    "referencePage": 204,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "Du 1",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "GV2": {
+    "indications": "月经不调、拘急强直、痔疮、肌肉萎缩、癫痫。",
+    "region": "骶部",
+    "referencePage": 204,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "Du 2",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "GV3": {
+    "indications": "腰骶痛、下肢痿痹、月经不调。",
+    "region": "腰部",
+    "referencePage": 205,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "Du 3",
+    "curation": "关键词摘编，人工补录条目已单独标识",
+    "manual": true
+  },
+  "GV4": {
+    "indications": "拘急强直、阳痿、遗精、月经不调、泄泻、消化不良。",
+    "region": "腰部",
+    "referencePage": 205,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "Du 4",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "GV5": {
+    "indications": "拘急强直、泄泻、消化不良。",
+    "region": "腰部",
+    "referencePage": 206,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "Du 5",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "GV6": {
+    "indications": "泄泻、黄疸、癫痫、拘急强直。",
+    "region": "背部",
+    "referencePage": 206,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "Du 6",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "GV7": {
+    "indications": "腰痛、拘急强直。",
+    "region": "背部",
+    "referencePage": 207,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "Du 7",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "GV8": {
+    "indications": "癫痫、拘急强直、胃痛。",
+    "region": "背部",
+    "referencePage": 207,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "Du 8",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "GV9": {
+    "indications": "黄疸、咳嗽、哮喘、拘急强直、胸痛。",
+    "region": "背部",
+    "referencePage": 208,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "Du 9",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "GV10": {
+    "indications": "咳嗽、哮喘、项强。",
+    "region": "背部",
+    "referencePage": 208,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "Du 10",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "GV11": {
+    "indications": "心悸、拘急强直、咳嗽、心痛。",
+    "region": "背部",
+    "referencePage": 209,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "Du 11",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "GV12": {
+    "indications": "咳嗽、哮喘、癫痫、拘急强直。",
+    "region": "背部",
+    "referencePage": 209,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "Du 12",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "GV13": {
+    "indications": "拘急强直、头痛、疟疾、热病。",
+    "region": "背部",
+    "referencePage": 210,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "Du 13",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "GV14": {
+    "indications": "疟疾、热病、癫痫、发热、咳嗽、哮喘。",
+    "region": "颈部",
+    "referencePage": 210,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "Du 14",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "GV15": {
+    "indications": "神志病、癫痫、耳聋、声音嘶哑、中风、拘急强直。",
+    "region": "颈部",
+    "referencePage": 211,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "Du 15",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "GV16": {
+    "indications": "头痛、项强、视物模糊、鼻衄、咽喉痛、中风。",
+    "region": "颈部",
+    "referencePage": 211,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "Du 16",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "GV17": {
+    "indications": "癫痫、头晕、拘急强直。",
+    "region": "头部",
+    "referencePage": 212,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "Du 17",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "GV18": {
+    "indications": "头痛、项强、视物模糊、癫狂。",
+    "region": "头部",
+    "referencePage": 212,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "Du 18",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "GV19": {
+    "indications": "头痛、眩晕、癫狂、癫痫。",
+    "region": "头部",
+    "referencePage": 213,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "Du 19",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "GV20": {
+    "indications": "头痛、眩晕、耳鸣、鼻塞、失语、中风。",
+    "region": "头部",
+    "referencePage": 213,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "Du 20",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "GV21": {
+    "indications": "癫痫、头晕、视物模糊、头痛、流涕。",
+    "region": "头部",
+    "referencePage": 214,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "Du 21",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "GV22": {
+    "indications": "头痛、视物模糊、流涕、小儿惊风、抽搐。",
+    "region": "头部",
+    "referencePage": 214,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "Du 22",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "GV23": {
+    "indications": "头痛、眼痛、鼻衄、流涕、神志病。",
+    "region": "头部",
+    "referencePage": 215,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "Du 23",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "GV24": {
+    "indications": "癫痫、心悸、失眠、头痛、眩晕、流涕。",
+    "region": "头部",
+    "referencePage": 215,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "Du 24",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "GV25": {
+    "indications": "昏厥、鼻塞、鼻衄、流涕。",
+    "region": "面部",
+    "referencePage": 216,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "Du 25",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "GV26": {
+    "indications": "昏厥、口眼歪斜、腰脊痛。",
+    "region": "面部",
+    "referencePage": 216,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "Du 26",
+    "curation": "关键词摘编，人工补录条目已单独标识",
+    "manual": true
+  },
+  "GV27": {
+    "indications": "神志病、拘急强直。",
+    "region": "面部",
+    "referencePage": 217,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "Du 27",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "GV28": {
+    "indications": "神志病、流涕。",
+    "region": "面部",
+    "referencePage": 217,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "Du 28",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "CV1": {
+    "indications": "尿潴留、痔疮、遗精、遗尿、月经不调、神志病。",
+    "region": "会阴部",
+    "referencePage": 220,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "RN 1",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "CV2": {
+    "indications": "遗尿、遗精、阳痿、带下病、月经不调、痛经。",
+    "region": "腹部",
+    "referencePage": 220,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "RN 2",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "CV3": {
+    "indications": "遗尿、遗精、阳痿、疝气、崩漏、月经不调。",
+    "region": "腹部",
+    "referencePage": 221,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "RN 3",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "CV4": {
+    "indications": "遗尿、遗精、尿潴留、疝气、月经不调、带下病。",
+    "region": "腹部",
+    "referencePage": 221,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "RN 4",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "CV5": {
+    "indications": "腹痛、泄泻、水肿、疝气、遗尿、闭经。",
+    "region": "腹部",
+    "referencePage": 222,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "RN 5",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "CV6": {
+    "indications": "腹痛、遗尿、遗精、阳痿、疝气、水肿。",
+    "region": "腹部",
+    "referencePage": 222,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "RN 6",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "CV7": {
+    "indications": "腹胀、水肿、疝气、月经不调。",
+    "region": "腹部",
+    "referencePage": 223,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "RN 7",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "CV8": {
+    "indications": "腹痛、肠鸣、中风、脱肛、泄泻。",
+    "region": "腹部",
+    "referencePage": 223,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "RN 8",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "CV9": {
+    "indications": "腹痛、肠鸣、水肿、尿潴留、泄泻。",
+    "region": "腹部",
+    "referencePage": 224,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "RN 9",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "CV10": {
+    "indications": "腹痛、肠鸣、消化不良、呕吐、泄泻。",
+    "region": "腹部",
+    "referencePage": 224,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "RN 10",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "CV11": {
+    "indications": "胃痛、呕吐、腹胀、肠鸣、水肿、食欲不振。",
+    "region": "腹部",
+    "referencePage": 225,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "RN 11",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "CV12": {
+    "indications": "胃痛、腹胀、肠鸣、恶心、呕吐、反酸。",
+    "region": "腹部",
+    "referencePage": 225,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "RN 12",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "CV13": {
+    "indications": "胃痛、腹胀、恶心、呕吐、癫痫、失眠。",
+    "region": "腹部",
+    "referencePage": 226,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "RN 13",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "CV14": {
+    "indications": "恶心、反酸、吞咽困难、呕吐、神志病、癫痫。",
+    "region": "腹部",
+    "referencePage": 226,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "RN 14",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "CV15": {
+    "indications": "恶心、神志病、癫痫。",
+    "region": "腹部",
+    "referencePage": 227,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "RN 15",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "CV16": {
+    "indications": "胸满、呃逆、恶心、食欲不振。",
+    "region": "胸前部",
+    "referencePage": 227,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "RN 16",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "CV17": {
+    "indications": "哮喘、胸痛、胸满、心悸、乳少、呃逆。",
+    "region": "胸前部",
+    "referencePage": 228,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "RN 17",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "CV18": {
+    "indications": "胸痛、咳嗽、哮喘、呕吐。",
+    "region": "胸前部",
+    "referencePage": 228,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "RN 18",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "CV19": {
+    "indications": "胸痛、哮喘、咳嗽。",
+    "region": "胸前部",
+    "referencePage": 229,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "RN 19",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "CV20": {
+    "indications": "胸满、哮喘、咳嗽。",
+    "region": "胸前部",
+    "referencePage": 229,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "RN 20",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "CV21": {
+    "indications": "胸痛、咳嗽、哮喘。",
+    "region": "胸前部",
+    "referencePage": 230,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "RN 21",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "CV22": {
+    "indications": "哮喘、咳嗽、咽喉痛、呃逆、声音嘶哑、吞咽困难。",
+    "region": "颈部",
+    "referencePage": 230,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "RN 22",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "CV23": {
+    "indications": "失语、拘急强直、中风、声音嘶哑、吞咽困难。",
+    "region": "颈部",
+    "referencePage": 231,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "RN 23",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  },
+  "CV24": {
+    "indications": "牙痛、神志病。",
+    "region": "面部",
+    "referencePage": 231,
+    "reference": "WHO 2008；Chinese Acupuncture and Moxibustion, 1999（经 TARA 整理）",
+    "sourceId": "RN 24",
+    "curation": "从来源提取常见主治关键词；非全文翻译",
+    "manual": false
+  }
+}
