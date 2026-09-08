@@ -17,6 +17,8 @@ MakeHuman program code has a separate license. This repository does not bundle t
 
 The UI incorporates generated shadcn/ui component patterns (MIT) and uses React, Three.js, Vinext, pinyin-pro, Lucide and other npm dependencies. Those works retain their own licenses and notices. `package-lock.json` fixes dependency versions and records their declared license identifiers; `docs/DEPENDENCIES.md` lists direct dependencies. Dependency code is installed by `npm ci`; `node_modules` is not republished in this repository. Redistribution of built bundles still requires preserving applicable dependency notices.
 
+The iPhone bundle also uses Base UI (`@base-ui/react`, MIT), Lucide (`lucide-react`, ISC with an additional MIT notice for Feather-derived icons), class-variance-authority (Apache-2.0), clsx (MIT), and tailwind-merge (MIT). Their complete upstream license and copyright notices are included in the app's legal-notices view from the versions pinned by `package-lock.json`.
+
 A copy of the upstream shadcn/ui MIT notice is included under `LICENSES/shadcn-ui-MIT.txt`.
 
 ## Texts, standards and factual data
