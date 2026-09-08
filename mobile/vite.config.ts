@@ -18,7 +18,7 @@ export default defineConfig({
   build: {
     outDir: projectRoot + 'dist-mobile',
     emptyOutDir: true,
-    target: 'safari15',
+    target: 'safari16.4',
     sourcemap: false,
   },
 });
