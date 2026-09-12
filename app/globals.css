@@ -1733,7 +1733,6 @@ footer,
   white-space: pre-wrap;
 }
 .pronunciation-ruby ruby {
-  display: inline-block;
   margin: 0 7px;
   ruby-position: over;
 }
